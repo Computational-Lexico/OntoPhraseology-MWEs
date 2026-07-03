@@ -168,6 +168,6 @@ Please cite the repository in any derivative work.
 
 # Acknowledgements
 
-This work was initiated during a COST Action UniDive Short-Term Scientific Mission (STSM) hosted by the CIRCSE Research Centre, Università Cattolica del Sacro Cuore.
+This work was initiated during a COST Action UniDive (**Chair: Agata Savary**) Short-Term Scientific Mission (STSM) hosted by the CIRCSE Research Centre, Università Cattolica del Sacro Cuore.
 
 The author gratefully acknowledges **Prof. Marco C. Passarotti** and **Dr Francesco Mambrini** for valuable scientific discussions concerning ontology modelling and interoperability with Linguistic Linked Open Data.
