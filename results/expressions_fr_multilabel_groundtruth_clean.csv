@@ -1,0 +1,765 @@
+﻿expression,mot_clef,literal_keyword_category,label_principal,labels_secondaires,label_main,label_final,labels,alimentation,apparence,autre,capacité,cognition,comportement,désir,langage,morale,problème,quantité_valeur,social,temps_espace,émotion,état_physique
+faire la barbe à quelqu'un,barbe,partie du corps,compétition/domination,victoire; pouvoir,compétition,social,"['autre', 'social']",0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+rire dans sa barbe,barbe,partie du corps,moquerie discrète,ironie; dissimulation,moquerie discrète,moquerie discrète,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+avoir la gueule enfarinée,gueule,partie du corps,naïveté/apparence,innocence feinte; surprise,naïveté,naïveté,"['autre', 'émotion']",0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+avoir la gueule de bois,gueule,partie du corps,état physique négatif,fatigue; alcool,état physique négatif,état_physique,"['autre', 'état_physique']",0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+avoir l’eau à la bouche,bouche,partie du corps,désir/envie,gourmandise; anticipation,désir,désir,"['autre', 'désir']",0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
+être né avec une cuillère d’argent dans la bouche,bouche,partie du corps,privilège social,richesse; naissance,privilège social,social,"['autre', 'social']",0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+faire la fine bouche,bouche,partie du corps,attitude difficile,exigence; refus,attitude difficile,attitude difficile,"['autre', 'comportement']",0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+garder bouche cousue,bouche,partie du corps,silence/confidentialité,secret; retenue,silence,langage,"['autre', 'langage']",0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+la bouche en cœur,bouche,partie du corps,attitude affectée,innocence feinte; séduction,attitude affectée,attitude affectée,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+la bouche en cul de poule,bouche,partie du corps,expression faciale,mécontentement; affectation,expression faciale,apparence,"['apparence', 'autre', 'émotion']",0,1,1,0,0,0,0,0,0,0,0,0,0,1,0
+retirer le pain de la bouche à quelqu’un,bouche,partie du corps,privation/injustice,pauvreté; survie,privation,privation,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+à bras ouverts,bras,partie du corps,accueil/chaleur humaine,hospitalité; affection,accueil,social,"['autre', 'social', 'émotion']",0,0,1,0,0,0,0,0,0,0,0,1,0,1,0
+avoir le bras long,bras,partie du corps,pouvoir/influence,réseau; autorité,pouvoir,social,"['autre', 'social']",0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+avoir quelqu’un sur les bras,bras,partie du corps,charge/fardeau,responsabilité; contrainte,charge,charge,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+être dans les bras de Morphée,bras,partie du corps,sommeil/repos,rêve; état mental,sommeil,sommeil,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+être le bras droit de quelqu’un,bras,partie du corps,aide/fonction sociale,loyauté; hiérarchie,aide,aide,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+faire un bras d’honneur,bras,partie du corps,insulte/provocation,vulgarité; agressivité,insulte,langage,"['autre', 'langage']",0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+jouer les gros bras,bras,partie du corps,intimidation/violence,domination; force,intimidation,intimidation,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+les bras m’en tombent,bras,partie du corps,surprise/stupeur,choc; incompréhension,surprise,émotion,"['autre', 'émotion']",0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+se croiser les bras,bras,partie du corps,passivité/inaction,indifférence; refus d’agir,passivité,passivité,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+tenir à bout de bras,bras,partie du corps,effort/soutien,responsabilité; persévérance,effort,comportement,"['autre', 'comportement']",0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+bien en chair,chair,partie du corps,apparence physique,santé; corpulence,apparence physique,apparence,"['apparence', 'autre']",0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+en chair et en os,chair,partie du corps,présence réelle,matérialité; existence,présence réelle,présence réelle,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+arriver comme un cheveu sur la soupe,cheveu,partie du corps,incongruité,maladresse; gêne,incongruité,incongruité,"['autre', 'capacité']",0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+avoir mal aux cheveux,cheveux,partie du corps,état physique négatif,fatigue; alcool,état physique négatif,état_physique,"['autre', 'état_physique']",0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+avoir les cheveux en bataille,cheveux,partie du corps,apparence négligée,désordre; fatigue,apparence négligée,apparence,"['apparence', 'autre', 'état_physique']",0,1,1,0,0,0,0,0,0,0,0,0,0,0,1
+avoir un cheveu sur la langue,cheveu,partie du corps,difficulté d’élocution,prononciation; parole,difficulté d’élocution,capacité,"['autre', 'capacité', 'langage']",0,0,1,1,0,0,0,1,0,0,0,0,0,0,0
+couper les cheveux en quatre,cheveux,partie du corps,excès de précision,complication; perfectionnisme,excès de précision,excès de précision,"['autre', 'problème']",0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+être à un cheveu de,cheveu,partie du corps,proximité imminente,risque; limite,proximité imminente,proximité imminente,"['autre', 'problème']",0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+ne tenir qu’à un cheveu,cheveu,partie du corps,précarité,instabilité; fragilité,précarité,précarité,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+s’arracher les cheveux,cheveux,partie du corps,stress/désespoir,inquiétude; frustration,stress,émotion,['émotion'],0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+saisir l’occasion par les cheveux,cheveux,partie du corps,opportunité/action,réactivité; décision,opportunité,opportunité,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+se crêper le chignon,chignon,partie du corps,conflit/dispute,tension; agressivité,conflit,social,"['autre', 'social']",0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+se faire des cheveux blancs,cheveux,partie du corps,inquiétude/stress,anxiété; préoccupation,inquiétude,émotion,"['autre', 'émotion']",0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+tirer par les cheveux,cheveux,partie du corps,invraisemblance,exagération; artificialité,invraisemblance,invraisemblance,"['autre', 'quantité_valeur']",0,0,1,0,0,0,0,0,0,0,1,0,0,0,0
+avoir l’âme chevillée au corps,cheville,partie du corps,instinct de survie,résistance; courage,instinct de survie,instinct de survie,"['autre', 'comportement', 'morale']",0,0,1,0,0,1,0,0,1,0,0,0,0,0,0
+avoir les chevilles qui enflent,chevilles,partie du corps,orgueil/prétention,vanité; arrogance,orgueil,morale,"['autre', 'morale']",0,0,1,0,0,0,0,0,1,0,0,0,0,0,0
+être la cheville ouvrière,cheville,partie du corps,rôle essentiel,responsabilité; organisation,rôle essentiel,rôle essentiel,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+être en cheville avec quelqu’un,cheville,partie du corps,alliance/complicité,collaboration; entente,alliance,social,"['autre', 'social']",0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+ne pas remuer un cil,cil,partie du corps,impassibilité,calme; maîtrise de soi,impassibilité,impassibilité,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+rire à s’en tenir les côtes,côtes,partie du corps,rire intense,joie; amusement,rire intense,rire intense,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+laisser la bride sur le cou de quelqu’un,cou,partie du corps,liberté/autonomie,confiance; absence de contrôle,liberté,liberté,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+sauter au cou de quelqu’un,cou,partie du corps,affection,accueil; émotion,affection,émotion,"['social', 'émotion']",0,0,0,0,0,0,0,0,0,0,0,1,0,1,0
+se jeter au cou,cou,partie du corps,affection/réconciliation,émotion; enthousiasme,affection,émotion,['émotion'],0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+se mettre la corde au cou,cou,partie du corps,engagement contraignant,mariage; piège,engagement contraignant,comportement,"['autre', 'comportement', 'social']",0,0,1,0,0,1,0,0,0,0,0,1,0,0,0
+tordre le cou à une idée,cou,partie du corps,réfutation,destruction; critique,réfutation,langage,"['autre', 'langage']",0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+avoir des couilles au cul,couilles,partie du corps,courage,audace; virilité,courage,morale,"['autre', 'morale']",0,0,1,0,0,0,0,0,1,0,0,0,0,0,0
+casser les couilles à quelqu’un,couilles,partie du corps,agacement,importunité; irritation,agacement,émotion,"['autre', 'émotion']",0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+partir en couilles,couilles,partie du corps,dégradation,désordre; échec,dégradation,problème,"['autre', 'problème']",0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+se faire des couilles en or,couilles,partie du corps,enrichissement,argent; profit,enrichissement,quantité_valeur,"['autre', 'quantité_valeur']",0,0,1,0,0,0,0,0,0,0,1,0,0,0,0
+être au coude à coude,coude,partie du corps,compétition équilibrée,égalité; rivalité,compétition équilibrée,social,"['autre', 'social']",0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+garder sous le coude,coude,partie du corps,réserve,prudence; anticipation,réserve,réserve,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+huile de coude,coude,partie du corps,travail/effort,persévérance; énergie,travail,comportement,"['autre', 'comportement']",0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+jouer des coudes,coudes,partie du corps,compétition/agressivité,passage; domination,compétition,social,"['autre', 'social']",0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+lever le coude,coude,partie du corps,consommation d’alcool,ivresse; habitude,consommation d’alcool,alimentation,"['alimentation', 'autre']",1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+se tenir les coudes,coudes,partie du corps,solidarité,soutien; entraide,solidarité,social,"['autre', 'social']",0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+aller droit au cœur,cœur,partie du corps,émotion sincère,sensibilité; affection,émotion sincère,émotion,"['autre', 'émotion']",0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+arracher le cœur,cœur,partie du corps,douleur émotionnelle,tristesse; souffrance,douleur émotionnelle,émotion,"['autre', 'émotion']",0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+avoir bon cœur,cœur,partie du corps,générosité,bonté; compassion,générosité,morale,"['autre', 'morale']",0,0,1,0,0,0,0,0,1,0,0,0,0,0,0
+avoir du cœur,cœur,partie du corps,courage,générosité; énergie,courage,morale,"['autre', 'morale']",0,0,1,0,0,0,0,0,1,0,0,0,0,0,0
+avoir le cœur barbouillé,cœur,partie du corps,malaise,nausée; dégoût,malaise,état_physique,"['émotion', 'état_physique']",0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+avoir le cœur au bord des lèvres,cœur,partie du corps,nausée,malaise; dégoût,nausée,état_physique,"['émotion', 'état_physique']",0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+avoir du cœur à l’ouvrage,cœur,partie du corps,application/motivation,travail; implication,application,comportement,"['autre', 'comportement']",0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+avoir une pierre à la place du cœur,cœur,partie du corps,insensibilité,cruauté; froideur,insensibilité,insensibilité,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+avoir le cœur bien accroché,cœur,partie du corps,résistance émotionnelle,courage; sang-froid,résistance émotionnelle,émotion,"['autre', 'morale', 'émotion']",0,0,1,0,0,0,0,0,1,0,0,0,0,1,0
+avoir le cœur gros,cœur,partie du corps,tristesse,chagrin; émotion,tristesse,émotion,"['autre', 'émotion']",0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+avoir le cœur sur la main,cœur,partie du corps,générosité,altruisme; bonté,générosité,morale,"['autre', 'morale']",0,0,1,0,0,0,0,0,1,0,0,0,0,0,0
+avoir mal au cœur,cœur,partie du corps,malaise physique,nausée; dégoût,malaise physique,état_physique,"['émotion', 'état_physique']",0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+prendre quelque chose à cœur,cœur,partie du corps,implication émotionnelle,sérieux; responsabilité,implication émotionnelle,émotion,"['autre', 'émotion']",0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+avoir quelque chose sur le cœur,cœur,partie du corps,ressentiment,confession; émotion,ressentiment,émotion,"['langage', 'émotion']",0,0,0,0,0,0,0,1,0,0,0,0,0,1,0
+connaître par cœur,cœur,partie du corps,mémoire,apprentissage; maîtrise,mémoire,cognition,"['autre', 'capacité', 'cognition']",0,0,1,1,1,0,0,0,0,0,0,0,0,0,0
+de bon cœur,cœur,partie du corps,bonne volonté,générosité; sincérité,bonne volonté,morale,['morale'],0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+donner du cœur au ventre,cœur,partie du corps,encouragement,courage; motivation,encouragement,encouragement,"['autre', 'morale']",0,0,1,0,0,0,0,0,1,0,0,0,0,0,0
+en avoir gros sur le cœur,cœur,partie du corps,tristesse/ressentiment,chagrin; émotion,tristesse,émotion,"['autre', 'émotion']",0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+en avoir le cœur net,cœur,partie du corps,certitude,vérification; clarification,certitude,cognition,"['autre', 'cognition']",0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+enfoncer un couteau dans le cœur,cœur,partie du corps,souffrance émotionnelle,trahison; douleur,souffrance émotionnelle,émotion,"['autre', 'morale', 'émotion']",0,0,1,0,0,0,0,0,1,0,0,0,0,1,0
+être de tout cœur avec quelqu’un,cœur,partie du corps,soutien,solidarité; empathie,soutien,social,"['autre', 'social']",0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+être joli comme un cœur,cœur,partie du corps,beauté,charme; innocence,beauté,apparence,"['apparence', 'autre']",0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+faire battre le cœur,cœur,partie du corps,émotion/amour,excitation; passion,émotion,émotion,"['autre', 'émotion']",0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+faire chaud au cœur,cœur,partie du corps,réconfort,joie; émotion positive,réconfort,réconfort,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+faire contre mauvaise fortune bon cœur,cœur,partie du corps,résignation positive,courage; adaptation,résignation positive,résignation positive,"['autre', 'morale']",0,0,1,0,0,0,0,0,1,0,0,0,0,0,0
+faire le joli cœur,cœur,partie du corps,séduction,coquetterie; affectation,séduction,séduction,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+le cri du cœur,cœur,partie du corps,sincérité,émotion; spontanéité,sincérité,morale,"['autre', 'morale', 'émotion']",0,0,1,0,0,0,0,0,1,0,0,0,0,1,0
+lever le cœur,cœur,partie du corps,dégoût,nausée; rejet,dégoût,émotion,"['autre', 'émotion', 'état_physique']",0,0,1,0,0,0,0,0,0,0,0,0,0,1,1
+ne pas avoir le cœur de faire quelque chose,cœur,partie du corps,hésitation émotionnelle,compassion; tristesse,hésitation émotionnelle,émotion,"['autre', 'émotion']",0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+ne pas porter quelqu’un dans son cœur,cœur,partie du corps,antipathie,rejet; hostilité,antipathie,antipathie,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+offrir son cœur,cœur,partie du corps,amour,attachement; affection,amour,émotion,"['autre', 'émotion']",0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+ouvrir son cœur,cœur,partie du corps,confession,sincérité; intimité,confession,langage,"['autre', 'langage', 'morale']",0,0,1,0,0,0,0,1,1,0,0,0,0,0,0
+réchauffer le cœur de quelqu’un,cœur,partie du corps,réconfort,affection; bienveillance,réconfort,réconfort,"['autre', 'émotion']",0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+retourner le cœur,cœur,partie du corps,dégoût,malaise; horreur,dégoût,émotion,"['autre', 'émotion', 'état_physique']",0,0,1,0,0,0,0,0,0,0,0,0,0,1,1
+s’en donner à cœur joie,cœur,partie du corps,plaisir,liberté; enthousiasme,plaisir,émotion,"['autre', 'émotion']",0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+serrer le cœur,cœur,partie du corps,tristesse,angoisse; émotion,tristesse,émotion,"['autre', 'émotion']",0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+si le cœur vous en dit,cœur,partie du corps,envie,désir; choix,envie,désir,"['autre', 'désir']",0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
+un bourreau des cœurs,cœur,partie du corps,séduction,conquête amoureuse; charme,séduction,séduction,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+un cœur de pierre,cœur,partie du corps,insensibilité,froideur; cruauté,insensibilité,insensibilité,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+un cœur d’or,cœur,partie du corps,générosité,bonté; altruisme,générosité,morale,"['autre', 'morale']",0,0,1,0,0,0,0,0,1,0,0,0,0,0,0
+un homme de cœur,cœur,partie du corps,valeur morale,générosité; honnêteté,valeur morale,morale,"['autre', 'morale']",0,0,1,0,0,0,0,0,1,0,0,0,0,0,0
+un coup de cœur,cœur,partie du corps,attachement soudain,préférence; émotion,attachement soudain,émotion,"['désir', 'émotion']",0,0,0,0,0,0,1,0,0,0,0,0,0,1,0
+une peine de cœur,cœur,partie du corps,souffrance amoureuse,tristesse; rupture,souffrance amoureuse,émotion,"['autre', 'émotion']",0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+y aller de bon cœur,cœur,partie du corps,enthousiasme,bonne volonté; énergie,enthousiasme,émotion,"['autre', 'morale', 'émotion']",0,0,1,0,0,0,0,0,1,0,0,0,0,1,0
+avoir le diable au corps,corps,partie du corps,agitation/énergie,désir; nervosité,agitation,agitation,"['autre', 'désir']",0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
+corps et âme,corps,partie du corps,engagement total,dévouement; sincérité,engagement total,comportement,"['autre', 'comportement', 'morale']",0,0,1,0,0,1,0,0,1,0,0,0,0,0,0
+couler corps et biens,corps,partie du corps,perte totale,destruction; disparition,perte totale,problème,"['autre', 'problème']",0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+pleurer toutes les larmes de son corps,corps,partie du corps,tristesse intense,désespoir; souffrance,tristesse intense,émotion,"['autre', 'émotion']",0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+travailler quelqu’un au corps,corps,partie du corps,persuasion/influence,pression; manipulation,persuasion,langage,"['autre', 'langage']",0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+avoir la cuisse légère,cuisse,partie du corps,comportement sexuel,légèreté; séduction,comportement sexuel,comportement sexuel,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+se croire sorti de la cuisse de Jupiter,cuisse,partie du corps,orgueil/prétention,supériorité; arrogance,orgueil,morale,"['autre', 'morale']",0,0,1,0,0,0,0,0,1,0,0,0,0,0,0
+avoir la dalle,dalle,partie du corps,faim,besoin physique; désir,faim,état_physique,"['autre', 'désir', 'état_physique']",0,0,1,0,0,0,1,0,0,0,0,0,0,0,1
+crever la dalle,dalle,partie du corps,faim extrême,misère; besoin,faim extrême,état_physique,"['autre', 'état_physique']",0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+se rincer la dalle,dalle,partie du corps,consommation de boisson,plaisir; alcool,consommation de boisson,alimentation,"['alimentation', 'autre', 'émotion']",1,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+avoir la dalle en pente,dalle,partie du corps,consommation excessive,alcool; gourmandise,consommation excessive,alimentation,"['alimentation', 'autre', 'désir']",1,0,1,0,0,0,1,0,0,0,0,0,0,0,0
+avoir les crocs,dents,partie du corps,faim,appétit; désir,faim,état_physique,"['autre', 'désir', 'état_physique']",0,0,1,0,0,0,1,0,0,0,0,0,0,0,1
+avoir une dent contre quelqu’un,dent,partie du corps,rancune,hostilité; ressentiment,rancune,émotion,"['autre', 'émotion']",0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+avoir la dent dure,dent,partie du corps,critique sévère,agressivité; dureté,critique sévère,critique sévère,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+avoir les dents du bonheur,dents,partie du corps,apparence physique,charme; singularité,apparence physique,apparence,"['apparence', 'autre']",0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+avoir les dents longues,dents,partie du corps,ambition,convoitise; réussite,ambition,désir,"['autre', 'désir']",0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
+avoir quelque chose à se mettre sous la dent,dent,partie du corps,nourriture,satisfaction minimale; besoin,nourriture,alimentation,"['alimentation', 'autre']",1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+claquer des dents,dents,partie du corps,froid/peur,tremblement; réaction physique,froid,état_physique,"['autre', 'état_physique']",0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+creuser sa tombe avec ses dents,dents,partie du corps,autodestruction,excès; alimentation,autodestruction,autodestruction,"['alimentation', 'autre', 'quantité_valeur']",1,0,1,0,0,0,0,0,0,0,1,0,0,0,0
+croquer à belles dents,dents,partie du corps,plaisir,appétit; gourmandise,plaisir,émotion,"['autre', 'désir', 'émotion']",0,0,1,0,0,0,1,0,0,0,0,0,0,1,0
+dévorer la vie à belles dents,dents,partie du corps,joie de vivre,enthousiasme; intensité,joie de vivre,émotion,"['autre', 'émotion']",0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+déchirer quelqu’un à belles dents,dents,partie du corps,attaque verbale,médisance; agressivité,attaque verbale,langage,"['autre', 'langage']",0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+être armé jusqu’aux dents,dents,partie du corps,préparation intensive,force; défense,préparation intensive,comportement,"['autre', 'comportement']",0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+grincer des dents,dents,partie du corps,colère/frustration,mécontentement; tension,colère,émotion,"['autre', 'émotion']",0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+mentir comme un arracheur de dents,dents,partie du corps,mensonge,tromperie; exagération,mensonge,mensonge,"['autre', 'quantité_valeur']",0,0,1,0,0,0,0,0,0,0,1,0,0,0,0
+montrer les dents,dents,partie du corps,menace/agressivité,défense; intimidation,menace,problème,"['autre', 'problème']",0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+ne pas desserrer les dents,dents,partie du corps,silence,rétention; refus de parler,silence,langage,"['autre', 'langage']",0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+prendre la lune avec les dents,dents,partie du corps,illusion irréaliste,ambition impossible; naïveté,illusion irréaliste,cognition,"['autre', 'cognition']",0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+prendre le mors aux dents,dents,partie du corps,perte de contrôle,impulsivité; révolte,perte de contrôle,perte de contrôle,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+se casser les dents sur quelque chose,dents,partie du corps,échec,difficulté; obstacle,échec,problème,['problème'],0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+serrer les dents,dents,partie du corps,endurance,résistance; courage,endurance,capacité,"['capacité', 'comportement', 'morale']",0,0,0,1,0,1,0,0,1,0,0,0,0,0,0
+avoir des doigts de fée,doigts,partie du corps,habileté,dextérité; talent,habileté,capacité,"['autre', 'capacité']",0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+à se lécher les doigts,doigts,partie du corps,plaisir gustatif,gourmandise; satisfaction,plaisir gustatif,alimentation,"['alimentation', 'désir', 'émotion']",1,0,0,0,0,0,1,0,0,0,0,0,0,1,0
+connaître sur le bout des doigts,doigts,partie du corps,connaissance parfaite,mémoire; maîtrise,connaissance parfaite,cognition,"['capacité', 'cognition']",0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+croiser les doigts,doigts,partie du corps,espoir/souhait,chance; attente,espoir,émotion,"['autre', 'émotion']",0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+être à deux doigts de,doigts,partie du corps,proximité imminente,risque; limite,proximité imminente,proximité imminente,"['autre', 'problème']",0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+il s’en est fallu d’un doigt,doigt,partie du corps,quasi-échec,proximité; hasard,quasi-échec,quasi-échec,"['autre', 'temps_espace']",0,0,1,0,0,0,0,0,0,0,0,0,1,0,0
+les doigts dans le nez,doigts,partie du corps,facilité,aisance; simplicité,facilité,facilité,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+mettre le doigt dans l’engrenage,doigt,partie du corps,engagement dangereux,piège; dépendance,engagement dangereux,comportement,"['autre', 'comportement']",0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+mettre le doigt entre l’arbre et l’écorce,doigt,partie du corps,ingérence,conflit; imprudence,ingérence,ingérence,"['autre', 'social']",0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+mettre le doigt sur la plaie,doigt,partie du corps,sujet sensible,douleur; vérité,sujet sensible,sujet sensible,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+mettre le doigt sur quelque chose,doigt,partie du corps,découverte,compréhension; intuition,découverte,découverte,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+mon petit doigt m’a dit,doigt,partie du corps,source secrète,rumeur; information,source secrète,source secrète,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+ne pas lever le petit doigt,doigt,partie du corps,passivité,paresse; refus d’aider,passivité,passivité,"['autre', 'comportement']",0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+ne rien savoir faire de ses dix doigts,doigts,partie du corps,incompétence,incapacité; maladresse,incompétence,capacité,"['autre', 'capacité']",0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+obéir au doigt et à l’œil,doigt,partie du corps,obéissance,docilité; discipline,obéissance,obéissance,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+passer la bague au doigt,doigt,partie du corps,mariage,union; engagement,mariage,social,"['autre', 'social']",0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+s’en mordre les doigts,doigts,partie du corps,regret,remords; frustration,regret,regret,"['autre', 'émotion']",0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+se faire montrer du doigt,doigt,partie du corps,stigmatisation,critique sociale; honte,stigmatisation,social,"['autre', 'social', 'émotion']",0,0,1,0,0,0,0,0,0,0,0,1,0,1,0
+se faire taper sur les doigts,doigts,partie du corps,réprimande,punition; avertissement,réprimande,langage,"['autre', 'langage']",0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+se mettre le doigt dans l’œil,doigt,partie du corps,erreur de jugement,illusion; méprise,erreur de jugement,cognition,"['autre', 'cognition']",0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+avoir bon dos,dos,partie du corps,responsabilité injuste,accusation; exploitation,responsabilité injuste,responsabilité injuste,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+avoir le dos large,dos,partie du corps,tolérance/support,blâme; responsabilité,tolérance,tolérance,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+casser du sucre sur le dos de quelqu’un,dos,partie du corps,médisance,critique; moquerie,médisance,langage,"['autre', 'langage']",0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+derrière le dos de quelqu’un,dos,partie du corps,dissimulation,trahison; secret,dissimulation,dissimulation,"['autre', 'morale']",0,0,1,0,0,0,0,0,1,0,0,0,0,0,0
+en avoir plein le dos,dos,partie du corps,ras-le-bol,fatigue; exaspération,ras-le-bol,ras-le-bol,"['autre', 'émotion', 'état_physique']",0,0,1,0,0,0,0,0,0,0,0,0,0,1,1
+être le dos au mur,dos,partie du corps,situation critique,blocage; urgence,situation critique,problème,"['autre', 'problème']",0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+être sur le dos de quelqu’un,dos,partie du corps,surveillance/pression,contrôle; domination,surveillance,surveillance,"['autre', 'social']",0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+faire froid dans le dos,dos,partie du corps,peur/angoisse,frisson; inquiétude,peur,émotion,"['autre', 'émotion']",0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+faire la bête à deux dos,dos,partie du corps,relation sexuelle,intimité; sensualité,relation sexuelle,relation sexuelle,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+faire le dos rond,dos,partie du corps,résignation,prudence; patience,résignation,résignation,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+faire le gros dos,dos,partie du corps,résistance prudente,patience; défense,résistance prudente,résistance prudente,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+faire un enfant dans le dos de quelqu’un,dos,partie du corps,trahison,tromperie; manipulation,trahison,morale,"['autre', 'morale']",0,0,1,0,0,0,0,0,1,0,0,0,0,0,0
+mettre quelque chose sur le dos de quelqu’un,dos,partie du corps,accusation,responsabilité; injustice,accusation,accusation,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+renvoyer dos à dos,dos,partie du corps,neutralité,conflit; égalité,neutralité,neutralité,"['autre', 'social']",0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+se laisser tondre la laine sur le dos,dos,partie du corps,exploitation,passivité; naïveté,exploitation,exploitation,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+se mettre quelqu’un à dos,dos,partie du corps,hostilité,conflit; opposition,hostilité,hostilité,"['autre', 'social']",0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+tourner le dos à quelqu’un,dos,partie du corps,rejet,rupture; indifférence,rejet,rejet,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+courber l’échine,échine,partie du corps,soumission,obéissance; humiliation,soumission,social,"['autre', 'social']",0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+avoir l’échine basse,échine,partie du corps,soumission,honte; faiblesse,soumission,social,"['autre', 'social', 'émotion']",0,0,1,0,0,0,0,0,0,0,0,1,0,1,0
+avoir les épaules larges,épaules,partie du corps,capacité/responsabilité,force; endurance,capacité,capacité,"['autre', 'capacité']",0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+avoir les épaules solides,épaules,partie du corps,résistance,fiabilité; force,résistance,comportement,"['autre', 'comportement']",0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+avoir l’estomac dans les talons,estomac,partie du corps,faim,besoin physique; faiblesse,faim,état_physique,"['autre', 'état_physique']",0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+avoir un creux à l’estomac,estomac,partie du corps,faim,sensation physique; besoin,faim,état_physique,"['autre', 'état_physique']",0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+avoir un estomac d’autruche,estomac,partie du corps,résistance digestive,tolérance; robustesse,résistance digestive,résistance digestive,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+avoir l’estomac bien accroché,estomac,partie du corps,résistance émotionnelle,sang-froid; courage,résistance émotionnelle,émotion,"['autre', 'morale', 'émotion']",0,0,1,0,0,0,0,0,1,0,0,0,0,1,0
+le faire à l’estomac,estomac,partie du corps,contrainte,pression; intimidation,contrainte,contrainte,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+rester sur l’estomac,estomac,partie du corps,malaise émotionnel,frustration; rancune,malaise émotionnel,malaise émotionnel,"['autre', 'émotion']",0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+à visage découvert,visage,partie du corps,franchise,transparence; honnêteté,franchise,langage,"['autre', 'langage']",0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+avoir une mine de papier mâché,mine,partie du corps,mauvaise apparence,fatigue; pâleur,mauvaise apparence,apparence,"['apparence', 'autre', 'état_physique']",0,1,1,0,0,0,0,0,0,0,0,0,0,0,1
+se caler les joues,joues,partie du corps,alimentation,gourmandise; satiété,alimentation,alimentation,"['alimentation', 'autre', 'désir']",1,0,1,0,0,0,1,0,0,0,0,0,0,0,0
+se voiler la face,face,partie du corps,déni,refus de voir la réalité; illusion,déni,déni,"['autre', 'cognition']",0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+une face de carême,face,partie du corps,tristesse,mine sévère; austérité,tristesse,émotion,"['autre', 'émotion']",0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+une mine de déterré,mine,partie du corps,mauvaise apparence,épuisement; pâleur,mauvaise apparence,apparence,"['apparence', 'autre', 'état_physique']",0,1,1,0,0,0,0,0,0,0,0,0,0,0,1
+un visage en lame de couteau,visage,partie du corps,apparence maigre,sévérité; fatigue,apparence maigre,apparence,"['apparence', 'autre', 'état_physique']",0,1,1,0,0,0,0,0,0,0,0,0,0,0,1
+avoir du cul,cul,partie du corps,chance,réussite; hasard,chance,chance,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+en avoir plein le cul,cul,partie du corps,ras-le-bol,exaspération; fatigue,ras-le-bol,ras-le-bol,"['autre', 'émotion', 'état_physique']",0,0,1,0,0,0,0,0,0,0,0,0,0,1,1
+faire cul sec,cul,partie du corps,consommation rapide,alcool; défi,consommation rapide,alimentation,"['alimentation', 'autre']",1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+l’avoir dans le cul,cul,partie du corps,échec/tromperie,frustration; perte,échec,problème,"['problème', 'émotion']",0,0,0,0,0,0,0,0,0,1,0,0,0,1,0
+lécher le cul,cul,partie du corps,servilité,flatterie; hypocrisie,servilité,social,"['autre', 'morale', 'social']",0,0,1,0,0,0,0,0,1,0,0,1,0,0,0
+péter plus haut que son cul,cul,partie du corps,prétention,arrogance; vanité,prétention,prétention,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+poser ses fesses,fesses,partie du corps,repos,inactivité; installation,repos,repos,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+se casser le cul,cul,partie du corps,effort intense,travail; fatigue,effort intense,comportement,"['comportement', 'état_physique']",0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+se geler les fesses,fesses,partie du corps,froid,inconfort; souffrance,froid,état_physique,"['autre', 'état_physique']",0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+s’occuper de son cul,cul,partie du corps,indépendance,indifférence; individualisme,indépendance,indépendance,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+serrer les fesses,fesses,partie du corps,peur/tension,stress; inquiétude,peur,émotion,['émotion'],0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+se taper le cul par terre,cul,partie du corps,rire intense,moquerie; amusement,rire intense,rire intense,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+tomber sur le cul,cul,partie du corps,surprise,stupeur; choc,surprise,émotion,"['autre', 'émotion']",0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+un faux cul,cul,partie du corps,hypocrisie,fausseté; duplicité,hypocrisie,morale,"['autre', 'morale']",0,0,1,0,0,0,0,0,1,0,0,0,0,0,0
+être sur le flanc,flanc,partie du corps,fatigue/maladie,affaiblissement; repos,fatigue,état_physique,"['autre', 'état_physique']",0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+tirer au flanc,flanc,partie du corps,paresse,évitement; inactivité,paresse,comportement,"['autre', 'comportement']",0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+gagner son pain à la sueur de son front,front,partie du corps,travail/effort,honnêteté; persévérance,travail,comportement,"['autre', 'comportement']",0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+avoir les foies,foie,partie du corps,peur,anxiété; inquiétude,peur,émotion,['émotion'],0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+être sur les genoux,genoux,partie du corps,épuisement,fatigue; faiblesse,épuisement,état_physique,"['autre', 'état_physique']",0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+faire du genou,genou,partie du corps,séduction,contact physique; flirt,séduction,séduction,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+mettre le couteau sous la gorge,gorge,partie du corps,menace/contrainte,intimidation; pression,menace,problème,"['autre', 'problème']",0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+rester en travers de la gorge,gorge,partie du corps,ressentiment,frustration; colère,ressentiment,émotion,['émotion'],0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+rire à gorge déployée,gorge,partie du corps,rire intense,joie; amusement,rire intense,rire intense,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+à toutes jambes,jambes,partie du corps,vitesse/fuite,course; urgence,vitesse,temps_espace,"['autre', 'temps_espace']",0,0,1,0,0,0,0,0,0,0,0,0,1,0,0
+avoir les jambes en marmelade,jambes,partie du corps,fatigue physique,épuisement; faiblesse,fatigue physique,état_physique,"['autre', 'état_physique']",0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+ça fait une belle jambe,jambe,partie du corps,ironie,inutilité; indifférence,ironie,ironie,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+faire des ronds de jambe,jambe,partie du corps,servilité,politesse excessive; flatterie,servilité,social,"['autre', 'social']",0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+faire quelque chose par-dessus la jambe,jambe,partie du corps,négligence,superficialité; manque de soin,négligence,comportement,"['autre', 'comportement']",0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+prendre ses jambes à son cou,jambes,partie du corps,fuite,peur; rapidité,fuite,comportement,"['comportement', 'temps_espace', 'émotion']",0,0,0,0,0,1,0,0,0,0,0,0,1,1,0
+tenir la jambe à quelqu’un,jambe,partie du corps,importunité,conversation excessive; ennui,importunité,importunité,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+tirer dans les jambes,jambes,partie du corps,entrave,hostilité; sabotage,entrave,entrave,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+un pansement sur une jambe de bois,jambe,partie du corps,solution inefficace,inutilité; insuffisance,solution inefficace,solution inefficace,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+une partie de jambes en l’air,jambes,partie du corps,relation sexuelle,plaisir; intimité,relation sexuelle,relation sexuelle,"['autre', 'émotion']",0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+avoir la langue bien pendue,langue,partie du corps,bavardage,aisance verbale; parole,bavardage,langage,"['autre', 'langage']",0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+avoir un mot sur le bout de la langue,langue,partie du corps,mémoire,inaccessibilité momentanée; oubli,mémoire,cognition,"['autre', 'cognition']",0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+être mauvaise langue,langue,partie du corps,médisance,critique; malveillance,médisance,langage,"['autre', 'langage']",0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+manier la langue de bois,langue,partie du corps,discours stéréotypé,politique; évitement,discours stéréotypé,langage,"['autre', 'langage']",0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+ne pas avoir la langue dans sa poche,langue,partie du corps,franchise,bavardage; spontanéité,franchise,langage,"['autre', 'langage']",0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+se mordre la langue,langue,partie du corps,retenue,autocensure; hésitation,retenue,retenue,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+tenir sa langue,langue,partie du corps,silence,confidentialité; discrétion,silence,langage,"['autre', 'langage']",0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+du bout des lèvres,lèvres,partie du corps,réticence,faible engagement; hésitation,réticence,réticence,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+se lécher les babines,babines,partie du corps,gourmandise,plaisir; anticipation,gourmandise,désir,"['autre', 'désir', 'émotion']",0,0,1,0,0,0,1,0,0,0,0,0,0,1,0
+avoir deux mains gauches,mains,partie du corps,maladresse,incompétence; maladresse manuelle,maladresse,capacité,"['autre', 'capacité']",0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+avoir la main,main,partie du corps,contrôle/avantage,habitude; supériorité,contrôle,social,"['autre', 'social']",0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+avoir la main lourde,main,partie du corps,excès,brutalité; abus,excès,quantité_valeur,"['autre', 'quantité_valeur']",0,0,1,0,0,0,0,0,0,0,1,0,0,0,0
+avoir les mains baladeuses,mains,partie du corps,comportement déplacé,séduction; attouchement,comportement déplacé,comportement déplacé,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+avoir les mains liées,mains,partie du corps,impuissance,contrainte; impossibilité,impuissance,impuissance,"['autre', 'problème']",0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+avoir perdu la main,main,partie du corps,perte d’habileté,oubli; manque de pratique,perte d’habileté,capacité,"['autre', 'capacité', 'cognition']",0,0,1,1,1,0,0,0,0,0,0,0,0,0,0
+avoir quelque chose en main,main,partie du corps,contrôle,possession; préparation,contrôle,social,"['autre', 'comportement', 'social']",0,0,1,0,0,1,0,0,0,0,0,1,0,0,0
+avoir un poil dans la main,main,partie du corps,paresse,inactivité; négligence,paresse,comportement,"['autre', 'comportement']",0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+de main de maître,main,partie du corps,maîtrise,perfection; expertise,maîtrise,capacité,"['autre', 'capacité']",0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+demander la main de,main,partie du corps,mariage,union; engagement,mariage,social,"['autre', 'social']",0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+de première main,main,partie du corps,source directe,authenticité; fiabilité,source directe,source directe,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+donner un coup de main,main,partie du corps,aide,soutien; coopération,aide,aide,"['autre', 'social']",0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+en mettre sa main à couper,main,partie du corps,certitude,confiance; conviction,certitude,cognition,"['autre', 'cognition']",0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+en venir aux mains,mains,partie du corps,conflit physique,violence; dispute,conflit physique,conflit physique,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+entre bonnes mains,mains,partie du corps,sécurité,confiance; protection,sécurité,sécurité,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+en un tour de main,main,partie du corps,rapidité,facilité; efficacité,rapidité,temps_espace,"['autre', 'temps_espace']",0,0,1,0,0,0,0,0,0,0,0,0,1,0,0
+être comme les doigts de la main,doigts,partie du corps,proximité,amitié; solidarité,proximité,temps_espace,"['social', 'temps_espace']",0,0,0,0,0,0,0,0,0,0,0,1,1,0,0
+être entre de bonnes mains,mains,partie du corps,sécurité,confiance; protection,sécurité,sécurité,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+faire des pieds et des mains,mains,partie du corps,effort intense,persévérance; énergie,effort intense,comportement,"['autre', 'comportement']",0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+forcer la main à quelqu’un,main,partie du corps,contrainte,pression; obligation,contrainte,contrainte,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+haut la main,main,partie du corps,succès facile,victoire; supériorité,succès facile,succès facile,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+mettre la main à la pâte,main,partie du corps,participation,travail; implication,participation,comportement,"['autre', 'comportement']",0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+mettre sa main au feu,main,partie du corps,certitude,confiance; garantie,certitude,cognition,"['autre', 'cognition']",0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+mettre la main au collet de quelqu’un,main,partie du corps,arrestation,contrôle; capture,arrestation,arrestation,"['autre', 'social']",0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+ne pas y aller de main morte,main,partie du corps,excès,violence; brutalité,excès,quantité_valeur,"['autre', 'quantité_valeur']",0,0,1,0,0,0,0,0,0,0,1,0,0,0,0
+passer la main à quelqu’un,main,partie du corps,transmission,relève; délégation,transmission,transmission,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+passer la main dans le dos de quelqu’un,main,partie du corps,affection,soutien; proximité,affection,émotion,"['social', 'temps_espace', 'émotion']",0,0,0,0,0,0,0,0,0,0,0,1,1,1,0
+pouvoir se compter sur les doigts d’une main,doigts,partie du corps,rareté,petit nombre; exception,rareté,rareté,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+préférer se couper la main plutôt que de,main,partie du corps,refus absolu,honneur; conviction,refus absolu,comportement,"['autre', 'comportement']",0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+prendre en main quelque chose,main,partie du corps,prise de contrôle,responsabilité; organisation,prise de contrôle,social,"['autre', 'social']",0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+prendre quelqu’un la main dans le sac,main,partie du corps,flagrant délit,découverte; faute,flagrant délit,flagrant délit,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+prendre son courage à deux mains,mains,partie du corps,courage,détermination; effort,courage,morale,"['autre', 'comportement', 'morale']",0,0,1,0,0,1,0,0,1,0,0,0,0,0,0
+prêter main-forte,main,partie du corps,aide,soutien; assistance,aide,aide,"['autre', 'social']",0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+s’en laver les mains,mains,partie du corps,désengagement,indifférence; irresponsabilité,désengagement,désengagement,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+se faire la main,main,partie du corps,apprentissage,expérience; entraînement,apprentissage,apprentissage,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+se frotter les mains,mains,partie du corps,satisfaction,anticipation; plaisir,satisfaction,émotion,"['autre', 'émotion']",0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+venir les mains dans les poches,mains,partie du corps,absence de préparation,négligence; désinvolture,absence de préparation,absence de préparation,"['autre', 'comportement']",0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+avoir le menton en galoche,menton,partie du corps,apparence physique,forme du visage; particularité,apparence physique,apparence,"['apparence', 'autre']",0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+avoir les nerfs en pelote,nerfs,partie du corps,stress/confusion,fatigue nerveuse; agitation,stress,émotion,"['autre', 'émotion']",0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+être à bout de nerfs,nerfs,partie du corps,épuisement nerveux,stress; tension,épuisement nerveux,état_physique,"['autre', 'émotion', 'état_physique']",0,0,1,0,0,0,0,0,0,0,0,0,0,1,1
+taper sur les nerfs,nerfs,partie du corps,agacement,irritation; exaspération,agacement,émotion,"['autre', 'émotion']",0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+à vue de nez,nez,partie du corps,approximation,estimation; intuition,approximation,approximation,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+avoir un verre dans le nez,nez,partie du corps,ivresse,alcool; euphorie,ivresse,alimentation,"['alimentation', 'autre']",1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+avoir un nez en trompette,nez,partie du corps,apparence physique,forme du visage; singularité,apparence physique,apparence,"['apparence', 'autre']",0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+avoir quelqu’un dans le nez,nez,partie du corps,antipathie,rejet; irritation,antipathie,antipathie,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+avoir du nez,nez,partie du corps,intuition,flair; intelligence,intuition,intuition,"['autre', 'cognition']",0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+avoir sous le nez,nez,partie du corps,proximité,évidence; accessibilité,proximité,temps_espace,"['autre', 'temps_espace']",0,0,1,0,0,0,0,0,0,0,0,0,1,0,0
+faire un pied de nez,nez,partie du corps,moquerie,provocation; défi,moquerie,moquerie,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+la moutarde monte au nez,nez,partie du corps,colère,irritation; énervement,colère,émotion,"['autre', 'émotion']",0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+mener par le bout du nez,nez,partie du corps,manipulation,contrôle; domination,manipulation,manipulation,"['autre', 'social']",0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+mettre le nez dehors,nez,partie du corps,sortie/exposition,prudence; présence,sortie,comportement,"['autre', 'comportement']",0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+mettre son nez quelque part,nez,partie du corps,indiscrétion,curiosité; intrusion,indiscrétion,indiscrétion,"['autre', 'désir']",0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
+montrer le bout de son nez,nez,partie du corps,apparition,arrivée; présence,apparition,apparition,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+ne pas lever le nez,nez,partie du corps,concentration,travail; absorption,concentration,cognition,"['autre', 'cognition', 'comportement']",0,0,1,0,1,1,0,0,0,0,0,0,0,0,0
+ne pas voir plus loin que le bout de son nez,nez,partie du corps,manque de vision,égoïsme; courte vue,manque de vision,manque de vision,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+parler du nez,nez,partie du corps,prononciation,voix; nasalité,prononciation,langage,"['autre', 'langage']",0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+passer sous le nez de quelqu’un,nez,partie du corps,perte/frustration,occasion manquée; proximité,perte,problème,"['autre', 'problème', 'temps_espace']",0,0,1,0,0,0,0,0,0,1,0,0,1,0,0
+prendre au nez,nez,partie du corps,odeur,sensation; perception,odeur,odeur,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+prendre quelqu’un de nez,nez,partie du corps,antipathie instinctive,rejet; impression,antipathie instinctive,antipathie instinctive,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+se casser le nez,nez,partie du corps,échec,obstacle; déconvenue,échec,problème,"['autre', 'problème']",0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+se manger le nez,nez,partie du corps,conflit,dispute; affrontement,conflit,social,"['autre', 'social']",0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+se piquer le nez,nez,partie du corps,ivresse,alcool; consommation,ivresse,alimentation,"['alimentation', 'autre']",1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+se voir comme le nez au milieu de la figure,nez,partie du corps,évidence,clarté; visibilité,évidence,évidence,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+sortir par les trous du nez,nez,partie du corps,exaspération,saturation; rejet,exaspération,émotion,"['autre', 'émotion']",0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+retomber sur le nez de quelqu’un,nez,partie du corps,conséquence négative,retour; responsabilité,conséquence négative,problème,"['autre', 'problème']",0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+tomber nez à nez avec quelqu’un,nez,partie du corps,rencontre inattendue,surprise; hasard,rencontre inattendue,rencontre inattendue,"['autre', 'émotion']",0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+ton nez remue,nez,partie du corps,mensonge,suspicion; ironie,mensonge,mensonge,"['autre', 'cognition']",0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+avoir les ongles en deuil,ongles,partie du corps,saleté,négligence; apparence,saleté,saleté,"['apparence', 'autre', 'comportement']",0,1,1,0,0,1,0,0,0,0,0,0,0,0,0
+payer rubis sur l’ongle,ongle,partie du corps,paiement immédiat,honnêteté; exactitude,paiement immédiat,paiement immédiat,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+se défendre bec et ongles,ongles,partie du corps,défense acharnée,résistance; agressivité,défense acharnée,comportement,"['autre', 'comportement']",0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+avoir de l’oreille,oreille,partie du corps,capacité musicale,sensibilité auditive; talent,capacité musicale,capacité,"['autre', 'capacité']",0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+avoir des oreilles en feuilles de chou,oreilles,partie du corps,apparence physique,forme; moquerie,apparence physique,apparence,"['apparence', 'autre']",0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+avoir la puce à l’oreille,oreille,partie du corps,suspicion,inquiétude; doute,suspicion,cognition,"['cognition', 'émotion']",0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+avoir les oreilles qui sifflent,oreilles,partie du corps,réputation,rumeur; évocation,réputation,social,"['autre', 'social']",0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+casser les oreilles à quelqu’un,oreilles,partie du corps,agacement,bruit; irritation,agacement,émotion,"['autre', 'émotion']",0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+de bouche à oreille,oreille,partie du corps,transmission orale,rumeur; recommandation,transmission orale,langage,"['autre', 'langage']",0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+dormir sur ses deux oreilles,oreilles,partie du corps,sécurité,tranquillité; confiance,sécurité,sécurité,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+échauffer les oreilles de quelqu’un,oreilles,partie du corps,colère,réprimande; tension,colère,émotion,"['autre', 'langage', 'émotion']",0,0,1,0,0,0,0,1,0,0,0,0,0,1,0
+entrer par une oreille et sortir par l’autre,oreille,partie du corps,inattention,oubli; indifférence,inattention,cognition,"['autre', 'cognition']",0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+être dur d’oreille,oreille,partie du corps,surdité,compréhension difficile; audition,surdité,surdité,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+faire la sourde oreille,oreille,partie du corps,refus d’écouter,indifférence; ignorance,refus d’écouter,comportement,"['autre', 'cognition', 'comportement']",0,0,1,0,1,1,0,0,0,0,0,0,0,0,0
+l’oreille aux aguets,oreille,partie du corps,vigilance,attention; surveillance,vigilance,vigilance,"['autre', 'cognition']",0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+n’écouter que d’une oreille,oreille,partie du corps,inattention,distraction; désintérêt,inattention,cognition,"['autre', 'cognition']",0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+ne pas l’entendre de cette oreille,oreille,partie du corps,refus,désaccord; opposition,refus,comportement,"['autre', 'comportement', 'social']",0,0,1,0,0,1,0,0,0,0,0,1,0,0,0
+ne pas tomber dans l’oreille d’un sourd,oreille,partie du corps,réception positive,compréhension; efficacité,réception positive,social,"['autre', 'social']",0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+rebattre les oreilles,oreilles,partie du corps,répétition agaçante,importunité; discours,répétition agaçante,répétition agaçante,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+se faire tirer l’oreille,oreille,partie du corps,hésitation,réticence; lenteur,hésitation,hésitation,"['autre', 'temps_espace']",0,0,1,0,0,0,0,0,0,0,0,0,1,0,0
+tendre l’oreille,oreille,partie du corps,attention,écoute; curiosité,attention,cognition,"['autre', 'cognition', 'désir']",0,0,1,0,1,0,1,0,0,0,0,0,0,0,0
+à l’œil,œil,partie du corps,gratuité,approximation; informalité,gratuité,quantité_valeur,"['autre', 'quantité_valeur']",0,0,1,0,0,0,0,0,0,0,1,0,0,0,0
+avoir des yeux de lynx,yeux,partie du corps,perception,vigilance; acuité,perception,perception,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+avoir le compas dans l’œil,œil,partie du corps,précision,estimation; habileté,précision,précision,"['autre', 'capacité']",0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+avoir l’œil,œil,partie du corps,vigilance,sens de l’observation; intuition,vigilance,vigilance,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+avoir les yeux plus grands que le ventre,yeux,partie du corps,excès,gourmandise; ambition,excès,quantité_valeur,"['désir', 'quantité_valeur']",0,0,0,0,0,0,1,0,0,0,1,0,0,0,0
+avoir un bandeau sur les yeux,yeux,partie du corps,aveuglement,ignorance; refus de voir,aveuglement,cognition,"['autre', 'cognition']",0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+avoir une coquetterie dans l’œil,œil,partie du corps,particularité physique,charme; strabisme,particularité physique,apparence,"['apparence', 'autre']",0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+c’est de la poudre aux yeux,yeux,partie du corps,illusion,tromperie; apparence,illusion,cognition,"['apparence', 'autre', 'cognition']",0,1,1,0,1,0,0,0,0,0,0,0,0,0,0
+coûter les yeux de la tête,yeux,partie du corps,prix excessif,dépense; luxe,prix excessif,quantité_valeur,"['autre', 'quantité_valeur']",0,0,1,0,0,0,0,0,0,0,1,0,0,0,0
+crever les yeux,yeux,partie du corps,évidence,clarté; visibilité,évidence,évidence,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+des yeux de merlan frit,yeux,partie du corps,regard ridicule,stupidité; étonnement,regard ridicule,apparence,"['apparence', 'autre', 'cognition']",0,1,1,0,1,0,0,0,0,0,0,0,0,0,0
+des yeux en boules de loto,yeux,partie du corps,surprise,étonnement; stupeur,surprise,émotion,"['autre', 'émotion']",0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+du coin de l’œil,œil,partie du corps,observation discrète,surveillance; attention,observation discrète,cognition,"['autre', 'cognition']",0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+en un clin d’œil,œil,partie du corps,rapidité,instantanéité; vitesse,rapidité,temps_espace,"['autre', 'temps_espace']",0,0,1,0,0,0,0,0,0,0,0,0,1,0,0
+faire de l’œil,œil,partie du corps,séduction,flirt; attirance,séduction,séduction,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+faire les gros yeux à quelqu’un,yeux,partie du corps,menace,réprimande; intimidation,menace,problème,"['autre', 'langage', 'problème']",0,0,1,0,0,0,0,1,0,1,0,0,0,0,0
+faire les yeux doux à,yeux,partie du corps,séduction,tendresse; flatterie,séduction,séduction,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+faire quelque chose à l’œil,œil,partie du corps,gratuité,service; informalité,gratuité,quantité_valeur,"['autre', 'quantité_valeur']",0,0,1,0,0,0,0,0,0,0,1,0,0,0,0
+jeter un coup d’œil,œil,partie du corps,observation rapide,regard; vérification,observation rapide,cognition,"['autre', 'cognition']",0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+les écailles lui tombent des yeux,yeux,partie du corps,prise de conscience,révélation; compréhension,prise de conscience,cognition,"['autre', 'cognition']",0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+les yeux fermés,yeux,partie du corps,confiance,habitude; certitude,confiance,confiance,"['autre', 'cognition']",0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+l’œil aux aguets,œil,partie du corps,vigilance,surveillance; attention,vigilance,vigilance,"['autre', 'cognition']",0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+manger des yeux,yeux,partie du corps,désir,admiration; convoitise,désir,désir,"['autre', 'désir']",0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
+mon œil,œil,partie du corps,incrédulité,moquerie; refus,incrédulité,cognition,"['autre', 'cognition', 'comportement']",0,0,1,0,1,1,0,0,0,0,0,0,0,0,0
+mener quelqu’un au doigt et à l’œil,œil,partie du corps,contrôle,obéissance; domination,contrôle,social,"['autre', 'social']",0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+ne dormir que d’un œil,œil,partie du corps,vigilance,inquiétude; sommeil léger,vigilance,vigilance,"['autre', 'émotion']",0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+ne pas avoir froid aux yeux,yeux,partie du corps,courage,audace; témérité,courage,morale,"['autre', 'morale']",0,0,1,0,0,0,0,0,1,0,0,0,0,0,0
+ne pas avoir les yeux dans sa poche,yeux,partie du corps,observation,curiosité; attention,observation,cognition,"['cognition', 'désir']",0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+ne pas avoir les yeux en face des trous,yeux,partie du corps,confusion,fatigue; maladresse,confusion,cognition,"['capacité', 'cognition', 'état_physique']",0,0,0,1,1,0,0,0,0,0,0,0,0,0,1
+ne pas en croire ses yeux,yeux,partie du corps,surprise,incrédulité; étonnement,surprise,émotion,"['autre', 'cognition', 'émotion']",0,0,1,0,1,0,0,0,0,0,0,0,0,1,0
+ne pas fermer l’œil,œil,partie du corps,insomnie,inquiétude; nervosité,insomnie,insomnie,"['autre', 'émotion']",0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+ne plus avoir que ses yeux pour pleurer,yeux,partie du corps,perte,désespoir; ruine,perte,problème,"['autre', 'problème', 'émotion']",0,0,1,0,0,0,0,0,0,1,0,0,0,1,0
+ouvrir les yeux à quelqu’un sur quelque chose,yeux,partie du corps,prise de conscience,révélation; compréhension,prise de conscience,cognition,"['autre', 'cognition']",0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+pour les beaux yeux de,yeux,partie du corps,affection,séduction; motivation,affection,émotion,"['autre', 'émotion']",0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+regarder d’un œil noir,œil,partie du corps,hostilité,colère; mécontentement,hostilité,hostilité,"['autre', 'émotion']",0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+regarder d’un œil critique,œil,partie du corps,jugement,analyse; évaluation,jugement,cognition,"['autre', 'cognition']",0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+se rincer l’œil,œil,partie du corps,plaisir visuel,curiosité; désir,plaisir visuel,plaisir visuel,"['autre', 'désir']",0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
+sortir par les yeux,yeux,partie du corps,exaspération,saturation; rejet,exaspération,émotion,"['autre', 'émotion']",0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+taper dans l’œil,œil,partie du corps,attraction,séduction; admiration,attraction,attraction,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+tenir quelque chose comme à la prunelle de ses yeux,yeux,partie du corps,protection,attachement; valeur,protection,protection,"['autre', 'quantité_valeur']",0,0,1,0,0,0,0,0,0,0,1,0,0,0,0
+tourner de l’œil,œil,partie du corps,malaise,perte de connaissance; faiblesse,malaise,état_physique,"['autre', 'état_physique']",0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+un œil au beurre noir,œil,partie du corps,blessure,violence; hématome,blessure,état_physique,"['autre', 'état_physique']",0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+valoir le coup d’œil,œil,partie du corps,intérêt,beauté; curiosité,intérêt,désir,"['apparence', 'désir']",0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+voir à l’œil nu,œil,partie du corps,perception directe,visibilité; observation,perception directe,perception directe,"['autre', 'cognition']",0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+les orteils en éventail,orteils,partie du corps,détente,oisiveté; confort,détente,détente,"['autre', 'comportement']",0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+être un squelette ambulant,os,partie du corps,maigreur extrême,faiblesse; maladie,maigreur extrême,apparence,"['apparence', 'autre', 'état_physique']",0,1,1,0,0,0,0,0,0,0,0,0,0,0,1
+être un tas d’os,os,partie du corps,maigreur,faiblesse; apparence,maigreur,apparence,"['apparence', 'autre']",0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+l’avoir dans l’os,os,partie du corps,échec/tromperie,frustration; perte,échec,problème,"['problème', 'émotion']",0,0,0,0,0,0,0,0,0,1,0,0,0,1,0
+tomber sur un os,os,partie du corps,obstacle,difficulté; problème,obstacle,problème,['problème'],0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+à fleur de peau,peau,partie du corps,hypersensibilité,émotion; nervosité,hypersensibilité,hypersensibilité,"['autre', 'émotion']",0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+avoir la peau de quelqu’un,peau,partie du corps,destruction,hostilité; vengeance,destruction,destruction,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+avoir la peau dure,peau,partie du corps,résistance,endurance; robustesse,résistance,comportement,"['autre', 'capacité', 'comportement']",0,0,1,1,0,1,0,0,0,0,0,0,0,0,0
+avoir les nerfs à fleur de peau,peau,partie du corps,hypersensibilité nerveuse,stress; irritabilité,hypersensibilité nerveuse,hypersensibilité nerveuse,"['autre', 'émotion']",0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+avoir quelqu’un dans la peau,peau,partie du corps,attachement amoureux,obsession; passion,attachement amoureux,émotion,"['autre', 'désir', 'émotion']",0,0,1,0,0,0,1,0,0,0,0,0,0,1,0
+coûter la peau des fesses,peau,partie du corps,prix excessif,dépense; coût,prix excessif,quantité_valeur,"['autre', 'quantité_valeur']",0,0,1,0,0,0,0,0,0,0,1,0,0,0,0
+changer de peau,peau,partie du corps,transformation,renouveau; évolution,transformation,transformation,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+être bien dans sa peau,peau,partie du corps,bien-être,confiance en soi; équilibre,bien-être,état_physique,"['autre', 'état_physique']",0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+être mal dans sa peau,peau,partie du corps,mal-être,inconfort; anxiété,mal-être,mal-être,"['autre', 'émotion']",0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+faire la peau à quelqu’un,peau,partie du corps,destruction,violence; élimination,destruction,destruction,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+faire peau neuve,peau,partie du corps,renouveau,transformation; modernisation,renouveau,renouveau,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+n’avoir que la peau et les os,peau,partie du corps,maigreur extrême,faiblesse; maladie,maigreur extrême,apparence,"['apparence', 'autre', 'état_physique']",0,1,1,0,0,0,0,0,0,0,0,0,0,0,1
+se mettre dans la peau de quelqu’un,peau,partie du corps,empathie,identification; compréhension,empathie,empathie,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+une vieille peau,peau,partie du corps,insulte,vieillesse; méchanceté,insulte,langage,"['autre', 'langage', 'morale']",0,0,1,0,0,0,0,1,1,0,0,0,0,0,0
+une culotte de peau,peau,partie du corps,vêtement,tradition; habillement,vêtement,vêtement,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+une peau de vache,peau,partie du corps,méchanceté,dureté; agressivité,méchanceté,morale,"['autre', 'morale']",0,0,1,0,0,0,0,0,1,0,0,0,0,0,0
+attendre quelqu’un de pied ferme,pied,partie du corps,préparation,détermination; confrontation,préparation,comportement,"['autre', 'comportement']",0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+avoir bon pied bon œil,pied,partie du corps,bonne forme,vitalité; santé,bonne forme,état_physique,"['autre', 'état_physique']",0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+avoir un pied dans la tombe,pied,partie du corps,proximité de la mort,vieillesse; maladie,proximité de la mort,proximité de la mort,"['autre', 'état_physique']",0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+ça ne se trouve pas sous le pied d’un cheval,pied,partie du corps,rareté,difficulté; exception,rareté,rareté,"['autre', 'problème']",0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+casser les pieds à quelqu’un,pieds,partie du corps,agacement,importunité; irritation,agacement,émotion,"['autre', 'émotion']",0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+conduire le pied au plancher,pied,partie du corps,vitesse,conduite; excès,vitesse,temps_espace,"['autre', 'quantité_valeur', 'temps_espace']",0,0,1,0,0,0,0,0,0,0,1,0,1,0,0
+couper l’herbe sous les pieds,pieds,partie du corps,prise d’avantage,surprise; concurrence,prise d’avantage,prise d’avantage,"['autre', 'émotion']",0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+faire du pied à quelqu’un,pied,partie du corps,séduction,flirt; contact discret,séduction,séduction,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+faire les pieds à quelqu’un,pieds,partie du corps,vengeance,punition; correction,vengeance,vengeance,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+faire quelque chose comme un pied,pied,partie du corps,maladresse,négligence; mauvaise qualité,maladresse,capacité,"['autre', 'capacité', 'comportement']",0,0,1,1,0,1,0,0,0,0,0,0,0,0,0
+faire quelque chose au pied levé,pied,partie du corps,improvisation,spontanéité; rapidité,improvisation,comportement,"['autre', 'comportement', 'temps_espace']",0,0,1,0,0,1,0,0,0,0,0,0,1,0,0
+faire un appel du pied à quelqu’un,pied,partie du corps,suggestion implicite,séduction; invitation,suggestion implicite,langage,"['autre', 'langage']",0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+d’arrache-pied,pied,partie du corps,travail intense,effort; persévérance,travail intense,comportement,"['autre', 'comportement']",0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+de pied ferme,pied,partie du corps,détermination,stabilité; résistance,détermination,détermination,"['autre', 'comportement']",0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+donner un coup de pied dans la fourmilière,pied,partie du corps,bouleversement,provocation; changement,bouleversement,bouleversement,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+être sur le pied de guerre,pied,partie du corps,préparation,vigilance; mobilisation,préparation,comportement,"['autre', 'comportement']",0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+être pieds et poings liés,pieds,partie du corps,impuissance,contrainte; dépendance,impuissance,impuissance,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+être sur pied,pied,partie du corps,rétablissement,activité; préparation,rétablissement,état_physique,"['autre', 'comportement', 'état_physique']",0,0,1,0,0,1,0,0,0,0,0,0,0,0,1
+lever le pied,pied,partie du corps,ralentissement,prudence; repos,ralentissement,temps_espace,"['autre', 'temps_espace']",0,0,1,0,0,0,0,0,0,0,0,0,1,0,0
+mettre à pied,pied,partie du corps,sanction,exclusion; travail,sanction,sanction,"['autre', 'comportement']",0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+mettre au pied du mur,pied,partie du corps,contrainte,obligation; décision,contrainte,contrainte,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+mettre le pied à l’étrier à quelqu’un,pied,partie du corps,aide,début; soutien,aide,aide,"['autre', 'social']",0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+mettre les pieds dans le plat,pieds,partie du corps,indiscrétion,maladresse; franchise,indiscrétion,indiscrétion,"['autre', 'capacité', 'langage']",0,0,1,1,0,0,0,1,0,0,0,0,0,0,0
+mettre sur pied,pied,partie du corps,organisation,création; préparation,organisation,organisation,"['autre', 'comportement']",0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+ne pas avoir deux pieds dans le même sabot,pieds,partie du corps,rapidité,dynamisme; efficacité,rapidité,temps_espace,"['autre', 'temps_espace']",0,0,1,0,0,0,0,0,0,0,0,0,1,0,0
+ne pas avoir le pied marin,pied,partie du corps,mal de mer,inconfort; navigation,mal de mer,état_physique,"['autre', 'état_physique']",0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+ne pas savoir sur quel pied danser,pied,partie du corps,hésitation,incertitude; confusion,hésitation,hésitation,"['autre', 'cognition']",0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+partir les pieds devant,pieds,partie du corps,mort,funérailles; disparition,mort,mort,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+prendre au pied de la lettre,pied,partie du corps,interprétation littérale,compréhension; rigidité,interprétation littérale,cognition,"['autre', 'cognition']",0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+prendre le contre-pied,pied,partie du corps,opposition,contradiction; stratégie,opposition,social,"['autre', 'social']",0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+retomber sur ses pieds,pieds,partie du corps,récupération,adaptation; débrouillardise,récupération,récupération,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+se lever du pied gauche,pied,partie du corps,mauvaise humeur,malchance; irritabilité,mauvaise humeur,mauvaise humeur,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+trouver chaussure à son pied,pied,partie du corps,compatibilité,union; satisfaction,compatibilité,compatibilité,"['autre', 'émotion']",0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+tirer une épine du pied de quelqu’un,pied,partie du corps,soulagement,aide; libération,soulagement,soulagement,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+un colosse aux pieds d’argile,pieds,partie du corps,faiblesse cachée,instabilité; vulnérabilité,faiblesse cachée,faiblesse cachée,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+à un poil près,poil,partie du corps,précision approximative,proximité; détail,précision approximative,précision approximative,"['autre', 'temps_espace']",0,0,1,0,0,0,0,0,0,0,0,0,1,0,0
+avoir un poil dans la main,poil,partie du corps,paresse,inactivité; négligence,paresse,comportement,"['autre', 'comportement']",0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+caresser quelqu’un dans le sens du poil,poil,partie du corps,flatterie,manipulation; complaisance,flatterie,flatterie,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+être de bon poil,poil,partie du corps,bonne humeur,joie; détente,bonne humeur,émotion,"['autre', 'émotion']",0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+être de mauvais poil,poil,partie du corps,mauvaise humeur,irritation; agressivité,mauvaise humeur,mauvaise humeur,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+ne plus avoir un poil sur le caillou,poil,partie du corps,calvitie,vieillesse; apparence,calvitie,apparence,"['apparence', 'autre']",0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+reprendre du poil de la bête,poil,partie du corps,rétablissement,reprise; énergie,rétablissement,état_physique,"['autre', 'état_physique']",0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+se mettre à poil,poil,partie du corps,nudité,intimité; exposition,nudité,nudité,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+donner un coup de pouce à quelqu’un,pouce,partie du corps,aide,soutien; assistance,aide,aide,"['autre', 'social']",0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+manger sur le pouce,pouce,partie du corps,repas rapide,précipitation; travail,repas rapide,alimentation,"['alimentation', 'autre', 'comportement']",1,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+se tourner les pouces,pouces,partie du corps,oisiveté,inactivité; ennui,oisiveté,comportement,"['autre', 'comportement']",0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+avoir les reins solides,reins,partie du corps,puissance,richesse; résistance,puissance,puissance,"['autre', 'comportement']",0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+casser les reins de,reins,partie du corps,destruction,ruine; affaiblissement,destruction,destruction,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+une taille de guêpe,taille,partie du corps,silhouette mince,élégance; beauté,silhouette mince,apparence,"['apparence', 'autre']",0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+avoir quelque chose dans le sang,sang,partie du corps,prédisposition naturelle,habitude; talent,prédisposition naturelle,prédisposition naturelle,"['autre', 'capacité']",0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+avoir du sang bleu,sang,partie du corps,noblesse,aristocratie; prestige,noblesse,noblesse,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+glacer le sang à quelqu’un,sang,partie du corps,peur,horreur; angoisse,peur,émotion,"['autre', 'émotion']",0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+mettre à feu et à sang,sang,partie du corps,destruction,violence; guerre,destruction,destruction,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+se faire du mauvais sang,sang,partie du corps,inquiétude,stress; anxiété,inquiétude,émotion,['émotion'],0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+se ronger les sangs,sang,partie du corps,anxiété,inquiétude; souffrance,anxiété,émotion,"['autre', 'émotion']",0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+avoir les sourcils en bataille,sourcils,partie du corps,apparence négligée,désordre; fatigue,apparence négligée,apparence,"['apparence', 'autre', 'état_physique']",0,1,1,0,0,0,0,0,0,0,0,0,0,0,1
+talon d’Achille,talon,partie du corps,point faible,vulnérabilité; faiblesse,point faible,point faible,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+tourner les talons,talons,partie du corps,départ,retrait; abandon,départ,comportement,"['autre', 'comportement']",0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+attaquer bille en tête,tête,partie du corps,action directe,impulsivité; détermination,action directe,comportement,"['autre', 'comportement']",0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+avoir du plomb dans la cervelle,cervelle,partie du corps,sagesse,maturité; bon sens,sagesse,cognition,"['autre', 'cognition']",0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+avoir la grosse tête,tête,partie du corps,orgueil,prétention; vanité,orgueil,morale,"['autre', 'morale']",0,0,1,0,0,0,0,0,1,0,0,0,0,0,0
+avoir la tête comme une passoire,tête,partie du corps,oubli,distraction; fatigue,oubli,cognition,"['autre', 'cognition', 'état_physique']",0,0,1,0,1,0,0,0,0,0,0,0,0,0,1
+avoir la tête de l’emploi,tête,partie du corps,apparence adaptée,crédibilité; conformité,apparence adaptée,apparence,"['apparence', 'autre']",0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+avoir la tête près du bonnet,tête,partie du corps,susceptibilité,colère; irritabilité,susceptibilité,susceptibilité,"['autre', 'émotion']",0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+avoir la tête sur les épaules,tête,partie du corps,bon sens,maturité; stabilité,bon sens,cognition,"['autre', 'cognition']",0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+avoir ses têtes,têtes,partie du corps,préférence,parti pris; affinité,préférence,désir,"['autre', 'désir']",0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
+avoir toute sa tête,tête,partie du corps,lucidité,santé mentale; raison,lucidité,cognition,"['autre', 'cognition']",0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+avoir un petit pois dans la tête,tête,partie du corps,stupidité,naïveté; manque d’intelligence,stupidité,cognition,"['autre', 'cognition']",0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+avoir un petit vélo dans la tête,tête,partie du corps,obsession,excentricité; agitation mentale,obsession,désir,"['autre', 'désir']",0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
+faire une tête d’enterrement,tête,partie du corps,tristesse,mine sombre; dépression,tristesse,émotion,"['autre', 'émotion']",0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+baisser la tête,tête,partie du corps,soumission,honte; résignation,soumission,social,"['autre', 'social', 'émotion']",0,0,1,0,0,0,0,0,0,0,0,1,0,1,0
+bourrer le crâne de quelqu’un,crâne,partie du corps,endoctrinement,influence; manipulation,endoctrinement,endoctrinement,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+casser la tête à quelqu’un,tête,partie du corps,agacement,importunité; irritation,agacement,émotion,"['autre', 'émotion']",0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+coûter les yeux de la tête,tête,partie du corps,prix excessif,dépense; coût,prix excessif,quantité_valeur,"['autre', 'quantité_valeur']",0,0,1,0,0,0,0,0,0,0,1,0,0,0,0
+chercher des poux dans la tête de quelqu’un,tête,partie du corps,provocation,dispute; critique,provocation,provocation,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+enfoncer quelque chose dans la tête de quelqu’un,tête,partie du corps,insistance,apprentissage; répétition,insistance,insistance,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+être tombé sur la tête,tête,partie du corps,folie,absurdité; comportement étrange,folie,folie,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+faire la tête,tête,partie du corps,mécontentement,bouderie; colère,mécontentement,émotion,"['autre', 'émotion']",0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+faire quelque chose à la tête du client,tête,partie du corps,discrimination,arbitraire; favoritisme,discrimination,social,"['autre', 'social']",0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+faire quelque chose sur un coup de tête,tête,partie du corps,impulsivité,spontanéité; précipitation,impulsivité,impulsivité,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+faire sa mauvaise tête,tête,partie du corps,entêtement,opposition; mauvaise humeur,entêtement,entêtement,"['autre', 'social']",0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+faire tourner la tête de quelqu’un,tête,partie du corps,séduction,trouble; fascination,séduction,séduction,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+foncer tête baissée,tête,partie du corps,impulsivité,précipitation; risque,impulsivité,impulsivité,"['autre', 'problème']",0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+garder la tête froide,tête,partie du corps,sang-froid,calme; maîtrise,sang-froid,sang-froid,"['autre', 'capacité']",0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+la tête à l’envers,tête,partie du corps,confusion,désordre; fatigue,confusion,cognition,"['autre', 'cognition', 'état_physique']",0,0,1,0,1,0,0,0,0,0,0,0,0,0,1
+la tête sur le billot,tête,partie du corps,danger,risque; menace,danger,problème,['problème'],0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+manger la soupe sur la tête de quelqu’un,tête,partie du corps,différence de taille,domination; croissance,différence de taille,différence de taille,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+mettre la tête au carré à quelqu’un,tête,partie du corps,réprimande,violence; correction,réprimande,langage,"['autre', 'langage']",0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+monter à la tête,tête,partie du corps,griserie,orgueil; effet psychologique,griserie,alimentation,"['alimentation', 'autre', 'morale']",1,0,1,0,0,0,0,0,1,0,0,0,0,0,0
+n’en faire qu’à sa tête,tête,partie du corps,indépendance,entêtement; désobéissance,indépendance,indépendance,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+ne plus savoir où donner de la tête,tête,partie du corps,surcharge,confusion; débordement,surcharge,surcharge,"['autre', 'cognition']",0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+par tête de pipe,tête,partie du corps,comptage,personne; quantité,comptage,comptage,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+perdre la tête,tête,partie du corps,folie,panique; perte de contrôle,folie,folie,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+piquer une tête,tête,partie du corps,plongeon,baignade; détente,plongeon,plongeon,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+sans queue ni tête,tête,partie du corps,absurdité,incohérence; désordre,absurdité,autre,"['autre', 'cognition']",0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+se creuser la tête,tête,partie du corps,réflexion intense,effort intellectuel; recherche,réflexion intense,réflexion intense,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+se jeter à la tête de,tête,partie du corps,offre excessive,précipitation; désespoir,offre excessive,offre excessive,"['autre', 'émotion']",0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+se payer la tête de quelqu’un,tête,partie du corps,moquerie,irrespect; ironie,moquerie,moquerie,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+se mettre martel en tête,tête,partie du corps,inquiétude,obsession; anxiété,inquiétude,émotion,"['désir', 'émotion']",0,0,0,0,0,0,1,0,0,0,0,0,0,1,0
+se monter la tête,tête,partie du corps,excitation,illusion; imagination,excitation,excitation,"['autre', 'cognition']",0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+se prendre la tête,tête,partie du corps,complication,stress; conflit,complication,problème,"['problème', 'social', 'émotion']",0,0,0,0,0,0,0,0,0,1,0,1,0,1,0
+se taper la tête contre les murs,tête,partie du corps,désespoir,frustration; colère,désespoir,émotion,['émotion'],0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+tenir tête à quelqu’un,tête,partie du corps,résistance,opposition; courage,résistance,comportement,"['comportement', 'morale', 'social']",0,0,0,0,0,1,0,0,1,0,0,1,0,0,0
+un tête à tête,tête,partie du corps,entretien privé,intimité; rencontre,entretien privé,langage,"['autre', 'langage']",0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+une tête à claques,tête,partie du corps,antipathie,agacement; rejet,antipathie,antipathie,"['autre', 'émotion']",0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+une tête de cochon,tête,partie du corps,entêtement,obstination; caractère,entêtement,entêtement,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+une tête de turc,tête,partie du corps,bouc émissaire,moquerie; humiliation,bouc émissaire,social,"['autre', 'social']",0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+se saigner aux quatre veines,veines,partie du corps,sacrifice financier,effort; privation,sacrifice financier,sacrifice financier,"['autre', 'comportement']",0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+avoir les yeux plus grands que le ventre,ventre,partie du corps,excès,gourmandise; ambition,excès,quantité_valeur,"['désir', 'quantité_valeur']",0,0,0,0,0,0,1,0,0,0,1,0,0,0,0
+avoir quelque chose dans le ventre,ventre,partie du corps,courage,détermination; force intérieure,courage,morale,"['autre', 'morale']",0,0,1,0,0,0,0,0,1,0,0,0,0,0,0
+avoir le ventre creux,ventre,partie du corps,faim,besoin physique; faiblesse,faim,état_physique,"['autre', 'état_physique']",0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+se regarder le nombril,nombril,partie du corps,égocentrisme,narcissisme; individualisme,égocentrisme,morale,"['autre', 'morale']",0,0,1,0,0,0,0,0,1,0,0,0,0,0,0
+ventre à terre,ventre,partie du corps,vitesse,précipitation; urgence,vitesse,temps_espace,"['autre', 'temps_espace']",0,0,1,0,0,0,0,0,0,0,0,0,1,0,0
+prendre des vessies pour des lanternes,vessies,partie du corps,erreur de jugement,illusion; naïveté,erreur de jugement,cognition,"['autre', 'cognition']",0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+échauffer la bile de quelqu’un,bile,partie du corps,colère,irritation; énervement,colère,émotion,"['autre', 'émotion']",0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+se faire de la bile,bile,partie du corps,inquiétude,anxiété; stress,inquiétude,émotion,['émotion'],0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+avoir un coup dans l’aile,aile,partie du corps,affaiblissement,dégradation; difficulté,affaiblissement,affaiblissement,"['autre', 'problème']",0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+avoir la bosse de quelque chose,bosse,partie du corps,talent,prédisposition; aptitude,talent,capacité,"['autre', 'capacité']",0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+rouler sa bosse,bosse,partie du corps,expérience,voyage; vécu,expérience,expérience,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+être un aigle,aigle,animal,intelligence,compétence; supériorité,intelligence,cognition,"['autre', 'cognition']",0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+un regard d’aigle,aigle,animal,perception,vigilance; acuité,perception,perception,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+attendre que les alouettes tombent toutes rôties dans la bouche,alouettes,animal,passivité,illusion; attente irréaliste,passivité,passivité,"['autre', 'cognition']",0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+un miroir aux alouettes,alouettes,animal,illusion,tromperie; apparence,illusion,cognition,"['apparence', 'autre', 'cognition']",0,1,1,0,1,0,0,0,0,0,0,0,0,0,0
+avoir une tête de mule,mule,animal,entêtement,obstination; refus,entêtement,entêtement,"['autre', 'comportement']",0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+faire boire un âne qui n’a pas soif,âne,animal,impossibilité,contrainte; inutilité,impossibilité,problème,"['autre', 'problème']",0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+faute d’un point Martin perdit son âne,âne,animal,conséquence grave,négligence; détail,conséquence grave,problème,"['autre', 'comportement', 'problème']",0,0,1,0,0,1,0,0,0,1,0,0,0,0,0
+faire l’âne de Buridan,âne,animal,indécision,hésitation; paralysie,indécision,indécision,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+faire l’âne pour avoir du son,âne,animal,ruse,dissimulation; manipulation,ruse,ruse,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+faire tourner en bourrique,bourrique,animal,agacement,énervement; exaspération,agacement,émotion,"['autre', 'émotion']",0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+le pont aux ânes,âne,animal,difficulté élémentaire,apprentissage; logique,difficulté élémentaire,difficulté élémentaire,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+méchant comme un âne rouge,âne,animal,méchanceté,agressivité; mauvais caractère,méchanceté,morale,"['autre', 'morale']",0,0,1,0,0,0,0,0,1,0,0,0,0,0,0
+n’être ni âne ni cheval,âne,animal,ambiguïté,indétermination; mélange,ambiguïté,ambiguïté,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+saoul comme une bourrique,bourrique,animal,ivresse,alcool; excès,ivresse,alimentation,"['alimentation', 'autre', 'quantité_valeur']",1,0,1,0,0,0,0,0,0,0,1,0,0,0,0
+têtu comme une bourrique,bourrique,animal,entêtement,obstination; refus,entêtement,entêtement,"['autre', 'comportement']",0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+un âne bâté,âne,animal,stupidité,naïveté; ignorance,stupidité,cognition,"['autre', 'cognition']",0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+un bonnet d’âne,âne,animal,échec scolaire,humiliation; punition,échec scolaire,problème,"['autre', 'problème']",0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+avoir une araignée au plafond,araignée,animal,folie,excentricité; comportement étrange,folie,folie,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+avoir un estomac d’autruche,autruche,animal,résistance digestive,tolérance; robustesse,résistance digestive,résistance digestive,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+la politique de l’autruche,autruche,animal,déni,évitement; refus de voir la réalité,déni,déni,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+rire comme une baleine,baleine,animal,rire intense,amusement; excès,rire intense,rire intense,"['autre', 'quantité_valeur']",0,0,1,0,0,0,0,0,0,0,1,0,0,0,0
+être une bécasse,bécasse,animal,stupidité,naïveté; crédulité,stupidité,cognition,"['autre', 'cognition']",0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+chercher la petite bête,bête,animal,perfectionnisme excessif,critique; complication,perfectionnisme excessif,perfectionnisme excessif,"['autre', 'problème']",0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+être la bête noire de quelqu’un,bête,animal,antipathie,rejet; hostilité,antipathie,antipathie,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+regarder quelqu’un comme une bête curieuse,bête,animal,curiosité,étrangeté; observation,curiosité,désir,"['autre', 'cognition', 'désir']",0,0,1,0,1,0,1,0,0,0,0,0,0,0,0
+avoir un bœuf sur la langue,bœuf,animal,silence,secret; réticence,silence,langage,"['autre', 'langage']",0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+ça lui va comme un tablier à une vache,vache,animal,inadaptation,ridicule; incompatibilité,inadaptation,inadaptation,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+être fort comme un bœuf,bœuf,animal,force physique,puissance; robustesse,force physique,capacité,"['autre', 'capacité']",0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+être fort comme un taureau,taureau,animal,force physique,puissance; énergie,force physique,capacité,"['autre', 'capacité']",0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+le plancher des vaches,vaches,animal,terre ferme,sécurité; réalité,terre ferme,temps_espace,"['autre', 'temps_espace']",0,0,1,0,0,0,0,0,0,0,0,0,1,0,0
+manger de la vache enragée,vache,animal,misère,difficultés; pauvreté,misère,misère,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+mettre la charrue avant les bœufs,bœufs,animal,précipitation,désordre; mauvaise méthode,précipitation,précipitation,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+pleurer comme un veau,veau,animal,tristesse intense,larmes; désespoir,tristesse intense,émotion,"['autre', 'émotion']",0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+pleuvoir comme vache qui pisse,vache,animal,pluie intense,intempérie; abondance,pluie intense,pluie intense,"['autre', 'quantité_valeur']",0,0,1,0,0,0,0,0,0,0,1,0,0,0,0
+prendre le taureau par les cornes,taureau,animal,courage,détermination; affrontement,courage,morale,"['autre', 'morale']",0,0,1,0,0,0,0,0,1,0,0,0,0,0,0
+souffler comme un bœuf,bœuf,animal,essoufflement,fatigue; effort,essoufflement,essoufflement,"['autre', 'comportement', 'état_physique']",0,0,1,0,0,1,0,0,0,0,0,0,0,0,1
+un coup à assommer un bœuf,bœuf,animal,force extrême,violence; puissance,force extrême,capacité,"['autre', 'capacité']",0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+un vent à décorner les bœufs,bœufs,animal,vent violent,tempête; intensité,vent violent,vent violent,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+une période de vaches maigres,vaches,animal,pénurie,crise; pauvreté,pénurie,quantité_valeur,"['autre', 'quantité_valeur']",0,0,1,0,0,0,0,0,0,0,1,0,0,0,0
+une peau de vache,vache,animal,méchanceté,dureté; agressivité,méchanceté,morale,"['autre', 'morale']",0,0,1,0,0,0,0,0,1,0,0,0,0,0,0
+une vache à lait,vache,animal,source de profit,exploitation; argent,source de profit,quantité_valeur,"['autre', 'quantité_valeur']",0,0,1,0,0,0,0,0,0,0,1,0,0,0,0
+canard boiteux,canard,animal,faiblesse,inefficacité; marginalité,faiblesse,faiblesse,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+être trempé comme un canard,canard,animal,état physique,pluie; humidité,état physique,état_physique,"['autre', 'état_physique']",0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+faire un canard,canard,animal,mauvaise note musicale,maladresse; erreur,mauvaise note musicale,mauvaise note musicale,"['autre', 'capacité']",0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+glisser comme de l’eau sur les plumes d’un canard,canard,animal,indifférence,insensibilité; détachement,indifférence,indifférence,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+marcher en canard,canard,animal,démarche maladroite,boiterie; imitation,démarche maladroite,temps_espace,"['autre', 'comportement', 'temps_espace']",0,0,1,0,0,1,0,0,0,0,0,0,1,0,0
+ne pas casser trois pattes à un canard,canard,animal,banalité,médiocrité; absence d’intérêt,banalité,autre,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+prendre un canard,canard,animal,boisson,consommation; alcool,boisson,alimentation,"['alimentation', 'autre']",1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+un froid de canard,canard,animal,froid intense,hiver; intempérie,froid intense,état_physique,"['autre', 'état_physique']",0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+être sobre comme un chameau,chameau,animal,sobriété,endurance; abstinence,sobriété,alimentation,"['alimentation', 'autre', 'capacité']",1,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+acheter chat en poche,chat,animal,tromperie,imprudence; achat,tromperie,tromperie,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+appeler un chat un chat,chat,animal,franchise,sincérité; langage direct,franchise,langage,"['autre', 'langage', 'morale']",0,0,1,0,0,0,0,1,1,0,0,0,0,0,0
+avoir d’autres chats à fouetter,chats,animal,priorité,occupation; responsabilité,priorité,priorité,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+avoir un chat dans la gorge,chat,animal,difficulté d’élocution,enrouement; voix,difficulté d’élocution,capacité,"['autre', 'capacité']",0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+de la bouillie pour les chats,chats,animal,incompréhensibilité,confusion; mauvaise qualité,incompréhensibilité,cognition,"['autre', 'cognition']",0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+donner sa langue au chat,chat,animal,abandon,résignation; ignorance,abandon,comportement,"['autre', 'cognition', 'comportement']",0,0,1,0,1,1,0,0,0,0,0,0,0,0,0
+écrire comme un chat,chat,animal,mauvaise écriture,illisibilité; maladresse,mauvaise écriture,mauvaise écriture,"['autre', 'capacité']",0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+du pipi de chat,chat,animal,faible quantité,faiblesse; insignifiance,faible quantité,quantité_valeur,"['autre', 'quantité_valeur']",0,0,1,0,0,0,0,0,0,0,1,0,0,0,0
+il n’y a pas un chat,chat,animal,absence,solitude; désert,absence,absence,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+jeter le chat aux jambes de quelqu’un,chat,animal,obstacle,provocation; difficulté,obstacle,problème,"['autre', 'problème']",0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+jouer au chat et à la souris avec quelqu’un,chat,animal,manipulation,poursuite; domination,manipulation,manipulation,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+le nid d’une souris dans l’oreille d’un chat,chat,animal,danger imminent,vulnérabilité; imprudence,danger imminent,problème,"['autre', 'problème']",0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+pas de quoi fouetter un chat,chat,animal,banalité,faible importance; insignifiance,banalité,autre,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+réveiller le chat qui dort,chat,animal,provocation,danger; conflit,provocation,provocation,"['autre', 'problème', 'social']",0,0,1,0,0,0,0,0,0,1,0,1,0,0,0
+une toilette de chat,chat,animal,nettoyage superficiel,rapidité; négligence,nettoyage superficiel,nettoyage superficiel,"['autre', 'comportement', 'temps_espace']",0,0,1,0,0,1,0,0,0,0,0,0,1,0,0
+une chatte n’y retrouverait pas ses petits,chatte,animal,désordre,confusion; chaos,désordre,désordre,"['autre', 'cognition']",0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+après bon vin bon cheval,cheval,animal,courage,confiance; énergie,courage,morale,"['autre', 'morale']",0,0,1,0,0,0,0,0,1,0,0,0,0,0,0
+avoir une fièvre de cheval,cheval,animal,maladie,intensité; santé,maladie,état_physique,"['autre', 'état_physique']",0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+avoir mangé du cheval,cheval,animal,énergie,excitation; agitation,énergie,énergie,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+changer son cheval borgne pour un aveugle,cheval,animal,mauvais échange,erreur; dégradation,mauvais échange,mauvais échange,"['autre', 'problème']",0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+être à cheval sur quelque chose,cheval,animal,rigueur,exigence; respect strict,rigueur,rigueur,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+ne pas être un mauvais cheval,cheval,animal,valeur,fiabilité; compétence,valeur,quantité_valeur,"['autre', 'quantité_valeur']",0,0,1,0,0,0,0,0,0,0,1,0,0,0,0
+ne pas se trouver sous le pas d’un cheval,cheval,animal,rareté,difficulté; exception,rareté,rareté,"['autre', 'problème']",0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+un cheval de bataille,cheval,animal,sujet favori,obsession; thème récurrent,sujet favori,sujet favori,"['autre', 'désir']",0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
+un remède de cheval,cheval,animal,traitement intensif,force; efficacité,traitement intensif,traitement intensif,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+un cheval de Troie,cheval,animal,tromperie,infiltration; stratégie,tromperie,tromperie,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+un cheval de retour,cheval,animal,récidive,criminalité; habitude,récidive,récidive,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+un vrai cheval de labour,cheval,animal,travailleur,endurance; effort,travailleur,travailleur,"['autre', 'capacité', 'comportement']",0,0,1,1,0,1,0,0,0,0,0,0,0,0,0
+avoir du chien,chien,animal,charme,séduction; élégance,charme,charme,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+avoir un mal de chien,chien,animal,difficulté,souffrance; effort,difficulté,problème,"['autre', 'comportement', 'problème']",0,0,1,0,0,1,0,0,0,1,0,0,0,0,0
+se donner un mal de chien,chien,animal,effort intense,travail; persévérance,effort intense,comportement,"['autre', 'comportement']",0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+dormir en chien de fusil,chien,animal,position de sommeil,repli; inconfort,position de sommeil,position de sommeil,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+entre chien et loup,chien,animal,crépuscule,incertitude; obscurité,crépuscule,temps_espace,"['autre', 'temps_espace']",0,0,1,0,0,0,0,0,0,0,0,0,1,0,0
+être chien,chien,animal,avarice,méchanceté; dureté,avarice,morale,"['autre', 'morale']",0,0,1,0,0,0,0,0,1,0,0,0,0,0,0
+être comme un chien dans un jeu de quilles,chien,animal,maladresse,inadaptation; gêne,maladresse,capacité,"['autre', 'capacité']",0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+faire le chien couchant,chien,animal,soumission,servilité; flatterie,soumission,social,"['autre', 'social']",0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+garder un chien de sa chienne,chien,animal,rancune,vengeance; hostilité,rancune,émotion,"['autre', 'émotion']",0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+malade comme un chien,chien,animal,maladie intense,souffrance; faiblesse,maladie intense,état_physique,"['autre', 'état_physique']",0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+n’être bon qu’à jeter aux chiens,chiens,animal,inutilité,rejet; mépris,inutilité,autre,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+ne pas attacher son chien avec des saucisses,chien,animal,manque de richesse,avarice; pauvreté,manque de richesse,quantité_valeur,"['autre', 'morale', 'quantité_valeur']",0,0,1,0,0,0,0,0,1,0,1,0,0,0,0
+rubrique des chiens écrasés,chiens,animal,faits divers insignifiants,presse; banalité,faits divers insignifiants,faits divers insignifiants,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+rompre les chiens,chiens,animal,interruption,prudence; diplomatie,interruption,interruption,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+s’entendre comme chien et chat,chien,animal,conflit,dispute; incompatibilité,conflit,social,"['autre', 'social']",0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+se regarder en chiens de faïence,chiens,animal,hostilité,tension; défi,hostilité,hostilité,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+traiter quelqu’un comme un chien,chien,animal,mépris,mauvais traitement; humiliation,mépris,mépris,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+un caractère de chien,chien,animal,mauvais caractère,agressivité; irritabilité,mauvais caractère,mauvais caractère,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+un temps de chien,chien,animal,mauvais temps,intempérie; pluie,mauvais temps,mauvais temps,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+une humeur de chien,chien,animal,mauvaise humeur,irritation; colère,mauvaise humeur,mauvaise humeur,"['autre', 'émotion']",0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+une vie de chien,chien,animal,vie difficile,souffrance; misère,vie difficile,vie difficile,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+donner de la confiture aux cochons,cochons,animal,gaspillage,incompréhension; inutilité,gaspillage,gaspillage,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+jeter des perles aux pourceaux,pourceaux,animal,gaspillage,mépris; inutilité,gaspillage,gaspillage,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+être copains comme cochons,cochons,animal,amitié,complicité; proximité,amitié,social,"['autre', 'social', 'temps_espace']",0,0,1,0,0,0,0,0,0,0,0,1,1,0,0
+jouer un tour de cochon,cochon,animal,mauvais tour,trahison; malveillance,mauvais tour,mauvais tour,"['autre', 'morale']",0,0,1,0,0,0,0,0,1,0,0,0,0,0,0
+manger comme un cochon,cochon,animal,malpropreté,gourmandise; manque de savoir-vivre,malpropreté,malpropreté,"['autre', 'désir']",0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
+ne pas avoir gardé les cochons ensemble,cochons,animal,distance sociale,respect; familiarité,distance sociale,social,"['autre', 'social']",0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+ni lard ni cochon,cochon,animal,ambiguïté,indétermination; incohérence,ambiguïté,ambiguïté,"['autre', 'cognition']",0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+sale comme un cochon,cochon,animal,saleté,négligence; vulgarité,saleté,saleté,"['autre', 'comportement']",0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+du lard ou du cochon,cochon,animal,ambiguïté,incertitude; confusion,ambiguïté,ambiguïté,"['autre', 'cognition']",0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+un film cochon,cochon,animal,obscénité,sexualité; vulgarité,obscénité,obscénité,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+un travail de cochon,cochon,animal,travail mal fait,négligence; mauvaise qualité,travail mal fait,comportement,"['autre', 'comportement']",0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+un vieux cochon,cochon,animal,vulgarité,comportement déplacé; lubricité,vulgarité,vulgarité,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+une tête de cochon,cochon,animal,entêtement,obstination; caractère,entêtement,entêtement,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+au chant du coq,coq,animal,aube,matinalité; début du jour,aube,temps_espace,"['autre', 'temps_espace']",0,0,1,0,0,0,0,0,0,0,0,0,1,0,0
+avoir des jambes de coq,coq,animal,maigreur fragilité; apparence,désigne des jambes très fines,maigreur fragilité; apparence,maigreur fragilité; apparence,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+avoir la chair de poule,poule,animal,frisson,peur; émotion,frisson,frisson,"['autre', 'émotion']",0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+faire le coq,coq,animal,prétention,orgueil; parade,prétention,prétention,"['autre', 'morale']",0,0,1,0,0,0,0,0,1,0,0,0,0,0,0
+être rouge comme un coq,coq,animal,rougeur,honte; colère,rougeur,apparence,"['apparence', 'émotion']",0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+être comme un coq en pâte,coq,animal,confort,bien-être; privilège,confort,confort,"['autre', 'état_physique']",0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+la bouche en cul de poule,poule,animal,expression faciale,moue; affectation,expression faciale,apparence,"['apparence', 'autre']",0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+le coq du village,coq,animal,séduction,popularité; prestige,séduction,séduction,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+passer du coq à l’âne,coq,animal,incohérence,changement brusque; conversation,incohérence,cognition,"['autre', 'cognition']",0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+quand les poules auront des dents,poules,animal,impossibilité,attente irréaliste; ironie,impossibilité,problème,"['autre', 'problème']",0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+une mère poule,poule,animal,protection,maternité; affection,protection,protection,"['autre', 'émotion']",0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+une poule mouillée,poule,animal,lâcheté,peur; faiblesse,lâcheté,morale,"['autre', 'morale', 'émotion']",0,0,1,0,0,0,0,0,1,0,0,0,0,1,0
+une poule qui a couvé des œufs de canard,poule,animal,inadaptation,étrangeté; décalage,inadaptation,inadaptation,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+sauter du coq à l’âne,coq,animal,incohérence,discontinuité; discours,incohérence,cognition,"['autre', 'cognition']",0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+se lever avec les poules,poules,animal,matinalité,habitude; travail,matinalité,temps_espace,"['autre', 'comportement', 'temps_espace']",0,0,1,0,0,1,0,0,0,0,0,0,1,0,0
+tuer la poule aux œufs d’or,poule,animal,gaspillage,cupidité; destruction,gaspillage,gaspillage,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+bayer aux corneilles,corneilles,animal,distraction,rêverie; inattention,distraction,distraction,"['autre', 'cognition']",0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+marcher en crabe,crabe,animal,démarche latérale,maladresse; déplacement,démarche latérale,temps_espace,"['autre', 'capacité', 'temps_espace']",0,0,1,1,0,0,0,0,0,0,0,0,1,0,0
+un panier de crabes,crabes,animal,conflit,hostilité; rivalité,conflit,social,"['autre', 'social']",0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+marcher comme une écrevisse,écrevisse,animal,recul,régression; maladresse,recul,comportement,"['autre', 'capacité', 'comportement']",0,0,1,1,0,1,0,0,0,0,0,0,0,0,0
+des larmes de crocodile,crocodile,animal,hypocrisie,fausse compassion; manipulation,hypocrisie,morale,"['autre', 'morale']",0,0,1,0,0,0,0,0,1,0,0,0,0,0,0
+être le dindon de la farce,dindon,animal,duperie,ridicule; victime,duperie,duperie,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+avoir une mémoire d’éléphant,éléphant,animal,mémoire,souvenir; intelligence,mémoire,cognition,"['autre', 'cognition']",0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+comme un éléphant dans un magasin de porcelaine,éléphant,animal,maladresse,brutalité; inadaptation,maladresse,capacité,"['autre', 'capacité']",0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+avancer comme un escargot,escargot,animal,lenteur,progression; patience,lenteur,temps_espace,"['autre', 'temps_espace']",0,0,1,0,0,0,0,0,0,0,0,0,1,0,0
+avoir des fourmis dans les jambes,fourmis,animal,engourdissement,sensation physique; inconfort,engourdissement,état_physique,"['autre', 'état_physique']",0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+donner un coup de pied dans la fourmilière,fourmilière,animal,bouleversement,provocation; changement,bouleversement,bouleversement,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+pulluler comme des fourmis,fourmis,animal,abondance,foule; prolifération,abondance,quantité_valeur,"['autre', 'quantité_valeur']",0,0,1,0,0,0,0,0,0,0,1,0,0,0,0
+une vraie fourmi,fourmi,animal,travailleur,persévérance; économie,travailleur,travailleur,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+avoir un cou de girafe,girafe,animal,caractéristique physique,longueur; apparence,caractéristique physique,apparence,"['apparence', 'autre']",0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+une grenouille de bénitier,grenouille,animal,dévotion excessive,religion; hypocrisie,dévotion excessive,dévotion excessive,"['autre', 'morale']",0,0,1,0,0,0,0,0,1,0,0,0,0,0,0
+faire le pied de grue,grue,animal,attente,longueur; immobilité,attente,attente,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+être une grue,grue,animal,prostitution,vulgarité; séduction,prostitution,prostitution,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+faire la grue,grue,animal,stupidité,naïveté; maladresse,stupidité,cognition,"['autre', 'capacité', 'cognition']",0,0,1,1,1,0,0,0,0,0,0,0,0,0,0
+pas folle la guêpe,guêpe,animal,ruse,intelligence; prudence,ruse,ruse,"['autre', 'cognition']",0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+un coup de pied dans un nid de guêpes,guêpes,animal,provocation,conflit; danger,provocation,provocation,"['autre', 'problème', 'social']",0,0,1,0,0,0,0,0,0,1,0,1,0,0,0
+ça ne vaut pas un pet de lapin,lapin,animal,valeur insignifiante,inutilité; mépris,valeur insignifiante,quantité_valeur,"['autre', 'quantité_valeur']",0,0,1,0,0,0,0,0,0,0,1,0,0,0,0
+courir comme un lapin,lapin,animal,vitesse,fuite; rapidité,vitesse,temps_espace,"['comportement', 'temps_espace']",0,0,0,0,0,1,0,0,0,0,0,0,1,0,0
+poser un lapin à quelqu’un,lapin,animal,absence injustifiée,rendez-vous manqué; désinvolture,absence injustifiée,absence injustifiée,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+trouver le lièvre au gîte,lièvre,animal,découverte,recherche; solution,découverte,découverte,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+un chaud lapin,lapin,animal,séduction,sexualité; énergie,séduction,séduction,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+faire le lézard,lézard,animal,oisiveté,soleil; détente,oisiveté,comportement,"['autre', 'comportement']",0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+avoir mangé du lion,lion,animal,énergie,courage; agressivité,énergie,énergie,"['autre', 'morale']",0,0,1,0,0,0,0,0,1,0,0,0,0,0,0
+à pas de loup,loup,animal,discrétion,silence; prudence,discrétion,discrétion,"['autre', 'langage']",0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+avoir vu le loup,loup,animal,expérience sexuelle,maturité; initiation,expérience sexuelle,expérience sexuelle,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+être connu comme le loup blanc,loup,animal,notoriété,célébrité; visibilité,notoriété,social,"['autre', 'social']",0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+être un jeune loup,loup,animal,ambition,carriérisme; agressivité,ambition,désir,"['autre', 'désir']",0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
+hurler avec les loups,loups,animal,conformisme,opportunisme; adaptation,conformisme,conformisme,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+mettre le loup dans la bergerie,loup,animal,danger,trahison; imprudence,danger,problème,"['autre', 'morale', 'problème']",0,0,1,0,0,0,0,0,1,1,0,0,0,0,0
+se jeter dans la gueule du loup,loup,animal,danger imprudence; risque,désigne le fait de se précipiter dans une situation dangereuse,danger imprudence; risque,danger imprudence; risque,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+un froid de loup,loup,animal,froid intense,hiver; intempérie,froid intense,état_physique,"['autre', 'état_physique']",0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+une faim de loup,loup,animal,faim intense,appétit; voracité,faim intense,état_physique,"['autre', 'état_physique']",0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+des pattes de mouches,mouches,animal,écriture illisible,maladresse; graphie,écriture illisible,écriture illisible,"['autre', 'capacité']",0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+écraser une mouche avec un marteau,mouche,animal,disproportion,exagération; excès,disproportion,disproportion,"['autre', 'quantité_valeur']",0,0,1,0,0,0,0,0,0,0,1,0,0,0,0
+être une fine mouche,mouche,animal,ruse,intelligence; finesse,ruse,ruse,"['autre', 'cognition']",0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+faire d’une mouche un éléphant,mouche,animal,exagération,dramatisation; amplification,exagération,quantité_valeur,"['autre', 'quantité_valeur']",0,0,1,0,0,0,0,0,0,0,1,0,0,0,0
+faire la mouche du coche,mouche,animal,agitation inutile,importunité; prétention,agitation inutile,agitation inutile,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+faire querelle sur un pied de mouche,mouche,animal,chicane,dispute; détail,chicane,chicane,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+mourir comme des mouches,mouches,animal,mortalité massive,disparition; épidémie,mortalité massive,mortalité massive,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+ne pas entendre une mouche voler,mouche,animal,silence,calme; immobilité,silence,langage,"['autre', 'langage']",0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+ne pas faire de mal à une mouche,mouche,animal,gentillesse,innocuité; douceur,gentillesse,morale,"['autre', 'morale']",0,0,1,0,0,0,0,0,1,0,0,0,0,0,0
+prendre la mouche,mouche,animal,susceptibilité,colère; irritation,susceptibilité,susceptibilité,"['autre', 'émotion']",0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+quelle mouche l’a piqué ?,mouche,animal,comportement étrange,colère; changement,comportement étrange,comportement étrange,"['autre', 'émotion']",0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+tomber comme des mouches,mouches,animal,chute massive,épuisement; mortalité,chute massive,chute massive,"['autre', 'état_physique']",0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+bouc émissaire,bouc,animal,responsabilité injuste,accusation; sacrifice,responsabilité injuste,responsabilité injuste,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+brebis galeuse,brebis,animal,mauvaise influence,marginalité; déviance,mauvaise influence,mauvaise influence,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+comme des moutons de Panurge,moutons,animal,conformisme,imitation; absence d’esprit critique,conformisme,conformisme,"['autre', 'comportement']",0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+être un mouton,mouton,animal,conformisme,docilité; imitation,conformisme,conformisme,"['autre', 'comportement']",0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+doux comme un mouton,mouton,animal,douceur,docilité; calme,douceur,douceur,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+doux comme un agneau,agneau,animal,innocence,docilité; douceur,innocence,innocence,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+faire devenir chèvre,chèvre,animal,agacement,énervement; exaspération,agacement,émotion,"['autre', 'émotion']",0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+ménager la chèvre et le chou,chèvre,animal,compromis,diplomatie; équilibre,compromis,compromis,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+revenir à ses moutons,moutons,animal,retour au sujet,conversation; recentrage,retour au sujet,temps_espace,"['autre', 'temps_espace']",0,0,1,0,0,0,0,0,0,0,0,0,1,0,0
+se laisser manger la laine sur le dos,mouton,animal,exploitation,passivité; naïveté,exploitation,exploitation,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+un mouton à cinq pattes,mouton,animal,rareté,exception; singularité,rareté,rareté,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+manger comme un moineau,moineau,animal,petit appétit,frugalité; alimentation,petit appétit,alimentation,"['alimentation', 'autre']",1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+tirer sa poudre aux moineaux,moineaux,animal,gaspillage,inutilité; effort vain,gaspillage,gaspillage,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+une cervelle de moineau,moineau,animal,stupidité,étourderie; légèreté,stupidité,cognition,"['autre', 'cognition']",0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+une tête de linotte,linotte,animal,étourderie,oubli; distraction,étourderie,étourderie,"['autre', 'cognition']",0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+avoir un appétit d’oiseau,oiseau,animal,petit appétit,frugalité; alimentation,petit appétit,alimentation,"['alimentation', 'autre']",1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+des noms d’oiseaux,oiseaux,animal,insultes,injures; agressivité,insultes,langage,"['autre', 'langage']",0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+l’oiseau s’est envolé,oiseau,animal,fuite,disparition; évasion,fuite,comportement,"['autre', 'comportement']",0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+un oiseau de mauvais augure,oiseau,animal,mauvais présage,pessimisme; malchance,mauvais présage,mauvais présage,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+un oiseau de nuit,oiseau,animal,vie nocturne,sortie; habitude,vie nocturne,temps_espace,"['autre', 'comportement', 'temps_espace']",0,0,1,0,0,1,0,0,0,0,0,0,1,0,0
+un oiseau rare,oiseau,animal,rareté,exception; valeur,rareté,rareté,"['autre', 'quantité_valeur']",0,0,1,0,0,0,0,0,0,0,1,0,0,0,0
+une cervelle d’oiseau,oiseau,animal,étourderie,légèreté; distraction,étourderie,étourderie,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+vivre comme l’oiseau sur la branche,oiseau,animal,précarité,insouciance; instabilité,précarité,précarité,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+à tire-d’aile,ailes,champ lexical de l’oiseau,rapidité,déplacement; vitesse,rapidité,temps_espace,"['autre', 'temps_espace']",0,0,1,0,0,0,0,0,0,0,0,0,1,0,0
+avoir du plomb dans l’aile,aile,champ lexical de l’oiseau,affaiblissement,difficulté; déclin,affaiblissement,affaiblissement,"['autre', 'problème']",0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+avoir un coup dans l’aile,aile,champ lexical de l’oiseau,affaiblissement,blessure; difficulté,affaiblissement,affaiblissement,"['autre', 'problème', 'état_physique']",0,0,1,0,0,0,0,0,0,1,0,0,0,0,1
+avoir un fil à la patte,patte,champ lexical de l’oiseau,attache,contrainte; relation,attache,attache,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+battre de l’aile,aile,champ lexical de l’oiseau,déclin,affaiblissement; difficulté,déclin,problème,"['autre', 'problème']",0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+clore le bec à quelqu’un,bec,champ lexical de l’oiseau,faire taire,autorité; réplique,faire taire,langage,"['autre', 'langage']",0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+défendre bec et ongles,bec,champ lexical de l’oiseau,défense acharnée,résistance; agressivité,défense acharnée,comportement,"['autre', 'comportement']",0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+faire la roue,roue,champ lexical de l’oiseau,parade,orgueil; séduction,parade,parade,"['autre', 'morale']",0,0,1,0,0,0,0,0,1,0,0,0,0,0,0
+laisser quelqu’un le bec dans l’eau,bec,champ lexical de l’oiseau,frustration,déception; attente,frustration,émotion,"['autre', 'émotion']",0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+perdre des plumes,plumes,champ lexical de l’oiseau,perte,affaiblissement; argent,perte,problème,"['autre', 'problème']",0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+rabattre le caquet à quelqu’un,caquet,champ lexical de l’oiseau,humiliation,silence; domination,humiliation,humiliation,"['autre', 'langage']",0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+ronger les ailes à quelqu’un,ailes,champ lexical de l’oiseau,limitation,entrave; contrôle,limitation,limitation,"['autre', 'social']",0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+roupie de sansonnet,sansonnet,champ lexical de l’oiseau,chose sans valeur,insignifiance; mépris,chose sans valeur,quantité_valeur,"['autre', 'quantité_valeur']",0,0,1,0,0,0,0,0,0,0,1,0,0,0,0
+se brûler les ailes,ailes,champ lexical de l’oiseau,échec,ambition; risque,échec,problème,"['désir', 'problème']",0,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+se dresser sur les ergots,ergots,champ lexical de l’oiseau,colère,défense; agressivité,colère,émotion,"['autre', 'émotion']",0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+tordre le cou à quelqu’un,cou,champ lexical de l’oiseau,élimination,violence; suppression,élimination,élimination,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+une prise de bec,bec,champ lexical de l’oiseau,dispute,conflit; altercation,dispute,dispute,"['autre', 'social']",0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+un blanc-bec,bec,champ lexical de l’oiseau,jeunesse inexpérience; naïveté,désigne un jeune homme inexpérimenté,jeunesse inexpérience; naïveté,jeunesse inexpérience; naïveté,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+voler de ses propres ailes,ailes,champ lexical de l’oiseau,autonomie,indépendance; maturité,autonomie,autonomie,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+bête comme une oie,oie,animal,stupidité,naïveté; crédulité,stupidité,cognition,"['autre', 'cognition']",0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+une oie blanche,oie,animal,innocence,naïveté; pureté,innocence,innocence,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+une patte d’oie,oie,animal,ride,marque du temps; vieillissement,ride,apparence,"['apparence', 'autre']",0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+un ours mal léché,ours,animal,mauvais caractère,grossièreté; sociabilité,mauvais caractère,mauvais caractère,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+fier comme un paon,paon,animal,orgueil,prétention; vanité,orgueil,morale,"['autre', 'morale']",0,0,1,0,0,0,0,0,1,0,0,0,0,0,0
+être bavard comme une pie,pie,animal,bavardage,parole excessive; indiscrétion,bavardage,langage,"['autre', 'langage']",0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+bailler comme une carpe,carpe,animal,silence,inexpressivité; maladresse,silence,langage,"['autre', 'capacité', 'langage']",0,0,1,1,0,0,0,1,0,0,0,0,0,0,0
+boire la mer et ses poissons,poissons,animal,ambition irréaliste,excès; impossibilité,ambition irréaliste,désir,"['désir', 'problème', 'quantité_valeur']",0,0,0,0,0,0,1,0,0,1,1,0,0,0,0
+comme un poisson dans l’eau,poisson,animal,aisance,adaptation; confort,aisance,aisance,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+comme un poisson hors de l’eau,poisson,animal,malaise,inadaptation; inconfort,malaise,état_physique,"['autre', 'état_physique']",0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+être serrés comme des anchois,anchois,animal,promiscuité,foule; manque d’espace,promiscuité,promiscuité,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+être serrés comme des sardines,sardines,animal,promiscuité,foule; manque d’espace,promiscuité,promiscuité,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+faire une queue de poisson,poisson,animal,conduite dangereuse,circulation; manœuvre,conduite dangereuse,conduite dangereuse,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+finir en queue de poisson,poisson,animal,fin décevante,interruption; inachèvement,fin décevante,fin décevante,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+ignorant comme une carpe,carpe,animal,ignorance,incompréhension; naïveté,ignorance,cognition,"['autre', 'cognition']",0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+il y a anguille sous roche,anguille,animal,suspicion,mystère; tromperie,suspicion,cognition,"['autre', 'cognition']",0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+jeune chair et vieux poisson,poisson,animal,différence d’âge,couple; mariage,différence d’âge,différence d’âge,"['autre', 'social']",0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+menu fretin,fretin,animal,insignifiance,foule; petites gens,insignifiance,insignifiance,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+muet comme une carpe,carpe,animal,silence,discrétion; absence de parole,silence,langage,"['autre', 'langage']",0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+ni chair ni poisson,poisson,animal,ambiguïté,indétermination; incohérence,ambiguïté,ambiguïté,"['autre', 'cognition']",0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+être laid comme un pou,pou,animal,laideur,moquerie; apparence,laideur,apparence,"['apparence', 'autre']",0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+être sale comme un pou,pou,animal,saleté,négligence; hygiène,saleté,saleté,"['autre', 'comportement']",0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+fier comme un pou,pou,animal,orgueil,prétention; vanité,orgueil,morale,"['autre', 'morale']",0,0,1,0,0,0,0,0,1,0,0,0,0,0,0
+chercher des poux à quelqu’un,poux,animal,provocation,chicane; dispute,provocation,provocation,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+avoir la puce à l’oreille,puce,animal,suspicion,inquiétude; doute,suspicion,cognition,"['cognition', 'émotion']",0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+mettre la puce à l’oreille,puce,animal,suspicion,indice; inquiétude,suspicion,cognition,"['autre', 'cognition', 'émotion']",0,0,1,0,1,0,0,0,0,0,0,0,0,1,0
+secouer les puces à quelqu’un,puces,animal,réprimande,colère; correction,réprimande,langage,"['autre', 'langage', 'émotion']",0,0,1,0,0,0,0,1,0,0,0,0,0,1,0
+crier comme un putois,putois,animal,cri excessif,bruit; agitation,cri excessif,cri excessif,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+être fait comme un rat,rat,animal,situation sans issue,piège; condamnation,situation sans issue,problème,"['autre', 'problème']",0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+être rat,rat,animal,avarice,économie excessive; pingrerie,avarice,morale,"['autre', 'morale']",0,0,1,0,0,0,0,0,1,0,0,0,0,0,0
+face de rat,rat,animal,apparence physique,laideur; maigreur,apparence physique,apparence,['apparence'],0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+la montagne accouche d’une souris,souris,animal,déception,disproportion; résultat insignifiant,déception,déception,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+un vieux renard,renard,animal,expérience,ruse; intelligence,expérience,expérience,"['autre', 'cognition']",0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+rusé comme un renard,renard,animal,ruse,intelligence; malice,ruse,ruse,"['autre', 'cognition']",0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+avaler des couleuvres,couleuvres,animal,humiliation,résignation; injustice,humiliation,humiliation,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+être paresseux comme une couleuvre,couleuvre,animal,paresse,inactivité; lenteur,paresse,comportement,"['autre', 'comportement', 'temps_espace']",0,0,1,0,0,1,0,0,0,0,0,0,1,0,0
+réchauffer un serpent dans son sein,serpent,animal,ingratitude,trahison; naïveté,ingratitude,morale,"['autre', 'morale']",0,0,1,0,0,0,0,0,1,0,0,0,0,0,0
+une langue de vipère,vipère,animal,médisance,méchanceté; parole blessante,médisance,langage,"['autre', 'langage', 'morale']",0,0,1,0,0,0,0,1,1,0,0,0,0,0,0
+faire le singe,singe,animal,imitation,bouffonnerie; ridicule,imitation,comportement,"['autre', 'comportement']",0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+malin comme un singe,singe,animal,ruse,intelligence; débrouillardise,ruse,ruse,"['autre', 'cognition']",0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+payer en monnaie de singe,singe,animal,paiement illusoire,tromperie; absence de valeur,paiement illusoire,paiement illusoire,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+méchant comme une teigne,teigne,animal,méchanceté,agressivité; mauvais caractère,méchanceté,morale,"['autre', 'morale']",0,0,1,0,0,0,0,0,1,0,0,0,0,0,0
+à pas de tortue,tortue,animal,lenteur,progression; patience,lenteur,temps_espace,"['autre', 'temps_espace']",0,0,1,0,0,0,0,0,0,0,0,0,1,0,0
+nu comme un ver,ver,animal,nudité,pauvreté; vulnérabilité,nudité,nudité,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+pas piqué des vers,vers,animal,extraordinaire,surprenant; remarquable,extraordinaire,autre,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+pas piqué des hannetons,hannetons,animal,extraordinaire,surprenant; remarquable,extraordinaire,autre,['autre'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+courir comme un zèbre,zèbre,animal,vitesse,rapidité; agitation,vitesse,temps_espace,"['autre', 'temps_espace']",0,0,1,0,0,0,0,0,0,0,0,0,1,0,0

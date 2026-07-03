@@ -1,0 +1,765 @@
+﻿expression,mot_clef,labels,gold_main_label,pred_rule,rule_correct
+faire la barbe à quelqu'un,barbe,"['autre', 'social']",autre,autre,True
+rire dans sa barbe,barbe,['autre'],autre,autre,True
+avoir la gueule enfarinée,gueule,"['autre', 'émotion']",autre,autre,True
+avoir la gueule de bois,gueule,"['autre', 'état_physique']",autre,autre,True
+avoir l’eau à la bouche,bouche,"['autre', 'désir']",autre,autre,True
+être né avec une cuillère d’argent dans la bouche,bouche,"['autre', 'social']",autre,autre,True
+faire la fine bouche,bouche,"['autre', 'comportement']",autre,autre,True
+garder bouche cousue,bouche,"['autre', 'langage']",autre,autre,True
+la bouche en cœur,bouche,['autre'],autre,autre,True
+la bouche en cul de poule,bouche,"['apparence', 'autre', 'émotion']",apparence,autre,True
+retirer le pain de la bouche à quelqu’un,bouche,['autre'],autre,autre,True
+à bras ouverts,bras,"['autre', 'social', 'émotion']",autre,autre,True
+avoir le bras long,bras,"['autre', 'social']",autre,autre,True
+avoir quelqu’un sur les bras,bras,['autre'],autre,autre,True
+être dans les bras de Morphée,bras,['autre'],autre,autre,True
+être le bras droit de quelqu’un,bras,['autre'],autre,autre,True
+faire un bras d’honneur,bras,"['autre', 'langage']",autre,autre,True
+jouer les gros bras,bras,['autre'],autre,autre,True
+les bras m’en tombent,bras,"['autre', 'émotion']",autre,autre,True
+se croiser les bras,bras,['autre'],autre,autre,True
+tenir à bout de bras,bras,"['autre', 'comportement']",autre,autre,True
+bien en chair,chair,"['apparence', 'autre']",apparence,autre,True
+en chair et en os,chair,['autre'],autre,autre,True
+arriver comme un cheveu sur la soupe,cheveu,"['autre', 'capacité']",autre,autre,True
+avoir mal aux cheveux,cheveux,"['autre', 'état_physique']",autre,autre,True
+avoir les cheveux en bataille,cheveux,"['apparence', 'autre', 'état_physique']",apparence,autre,True
+avoir un cheveu sur la langue,cheveu,"['autre', 'capacité', 'langage']",autre,autre,True
+couper les cheveux en quatre,cheveux,"['autre', 'problème']",autre,autre,True
+être à un cheveu de,cheveu,"['autre', 'problème']",autre,autre,True
+ne tenir qu’à un cheveu,cheveu,['autre'],autre,autre,True
+s’arracher les cheveux,cheveux,['émotion'],émotion,autre,False
+saisir l’occasion par les cheveux,cheveux,['autre'],autre,autre,True
+se crêper le chignon,chignon,"['autre', 'social']",autre,autre,True
+se faire des cheveux blancs,cheveux,"['autre', 'émotion']",autre,autre,True
+tirer par les cheveux,cheveux,"['autre', 'quantité_valeur']",autre,autre,True
+avoir l’âme chevillée au corps,cheville,"['autre', 'comportement', 'morale']",autre,autre,True
+avoir les chevilles qui enflent,chevilles,"['autre', 'morale']",autre,autre,True
+être la cheville ouvrière,cheville,['autre'],autre,autre,True
+être en cheville avec quelqu’un,cheville,"['autre', 'social']",autre,autre,True
+ne pas remuer un cil,cil,['autre'],autre,autre,True
+rire à s’en tenir les côtes,côtes,['autre'],autre,autre,True
+laisser la bride sur le cou de quelqu’un,cou,['autre'],autre,autre,True
+sauter au cou de quelqu’un,cou,"['social', 'émotion']",social,autre,False
+se jeter au cou,cou,['émotion'],émotion,autre,False
+se mettre la corde au cou,cou,"['autre', 'comportement', 'social']",autre,autre,True
+tordre le cou à une idée,cou,"['autre', 'langage']",autre,autre,True
+avoir des couilles au cul,couilles,"['autre', 'morale']",autre,autre,True
+casser les couilles à quelqu’un,couilles,"['autre', 'émotion']",autre,autre,True
+partir en couilles,couilles,"['autre', 'problème']",autre,autre,True
+se faire des couilles en or,couilles,"['autre', 'quantité_valeur']",autre,autre,True
+être au coude à coude,coude,"['autre', 'social']",autre,autre,True
+garder sous le coude,coude,['autre'],autre,autre,True
+huile de coude,coude,"['autre', 'comportement']",autre,autre,True
+jouer des coudes,coudes,"['autre', 'social']",autre,autre,True
+lever le coude,coude,"['alimentation', 'autre']",alimentation,autre,True
+se tenir les coudes,coudes,"['autre', 'social']",autre,autre,True
+aller droit au cœur,cœur,"['autre', 'émotion']",autre,autre,True
+arracher le cœur,cœur,"['autre', 'émotion']",autre,autre,True
+avoir bon cœur,cœur,"['autre', 'morale']",autre,autre,True
+avoir du cœur,cœur,"['autre', 'morale']",autre,autre,True
+avoir le cœur barbouillé,cœur,"['émotion', 'état_physique']",émotion,autre,False
+avoir le cœur au bord des lèvres,cœur,"['émotion', 'état_physique']",émotion,autre,False
+avoir du cœur à l’ouvrage,cœur,"['autre', 'comportement']",autre,autre,True
+avoir une pierre à la place du cœur,cœur,['autre'],autre,autre,True
+avoir le cœur bien accroché,cœur,"['autre', 'morale', 'émotion']",autre,autre,True
+avoir le cœur gros,cœur,"['autre', 'émotion']",autre,autre,True
+avoir le cœur sur la main,cœur,"['autre', 'morale']",autre,autre,True
+avoir mal au cœur,cœur,"['émotion', 'état_physique']",émotion,autre,False
+prendre quelque chose à cœur,cœur,"['autre', 'émotion']",autre,autre,True
+avoir quelque chose sur le cœur,cœur,"['langage', 'émotion']",langage,autre,False
+connaître par cœur,cœur,"['autre', 'capacité', 'cognition']",autre,autre,True
+de bon cœur,cœur,['morale'],morale,autre,False
+donner du cœur au ventre,cœur,"['autre', 'morale']",autre,autre,True
+en avoir gros sur le cœur,cœur,"['autre', 'émotion']",autre,autre,True
+en avoir le cœur net,cœur,"['autre', 'cognition']",autre,autre,True
+enfoncer un couteau dans le cœur,cœur,"['autre', 'morale', 'émotion']",autre,autre,True
+être de tout cœur avec quelqu’un,cœur,"['autre', 'social']",autre,autre,True
+être joli comme un cœur,cœur,"['apparence', 'autre']",apparence,autre,True
+faire battre le cœur,cœur,"['autre', 'émotion']",autre,autre,True
+faire chaud au cœur,cœur,['autre'],autre,autre,True
+faire contre mauvaise fortune bon cœur,cœur,"['autre', 'morale']",autre,autre,True
+faire le joli cœur,cœur,['autre'],autre,autre,True
+le cri du cœur,cœur,"['autre', 'morale', 'émotion']",autre,autre,True
+lever le cœur,cœur,"['autre', 'émotion', 'état_physique']",autre,autre,True
+ne pas avoir le cœur de faire quelque chose,cœur,"['autre', 'émotion']",autre,autre,True
+ne pas porter quelqu’un dans son cœur,cœur,['autre'],autre,autre,True
+offrir son cœur,cœur,"['autre', 'émotion']",autre,autre,True
+ouvrir son cœur,cœur,"['autre', 'langage', 'morale']",autre,autre,True
+réchauffer le cœur de quelqu’un,cœur,"['autre', 'émotion']",autre,autre,True
+retourner le cœur,cœur,"['autre', 'émotion', 'état_physique']",autre,autre,True
+s’en donner à cœur joie,cœur,"['autre', 'émotion']",autre,autre,True
+serrer le cœur,cœur,"['autre', 'émotion']",autre,autre,True
+si le cœur vous en dit,cœur,"['autre', 'désir']",autre,autre,True
+un bourreau des cœurs,cœur,['autre'],autre,autre,True
+un cœur de pierre,cœur,['autre'],autre,autre,True
+un cœur d’or,cœur,"['autre', 'morale']",autre,autre,True
+un homme de cœur,cœur,"['autre', 'morale']",autre,autre,True
+un coup de cœur,cœur,"['désir', 'émotion']",désir,autre,False
+une peine de cœur,cœur,"['autre', 'émotion']",autre,autre,True
+y aller de bon cœur,cœur,"['autre', 'morale', 'émotion']",autre,autre,True
+avoir le diable au corps,corps,"['autre', 'désir']",autre,autre,True
+corps et âme,corps,"['autre', 'comportement', 'morale']",autre,autre,True
+couler corps et biens,corps,"['autre', 'problème']",autre,autre,True
+pleurer toutes les larmes de son corps,corps,"['autre', 'émotion']",autre,autre,True
+travailler quelqu’un au corps,corps,"['autre', 'langage']",autre,autre,True
+avoir la cuisse légère,cuisse,['autre'],autre,autre,True
+se croire sorti de la cuisse de Jupiter,cuisse,"['autre', 'morale']",autre,autre,True
+avoir la dalle,dalle,"['autre', 'désir', 'état_physique']",autre,autre,True
+crever la dalle,dalle,"['autre', 'état_physique']",autre,autre,True
+se rincer la dalle,dalle,"['alimentation', 'autre', 'émotion']",alimentation,autre,True
+avoir la dalle en pente,dalle,"['alimentation', 'autre', 'désir']",alimentation,autre,True
+avoir les crocs,dents,"['autre', 'désir', 'état_physique']",autre,autre,True
+avoir une dent contre quelqu’un,dent,"['autre', 'émotion']",autre,autre,True
+avoir la dent dure,dent,['autre'],autre,autre,True
+avoir les dents du bonheur,dents,"['apparence', 'autre']",apparence,autre,True
+avoir les dents longues,dents,"['autre', 'désir']",autre,autre,True
+avoir quelque chose à se mettre sous la dent,dent,"['alimentation', 'autre']",alimentation,autre,True
+claquer des dents,dents,"['autre', 'état_physique']",autre,autre,True
+creuser sa tombe avec ses dents,dents,"['alimentation', 'autre', 'quantité_valeur']",alimentation,autre,True
+croquer à belles dents,dents,"['autre', 'désir', 'émotion']",autre,autre,True
+dévorer la vie à belles dents,dents,"['autre', 'émotion']",autre,autre,True
+déchirer quelqu’un à belles dents,dents,"['autre', 'langage']",autre,autre,True
+être armé jusqu’aux dents,dents,"['autre', 'comportement']",autre,autre,True
+grincer des dents,dents,"['autre', 'émotion']",autre,autre,True
+mentir comme un arracheur de dents,dents,"['autre', 'quantité_valeur']",autre,autre,True
+montrer les dents,dents,"['autre', 'problème']",autre,autre,True
+ne pas desserrer les dents,dents,"['autre', 'langage']",autre,autre,True
+prendre la lune avec les dents,dents,"['autre', 'cognition']",autre,autre,True
+prendre le mors aux dents,dents,['autre'],autre,autre,True
+se casser les dents sur quelque chose,dents,['problème'],problème,autre,False
+serrer les dents,dents,"['capacité', 'comportement', 'morale']",capacité,autre,False
+avoir des doigts de fée,doigts,"['autre', 'capacité']",autre,autre,True
+à se lécher les doigts,doigts,"['alimentation', 'désir', 'émotion']",alimentation,autre,False
+connaître sur le bout des doigts,doigts,"['capacité', 'cognition']",capacité,autre,False
+croiser les doigts,doigts,"['autre', 'émotion']",autre,autre,True
+être à deux doigts de,doigts,"['autre', 'problème']",autre,autre,True
+il s’en est fallu d’un doigt,doigt,"['autre', 'temps_espace']",autre,autre,True
+les doigts dans le nez,doigts,['autre'],autre,autre,True
+mettre le doigt dans l’engrenage,doigt,"['autre', 'comportement']",autre,autre,True
+mettre le doigt entre l’arbre et l’écorce,doigt,"['autre', 'social']",autre,autre,True
+mettre le doigt sur la plaie,doigt,['autre'],autre,autre,True
+mettre le doigt sur quelque chose,doigt,['autre'],autre,autre,True
+mon petit doigt m’a dit,doigt,['autre'],autre,autre,True
+ne pas lever le petit doigt,doigt,"['autre', 'comportement']",autre,autre,True
+ne rien savoir faire de ses dix doigts,doigts,"['autre', 'capacité']",autre,autre,True
+obéir au doigt et à l’œil,doigt,['autre'],autre,autre,True
+passer la bague au doigt,doigt,"['autre', 'social']",autre,autre,True
+s’en mordre les doigts,doigts,"['autre', 'émotion']",autre,autre,True
+se faire montrer du doigt,doigt,"['autre', 'social', 'émotion']",autre,autre,True
+se faire taper sur les doigts,doigts,"['autre', 'langage']",autre,autre,True
+se mettre le doigt dans l’œil,doigt,"['autre', 'cognition']",autre,autre,True
+avoir bon dos,dos,['autre'],autre,autre,True
+avoir le dos large,dos,['autre'],autre,autre,True
+casser du sucre sur le dos de quelqu’un,dos,"['autre', 'langage']",autre,autre,True
+derrière le dos de quelqu’un,dos,"['autre', 'morale']",autre,autre,True
+en avoir plein le dos,dos,"['autre', 'émotion', 'état_physique']",autre,autre,True
+être le dos au mur,dos,"['autre', 'problème']",autre,autre,True
+être sur le dos de quelqu’un,dos,"['autre', 'social']",autre,autre,True
+faire froid dans le dos,dos,"['autre', 'émotion']",autre,autre,True
+faire la bête à deux dos,dos,['autre'],autre,autre,True
+faire le dos rond,dos,['autre'],autre,autre,True
+faire le gros dos,dos,['autre'],autre,autre,True
+faire un enfant dans le dos de quelqu’un,dos,"['autre', 'morale']",autre,autre,True
+mettre quelque chose sur le dos de quelqu’un,dos,['autre'],autre,autre,True
+renvoyer dos à dos,dos,"['autre', 'social']",autre,autre,True
+se laisser tondre la laine sur le dos,dos,['autre'],autre,autre,True
+se mettre quelqu’un à dos,dos,"['autre', 'social']",autre,autre,True
+tourner le dos à quelqu’un,dos,['autre'],autre,autre,True
+courber l’échine,échine,"['autre', 'social']",autre,autre,True
+avoir l’échine basse,échine,"['autre', 'social', 'émotion']",autre,autre,True
+avoir les épaules larges,épaules,"['autre', 'capacité']",autre,autre,True
+avoir les épaules solides,épaules,"['autre', 'comportement']",autre,autre,True
+avoir l’estomac dans les talons,estomac,"['autre', 'état_physique']",autre,autre,True
+avoir un creux à l’estomac,estomac,"['autre', 'état_physique']",autre,autre,True
+avoir un estomac d’autruche,estomac,['autre'],autre,autre,True
+avoir l’estomac bien accroché,estomac,"['autre', 'morale', 'émotion']",autre,autre,True
+le faire à l’estomac,estomac,['autre'],autre,autre,True
+rester sur l’estomac,estomac,"['autre', 'émotion']",autre,autre,True
+à visage découvert,visage,"['autre', 'langage']",autre,autre,True
+avoir une mine de papier mâché,mine,"['apparence', 'autre', 'état_physique']",apparence,apparence,True
+se caler les joues,joues,"['alimentation', 'autre', 'désir']",alimentation,alimentation,True
+se voiler la face,face,"['autre', 'cognition']",autre,autre,True
+une face de carême,face,"['autre', 'émotion']",autre,autre,True
+une mine de déterré,mine,"['apparence', 'autre', 'état_physique']",apparence,apparence,True
+un visage en lame de couteau,visage,"['apparence', 'autre', 'état_physique']",apparence,autre,True
+avoir du cul,cul,['autre'],autre,autre,True
+en avoir plein le cul,cul,"['autre', 'émotion', 'état_physique']",autre,autre,True
+faire cul sec,cul,"['alimentation', 'autre']",alimentation,autre,True
+l’avoir dans le cul,cul,"['problème', 'émotion']",problème,autre,False
+lécher le cul,cul,"['autre', 'morale', 'social']",autre,autre,True
+péter plus haut que son cul,cul,['autre'],autre,autre,True
+poser ses fesses,fesses,['autre'],autre,autre,True
+se casser le cul,cul,"['comportement', 'état_physique']",comportement,autre,False
+se geler les fesses,fesses,"['autre', 'état_physique']",autre,autre,True
+s’occuper de son cul,cul,['autre'],autre,autre,True
+serrer les fesses,fesses,['émotion'],émotion,autre,False
+se taper le cul par terre,cul,['autre'],autre,autre,True
+tomber sur le cul,cul,"['autre', 'émotion']",autre,autre,True
+un faux cul,cul,"['autre', 'morale']",autre,autre,True
+être sur le flanc,flanc,"['autre', 'état_physique']",autre,autre,True
+tirer au flanc,flanc,"['autre', 'comportement']",autre,autre,True
+gagner son pain à la sueur de son front,front,"['autre', 'comportement']",autre,autre,True
+avoir les foies,foie,['émotion'],émotion,émotion,True
+être sur les genoux,genoux,"['autre', 'état_physique']",autre,autre,True
+faire du genou,genou,['autre'],autre,autre,True
+mettre le couteau sous la gorge,gorge,"['autre', 'problème']",autre,autre,True
+rester en travers de la gorge,gorge,['émotion'],émotion,autre,False
+rire à gorge déployée,gorge,['autre'],autre,autre,True
+à toutes jambes,jambes,"['autre', 'temps_espace']",autre,autre,True
+avoir les jambes en marmelade,jambes,"['autre', 'état_physique']",autre,autre,True
+ça fait une belle jambe,jambe,['autre'],autre,autre,True
+faire des ronds de jambe,jambe,"['autre', 'social']",autre,autre,True
+faire quelque chose par-dessus la jambe,jambe,"['autre', 'comportement']",autre,autre,True
+prendre ses jambes à son cou,jambes,"['comportement', 'temps_espace', 'émotion']",comportement,autre,False
+tenir la jambe à quelqu’un,jambe,['autre'],autre,autre,True
+tirer dans les jambes,jambes,['autre'],autre,autre,True
+un pansement sur une jambe de bois,jambe,['autre'],autre,autre,True
+une partie de jambes en l’air,jambes,"['autre', 'émotion']",autre,autre,True
+avoir la langue bien pendue,langue,"['autre', 'langage']",autre,autre,True
+avoir un mot sur le bout de la langue,langue,"['autre', 'cognition']",autre,autre,True
+être mauvaise langue,langue,"['autre', 'langage']",autre,autre,True
+manier la langue de bois,langue,"['autre', 'langage']",autre,autre,True
+ne pas avoir la langue dans sa poche,langue,"['autre', 'langage']",autre,autre,True
+se mordre la langue,langue,['autre'],autre,autre,True
+tenir sa langue,langue,"['autre', 'langage']",autre,autre,True
+du bout des lèvres,lèvres,['autre'],autre,autre,True
+se lécher les babines,babines,"['autre', 'désir', 'émotion']",autre,autre,True
+avoir deux mains gauches,mains,"['autre', 'capacité']",autre,autre,True
+avoir la main,main,"['autre', 'social']",autre,autre,True
+avoir la main lourde,main,"['autre', 'quantité_valeur']",autre,autre,True
+avoir les mains baladeuses,mains,['autre'],autre,autre,True
+avoir les mains liées,mains,"['autre', 'problème']",autre,autre,True
+avoir perdu la main,main,"['autre', 'capacité', 'cognition']",autre,autre,True
+avoir quelque chose en main,main,"['autre', 'comportement', 'social']",autre,autre,True
+avoir un poil dans la main,main,"['autre', 'comportement']",autre,autre,True
+de main de maître,main,"['autre', 'capacité']",autre,autre,True
+demander la main de,main,"['autre', 'social']",autre,autre,True
+de première main,main,['autre'],autre,autre,True
+donner un coup de main,main,"['autre', 'social']",autre,autre,True
+en mettre sa main à couper,main,"['autre', 'cognition']",autre,autre,True
+en venir aux mains,mains,['autre'],autre,autre,True
+entre bonnes mains,mains,['autre'],autre,autre,True
+en un tour de main,main,"['autre', 'temps_espace']",autre,autre,True
+être comme les doigts de la main,doigts,"['social', 'temps_espace']",social,autre,False
+être entre de bonnes mains,mains,['autre'],autre,autre,True
+faire des pieds et des mains,mains,"['autre', 'comportement']",autre,autre,True
+forcer la main à quelqu’un,main,['autre'],autre,autre,True
+haut la main,main,['autre'],autre,autre,True
+mettre la main à la pâte,main,"['autre', 'comportement']",autre,autre,True
+mettre sa main au feu,main,"['autre', 'cognition']",autre,autre,True
+mettre la main au collet de quelqu’un,main,"['autre', 'social']",autre,autre,True
+ne pas y aller de main morte,main,"['autre', 'quantité_valeur']",autre,autre,True
+passer la main à quelqu’un,main,['autre'],autre,autre,True
+passer la main dans le dos de quelqu’un,main,"['social', 'temps_espace', 'émotion']",social,autre,False
+pouvoir se compter sur les doigts d’une main,doigts,['autre'],autre,autre,True
+préférer se couper la main plutôt que de,main,"['autre', 'comportement']",autre,autre,True
+prendre en main quelque chose,main,"['autre', 'social']",autre,autre,True
+prendre quelqu’un la main dans le sac,main,['autre'],autre,autre,True
+prendre son courage à deux mains,mains,"['autre', 'comportement', 'morale']",autre,autre,True
+prêter main-forte,main,"['autre', 'social']",autre,autre,True
+s’en laver les mains,mains,['autre'],autre,autre,True
+se faire la main,main,['autre'],autre,autre,True
+se frotter les mains,mains,"['autre', 'émotion']",autre,autre,True
+venir les mains dans les poches,mains,"['autre', 'comportement']",autre,autre,True
+avoir le menton en galoche,menton,"['apparence', 'autre']",apparence,apparence,True
+avoir les nerfs en pelote,nerfs,"['autre', 'émotion']",autre,autre,True
+être à bout de nerfs,nerfs,"['autre', 'émotion', 'état_physique']",autre,autre,True
+taper sur les nerfs,nerfs,"['autre', 'émotion']",autre,autre,True
+à vue de nez,nez,['autre'],autre,autre,True
+avoir un verre dans le nez,nez,"['alimentation', 'autre']",alimentation,autre,True
+avoir un nez en trompette,nez,"['apparence', 'autre']",apparence,autre,True
+avoir quelqu’un dans le nez,nez,['autre'],autre,autre,True
+avoir du nez,nez,"['autre', 'cognition']",autre,autre,True
+avoir sous le nez,nez,"['autre', 'temps_espace']",autre,autre,True
+faire un pied de nez,nez,['autre'],autre,autre,True
+la moutarde monte au nez,nez,"['autre', 'émotion']",autre,autre,True
+mener par le bout du nez,nez,"['autre', 'social']",autre,autre,True
+mettre le nez dehors,nez,"['autre', 'comportement']",autre,autre,True
+mettre son nez quelque part,nez,"['autre', 'désir']",autre,autre,True
+montrer le bout de son nez,nez,['autre'],autre,autre,True
+ne pas lever le nez,nez,"['autre', 'cognition', 'comportement']",autre,autre,True
+ne pas voir plus loin que le bout de son nez,nez,['autre'],autre,autre,True
+parler du nez,nez,"['autre', 'langage']",autre,autre,True
+passer sous le nez de quelqu’un,nez,"['autre', 'problème', 'temps_espace']",autre,autre,True
+prendre au nez,nez,['autre'],autre,autre,True
+prendre quelqu’un de nez,nez,['autre'],autre,autre,True
+se casser le nez,nez,"['autre', 'problème']",autre,autre,True
+se manger le nez,nez,"['autre', 'social']",autre,autre,True
+se piquer le nez,nez,"['alimentation', 'autre']",alimentation,autre,True
+se voir comme le nez au milieu de la figure,nez,['autre'],autre,autre,True
+sortir par les trous du nez,nez,"['autre', 'émotion']",autre,autre,True
+retomber sur le nez de quelqu’un,nez,"['autre', 'problème']",autre,autre,True
+tomber nez à nez avec quelqu’un,nez,"['autre', 'émotion']",autre,autre,True
+ton nez remue,nez,"['autre', 'cognition']",autre,autre,True
+avoir les ongles en deuil,ongles,"['apparence', 'autre', 'comportement']",apparence,autre,True
+payer rubis sur l’ongle,ongle,['autre'],autre,autre,True
+se défendre bec et ongles,ongles,"['autre', 'comportement']",autre,autre,True
+avoir de l’oreille,oreille,"['autre', 'capacité']",autre,autre,True
+avoir des oreilles en feuilles de chou,oreilles,"['apparence', 'autre']",apparence,autre,True
+avoir la puce à l’oreille,oreille,"['cognition', 'émotion']",cognition,autre,False
+avoir les oreilles qui sifflent,oreilles,"['autre', 'social']",autre,autre,True
+casser les oreilles à quelqu’un,oreilles,"['autre', 'émotion']",autre,autre,True
+de bouche à oreille,oreille,"['autre', 'langage']",autre,autre,True
+dormir sur ses deux oreilles,oreilles,['autre'],autre,autre,True
+échauffer les oreilles de quelqu’un,oreilles,"['autre', 'langage', 'émotion']",autre,autre,True
+entrer par une oreille et sortir par l’autre,oreille,"['autre', 'cognition']",autre,autre,True
+être dur d’oreille,oreille,['autre'],autre,autre,True
+faire la sourde oreille,oreille,"['autre', 'cognition', 'comportement']",autre,autre,True
+l’oreille aux aguets,oreille,"['autre', 'cognition']",autre,autre,True
+n’écouter que d’une oreille,oreille,"['autre', 'cognition']",autre,autre,True
+ne pas l’entendre de cette oreille,oreille,"['autre', 'comportement', 'social']",autre,autre,True
+ne pas tomber dans l’oreille d’un sourd,oreille,"['autre', 'social']",autre,autre,True
+rebattre les oreilles,oreilles,['autre'],autre,autre,True
+se faire tirer l’oreille,oreille,"['autre', 'temps_espace']",autre,autre,True
+tendre l’oreille,oreille,"['autre', 'cognition', 'désir']",autre,autre,True
+à l’œil,œil,"['autre', 'quantité_valeur']",autre,autre,True
+avoir des yeux de lynx,yeux,['autre'],autre,autre,True
+avoir le compas dans l’œil,œil,"['autre', 'capacité']",autre,autre,True
+avoir l’œil,œil,['autre'],autre,autre,True
+avoir les yeux plus grands que le ventre,yeux,"['désir', 'quantité_valeur']",désir,autre,False
+avoir un bandeau sur les yeux,yeux,"['autre', 'cognition']",autre,autre,True
+avoir une coquetterie dans l’œil,œil,"['apparence', 'autre']",apparence,autre,True
+c’est de la poudre aux yeux,yeux,"['apparence', 'autre', 'cognition']",apparence,autre,True
+coûter les yeux de la tête,yeux,"['autre', 'quantité_valeur']",autre,autre,True
+crever les yeux,yeux,['autre'],autre,autre,True
+des yeux de merlan frit,yeux,"['apparence', 'autre', 'cognition']",apparence,autre,True
+des yeux en boules de loto,yeux,"['autre', 'émotion']",autre,autre,True
+du coin de l’œil,œil,"['autre', 'cognition']",autre,autre,True
+en un clin d’œil,œil,"['autre', 'temps_espace']",autre,autre,True
+faire de l’œil,œil,['autre'],autre,autre,True
+faire les gros yeux à quelqu’un,yeux,"['autre', 'langage', 'problème']",autre,autre,True
+faire les yeux doux à,yeux,['autre'],autre,autre,True
+faire quelque chose à l’œil,œil,"['autre', 'quantité_valeur']",autre,autre,True
+jeter un coup d’œil,œil,"['autre', 'cognition']",autre,autre,True
+les écailles lui tombent des yeux,yeux,"['autre', 'cognition']",autre,autre,True
+les yeux fermés,yeux,"['autre', 'cognition']",autre,autre,True
+l’œil aux aguets,œil,"['autre', 'cognition']",autre,autre,True
+manger des yeux,yeux,"['autre', 'désir']",autre,autre,True
+mon œil,œil,"['autre', 'cognition', 'comportement']",autre,autre,True
+mener quelqu’un au doigt et à l’œil,œil,"['autre', 'social']",autre,autre,True
+ne dormir que d’un œil,œil,"['autre', 'émotion']",autre,autre,True
+ne pas avoir froid aux yeux,yeux,"['autre', 'morale']",autre,autre,True
+ne pas avoir les yeux dans sa poche,yeux,"['cognition', 'désir']",cognition,autre,False
+ne pas avoir les yeux en face des trous,yeux,"['capacité', 'cognition', 'état_physique']",capacité,autre,False
+ne pas en croire ses yeux,yeux,"['autre', 'cognition', 'émotion']",autre,autre,True
+ne pas fermer l’œil,œil,"['autre', 'émotion']",autre,autre,True
+ne plus avoir que ses yeux pour pleurer,yeux,"['autre', 'problème', 'émotion']",autre,autre,True
+ouvrir les yeux à quelqu’un sur quelque chose,yeux,"['autre', 'cognition']",autre,autre,True
+pour les beaux yeux de,yeux,"['autre', 'émotion']",autre,autre,True
+regarder d’un œil noir,œil,"['autre', 'émotion']",autre,autre,True
+regarder d’un œil critique,œil,"['autre', 'cognition']",autre,autre,True
+se rincer l’œil,œil,"['autre', 'désir']",autre,autre,True
+sortir par les yeux,yeux,"['autre', 'émotion']",autre,autre,True
+taper dans l’œil,œil,['autre'],autre,autre,True
+tenir quelque chose comme à la prunelle de ses yeux,yeux,"['autre', 'quantité_valeur']",autre,autre,True
+tourner de l’œil,œil,"['autre', 'état_physique']",autre,autre,True
+un œil au beurre noir,œil,"['autre', 'état_physique']",autre,autre,True
+valoir le coup d’œil,œil,"['apparence', 'désir']",apparence,autre,False
+voir à l’œil nu,œil,"['autre', 'cognition']",autre,autre,True
+les orteils en éventail,orteils,"['autre', 'comportement']",autre,autre,True
+être un squelette ambulant,os,"['apparence', 'autre', 'état_physique']",apparence,apparence,True
+être un tas d’os,os,"['apparence', 'autre']",apparence,apparence,True
+l’avoir dans l’os,os,"['problème', 'émotion']",problème,apparence,False
+tomber sur un os,os,['problème'],problème,apparence,False
+à fleur de peau,peau,"['autre', 'émotion']",autre,autre,True
+avoir la peau de quelqu’un,peau,['autre'],autre,autre,True
+avoir la peau dure,peau,"['autre', 'capacité', 'comportement']",autre,autre,True
+avoir les nerfs à fleur de peau,peau,"['autre', 'émotion']",autre,autre,True
+avoir quelqu’un dans la peau,peau,"['autre', 'désir', 'émotion']",autre,autre,True
+coûter la peau des fesses,peau,"['autre', 'quantité_valeur']",autre,autre,True
+changer de peau,peau,['autre'],autre,autre,True
+être bien dans sa peau,peau,"['autre', 'état_physique']",autre,autre,True
+être mal dans sa peau,peau,"['autre', 'émotion']",autre,autre,True
+faire la peau à quelqu’un,peau,['autre'],autre,autre,True
+faire peau neuve,peau,['autre'],autre,autre,True
+n’avoir que la peau et les os,peau,"['apparence', 'autre', 'état_physique']",apparence,autre,True
+se mettre dans la peau de quelqu’un,peau,['autre'],autre,autre,True
+une vieille peau,peau,"['autre', 'langage', 'morale']",autre,autre,True
+une culotte de peau,peau,['autre'],autre,autre,True
+une peau de vache,peau,"['autre', 'morale']",autre,autre,True
+attendre quelqu’un de pied ferme,pied,"['autre', 'comportement']",autre,autre,True
+avoir bon pied bon œil,pied,"['autre', 'état_physique']",autre,autre,True
+avoir un pied dans la tombe,pied,"['autre', 'état_physique']",autre,autre,True
+ça ne se trouve pas sous le pied d’un cheval,pied,"['autre', 'problème']",autre,autre,True
+casser les pieds à quelqu’un,pieds,"['autre', 'émotion']",autre,autre,True
+conduire le pied au plancher,pied,"['autre', 'quantité_valeur', 'temps_espace']",autre,autre,True
+couper l’herbe sous les pieds,pieds,"['autre', 'émotion']",autre,autre,True
+faire du pied à quelqu’un,pied,['autre'],autre,autre,True
+faire les pieds à quelqu’un,pieds,['autre'],autre,autre,True
+faire quelque chose comme un pied,pied,"['autre', 'capacité', 'comportement']",autre,autre,True
+faire quelque chose au pied levé,pied,"['autre', 'comportement', 'temps_espace']",autre,autre,True
+faire un appel du pied à quelqu’un,pied,"['autre', 'langage']",autre,autre,True
+d’arrache-pied,pied,"['autre', 'comportement']",autre,autre,True
+de pied ferme,pied,"['autre', 'comportement']",autre,autre,True
+donner un coup de pied dans la fourmilière,pied,['autre'],autre,autre,True
+être sur le pied de guerre,pied,"['autre', 'comportement']",autre,autre,True
+être pieds et poings liés,pieds,['autre'],autre,autre,True
+être sur pied,pied,"['autre', 'comportement', 'état_physique']",autre,autre,True
+lever le pied,pied,"['autre', 'temps_espace']",autre,autre,True
+mettre à pied,pied,"['autre', 'comportement']",autre,autre,True
+mettre au pied du mur,pied,['autre'],autre,autre,True
+mettre le pied à l’étrier à quelqu’un,pied,"['autre', 'social']",autre,autre,True
+mettre les pieds dans le plat,pieds,"['autre', 'capacité', 'langage']",autre,autre,True
+mettre sur pied,pied,"['autre', 'comportement']",autre,autre,True
+ne pas avoir deux pieds dans le même sabot,pieds,"['autre', 'temps_espace']",autre,autre,True
+ne pas avoir le pied marin,pied,"['autre', 'état_physique']",autre,autre,True
+ne pas savoir sur quel pied danser,pied,"['autre', 'cognition']",autre,autre,True
+partir les pieds devant,pieds,['autre'],autre,autre,True
+prendre au pied de la lettre,pied,"['autre', 'cognition']",autre,autre,True
+prendre le contre-pied,pied,"['autre', 'social']",autre,autre,True
+retomber sur ses pieds,pieds,['autre'],autre,autre,True
+se lever du pied gauche,pied,['autre'],autre,autre,True
+trouver chaussure à son pied,pied,"['autre', 'émotion']",autre,autre,True
+tirer une épine du pied de quelqu’un,pied,['autre'],autre,autre,True
+un colosse aux pieds d’argile,pieds,['autre'],autre,autre,True
+à un poil près,poil,"['autre', 'temps_espace']",autre,autre,True
+avoir un poil dans la main,poil,"['autre', 'comportement']",autre,autre,True
+caresser quelqu’un dans le sens du poil,poil,['autre'],autre,autre,True
+être de bon poil,poil,"['autre', 'émotion']",autre,autre,True
+être de mauvais poil,poil,['autre'],autre,autre,True
+ne plus avoir un poil sur le caillou,poil,"['apparence', 'autre']",apparence,autre,True
+reprendre du poil de la bête,poil,"['autre', 'état_physique']",autre,autre,True
+se mettre à poil,poil,['autre'],autre,autre,True
+donner un coup de pouce à quelqu’un,pouce,"['autre', 'social']",autre,autre,True
+manger sur le pouce,pouce,"['alimentation', 'autre', 'comportement']",alimentation,autre,True
+se tourner les pouces,pouces,"['autre', 'comportement']",autre,autre,True
+avoir les reins solides,reins,"['autre', 'comportement']",autre,autre,True
+casser les reins de,reins,['autre'],autre,autre,True
+une taille de guêpe,taille,"['apparence', 'autre']",apparence,apparence,True
+avoir quelque chose dans le sang,sang,"['autre', 'capacité']",autre,autre,True
+avoir du sang bleu,sang,['autre'],autre,autre,True
+glacer le sang à quelqu’un,sang,"['autre', 'émotion']",autre,autre,True
+mettre à feu et à sang,sang,['autre'],autre,autre,True
+se faire du mauvais sang,sang,['émotion'],émotion,autre,False
+se ronger les sangs,sang,"['autre', 'émotion']",autre,autre,True
+avoir les sourcils en bataille,sourcils,"['apparence', 'autre', 'état_physique']",apparence,apparence,True
+talon d’Achille,talon,['autre'],autre,autre,True
+tourner les talons,talons,"['autre', 'comportement']",autre,autre,True
+attaquer bille en tête,tête,"['autre', 'comportement']",autre,autre,True
+avoir du plomb dans la cervelle,cervelle,"['autre', 'cognition']",autre,autre,True
+avoir la grosse tête,tête,"['autre', 'morale']",autre,autre,True
+avoir la tête comme une passoire,tête,"['autre', 'cognition', 'état_physique']",autre,autre,True
+avoir la tête de l’emploi,tête,"['apparence', 'autre']",apparence,autre,True
+avoir la tête près du bonnet,tête,"['autre', 'émotion']",autre,autre,True
+avoir la tête sur les épaules,tête,"['autre', 'cognition']",autre,autre,True
+avoir ses têtes,têtes,"['autre', 'désir']",autre,autre,True
+avoir toute sa tête,tête,"['autre', 'cognition']",autre,autre,True
+avoir un petit pois dans la tête,tête,"['autre', 'cognition']",autre,autre,True
+avoir un petit vélo dans la tête,tête,"['autre', 'désir']",autre,autre,True
+faire une tête d’enterrement,tête,"['autre', 'émotion']",autre,autre,True
+baisser la tête,tête,"['autre', 'social', 'émotion']",autre,autre,True
+bourrer le crâne de quelqu’un,crâne,['autre'],autre,autre,True
+casser la tête à quelqu’un,tête,"['autre', 'émotion']",autre,autre,True
+coûter les yeux de la tête,tête,"['autre', 'quantité_valeur']",autre,autre,True
+chercher des poux dans la tête de quelqu’un,tête,['autre'],autre,autre,True
+enfoncer quelque chose dans la tête de quelqu’un,tête,['autre'],autre,autre,True
+être tombé sur la tête,tête,['autre'],autre,autre,True
+faire la tête,tête,"['autre', 'émotion']",autre,autre,True
+faire quelque chose à la tête du client,tête,"['autre', 'social']",autre,autre,True
+faire quelque chose sur un coup de tête,tête,['autre'],autre,autre,True
+faire sa mauvaise tête,tête,"['autre', 'social']",autre,autre,True
+faire tourner la tête de quelqu’un,tête,['autre'],autre,autre,True
+foncer tête baissée,tête,"['autre', 'problème']",autre,autre,True
+garder la tête froide,tête,"['autre', 'capacité']",autre,autre,True
+la tête à l’envers,tête,"['autre', 'cognition', 'état_physique']",autre,autre,True
+la tête sur le billot,tête,['problème'],problème,autre,False
+manger la soupe sur la tête de quelqu’un,tête,['autre'],autre,autre,True
+mettre la tête au carré à quelqu’un,tête,"['autre', 'langage']",autre,autre,True
+monter à la tête,tête,"['alimentation', 'autre', 'morale']",alimentation,autre,True
+n’en faire qu’à sa tête,tête,['autre'],autre,autre,True
+ne plus savoir où donner de la tête,tête,"['autre', 'cognition']",autre,autre,True
+par tête de pipe,tête,['autre'],autre,autre,True
+perdre la tête,tête,['autre'],autre,autre,True
+piquer une tête,tête,['autre'],autre,autre,True
+sans queue ni tête,tête,"['autre', 'cognition']",autre,autre,True
+se creuser la tête,tête,['autre'],autre,autre,True
+se jeter à la tête de,tête,"['autre', 'émotion']",autre,autre,True
+se payer la tête de quelqu’un,tête,['autre'],autre,autre,True
+se mettre martel en tête,tête,"['désir', 'émotion']",désir,autre,False
+se monter la tête,tête,"['autre', 'cognition']",autre,autre,True
+se prendre la tête,tête,"['problème', 'social', 'émotion']",problème,autre,False
+se taper la tête contre les murs,tête,['émotion'],émotion,autre,False
+tenir tête à quelqu’un,tête,"['comportement', 'morale', 'social']",comportement,autre,False
+un tête à tête,tête,"['autre', 'langage']",autre,autre,True
+une tête à claques,tête,"['autre', 'émotion']",autre,autre,True
+une tête de cochon,tête,['autre'],autre,autre,True
+une tête de turc,tête,"['autre', 'social']",autre,autre,True
+se saigner aux quatre veines,veines,"['autre', 'comportement']",autre,autre,True
+avoir les yeux plus grands que le ventre,ventre,"['désir', 'quantité_valeur']",désir,autre,False
+avoir quelque chose dans le ventre,ventre,"['autre', 'morale']",autre,autre,True
+avoir le ventre creux,ventre,"['autre', 'état_physique']",autre,autre,True
+se regarder le nombril,nombril,"['autre', 'morale']",autre,autre,True
+ventre à terre,ventre,"['autre', 'temps_espace']",autre,autre,True
+prendre des vessies pour des lanternes,vessies,"['autre', 'cognition']",autre,autre,True
+échauffer la bile de quelqu’un,bile,"['autre', 'émotion']",autre,émotion,True
+se faire de la bile,bile,['émotion'],émotion,émotion,True
+avoir un coup dans l’aile,aile,"['autre', 'problème']",autre,autre,True
+avoir la bosse de quelque chose,bosse,"['autre', 'capacité']",autre,autre,True
+rouler sa bosse,bosse,['autre'],autre,autre,True
+être un aigle,aigle,"['autre', 'cognition']",autre,autre,True
+un regard d’aigle,aigle,['autre'],autre,autre,True
+attendre que les alouettes tombent toutes rôties dans la bouche,alouettes,"['autre', 'cognition']",autre,autre,True
+un miroir aux alouettes,alouettes,"['apparence', 'autre', 'cognition']",apparence,autre,True
+avoir une tête de mule,mule,"['autre', 'comportement']",autre,autre,True
+faire boire un âne qui n’a pas soif,âne,"['autre', 'problème']",autre,autre,True
+faute d’un point Martin perdit son âne,âne,"['autre', 'comportement', 'problème']",autre,autre,True
+faire l’âne de Buridan,âne,['autre'],autre,autre,True
+faire l’âne pour avoir du son,âne,['autre'],autre,autre,True
+faire tourner en bourrique,bourrique,"['autre', 'émotion']",autre,autre,True
+le pont aux ânes,âne,['autre'],autre,autre,True
+méchant comme un âne rouge,âne,"['autre', 'morale']",autre,autre,True
+n’être ni âne ni cheval,âne,['autre'],autre,autre,True
+saoul comme une bourrique,bourrique,"['alimentation', 'autre', 'quantité_valeur']",alimentation,autre,True
+têtu comme une bourrique,bourrique,"['autre', 'comportement']",autre,autre,True
+un âne bâté,âne,"['autre', 'cognition']",autre,autre,True
+un bonnet d’âne,âne,"['autre', 'problème']",autre,autre,True
+avoir une araignée au plafond,araignée,['autre'],autre,autre,True
+avoir un estomac d’autruche,autruche,['autre'],autre,autre,True
+la politique de l’autruche,autruche,['autre'],autre,autre,True
+rire comme une baleine,baleine,"['autre', 'quantité_valeur']",autre,autre,True
+être une bécasse,bécasse,"['autre', 'cognition']",autre,autre,True
+chercher la petite bête,bête,"['autre', 'problème']",autre,autre,True
+être la bête noire de quelqu’un,bête,['autre'],autre,autre,True
+regarder quelqu’un comme une bête curieuse,bête,"['autre', 'cognition', 'désir']",autre,autre,True
+avoir un bœuf sur la langue,bœuf,"['autre', 'langage']",autre,autre,True
+ça lui va comme un tablier à une vache,vache,['autre'],autre,autre,True
+être fort comme un bœuf,bœuf,"['autre', 'capacité']",autre,autre,True
+être fort comme un taureau,taureau,"['autre', 'capacité']",autre,autre,True
+le plancher des vaches,vaches,"['autre', 'temps_espace']",autre,autre,True
+manger de la vache enragée,vache,['autre'],autre,autre,True
+mettre la charrue avant les bœufs,bœufs,['autre'],autre,autre,True
+pleurer comme un veau,veau,"['autre', 'émotion']",autre,autre,True
+pleuvoir comme vache qui pisse,vache,"['autre', 'quantité_valeur']",autre,autre,True
+prendre le taureau par les cornes,taureau,"['autre', 'morale']",autre,autre,True
+souffler comme un bœuf,bœuf,"['autre', 'comportement', 'état_physique']",autre,autre,True
+un coup à assommer un bœuf,bœuf,"['autre', 'capacité']",autre,autre,True
+un vent à décorner les bœufs,bœufs,['autre'],autre,autre,True
+une période de vaches maigres,vaches,"['autre', 'quantité_valeur']",autre,autre,True
+une peau de vache,vache,"['autre', 'morale']",autre,autre,True
+une vache à lait,vache,"['autre', 'quantité_valeur']",autre,autre,True
+canard boiteux,canard,['autre'],autre,autre,True
+être trempé comme un canard,canard,"['autre', 'état_physique']",autre,autre,True
+faire un canard,canard,"['autre', 'capacité']",autre,autre,True
+glisser comme de l’eau sur les plumes d’un canard,canard,['autre'],autre,autre,True
+marcher en canard,canard,"['autre', 'comportement', 'temps_espace']",autre,autre,True
+ne pas casser trois pattes à un canard,canard,['autre'],autre,autre,True
+prendre un canard,canard,"['alimentation', 'autre']",alimentation,autre,True
+un froid de canard,canard,"['autre', 'état_physique']",autre,autre,True
+être sobre comme un chameau,chameau,"['alimentation', 'autre', 'capacité']",alimentation,alimentation,True
+acheter chat en poche,chat,['autre'],autre,autre,True
+appeler un chat un chat,chat,"['autre', 'langage', 'morale']",autre,autre,True
+avoir d’autres chats à fouetter,chats,['autre'],autre,autre,True
+avoir un chat dans la gorge,chat,"['autre', 'capacité']",autre,autre,True
+de la bouillie pour les chats,chats,"['autre', 'cognition']",autre,autre,True
+donner sa langue au chat,chat,"['autre', 'cognition', 'comportement']",autre,autre,True
+écrire comme un chat,chat,"['autre', 'capacité']",autre,autre,True
+du pipi de chat,chat,"['autre', 'quantité_valeur']",autre,autre,True
+il n’y a pas un chat,chat,['autre'],autre,autre,True
+jeter le chat aux jambes de quelqu’un,chat,"['autre', 'problème']",autre,autre,True
+jouer au chat et à la souris avec quelqu’un,chat,['autre'],autre,autre,True
+le nid d’une souris dans l’oreille d’un chat,chat,"['autre', 'problème']",autre,autre,True
+pas de quoi fouetter un chat,chat,['autre'],autre,autre,True
+réveiller le chat qui dort,chat,"['autre', 'problème', 'social']",autre,autre,True
+une toilette de chat,chat,"['autre', 'comportement', 'temps_espace']",autre,autre,True
+une chatte n’y retrouverait pas ses petits,chatte,"['autre', 'cognition']",autre,autre,True
+après bon vin bon cheval,cheval,"['autre', 'morale']",autre,autre,True
+avoir une fièvre de cheval,cheval,"['autre', 'état_physique']",autre,autre,True
+avoir mangé du cheval,cheval,['autre'],autre,autre,True
+changer son cheval borgne pour un aveugle,cheval,"['autre', 'problème']",autre,autre,True
+être à cheval sur quelque chose,cheval,['autre'],autre,autre,True
+ne pas être un mauvais cheval,cheval,"['autre', 'quantité_valeur']",autre,autre,True
+ne pas se trouver sous le pas d’un cheval,cheval,"['autre', 'problème']",autre,autre,True
+un cheval de bataille,cheval,"['autre', 'désir']",autre,autre,True
+un remède de cheval,cheval,['autre'],autre,autre,True
+un cheval de Troie,cheval,['autre'],autre,autre,True
+un cheval de retour,cheval,['autre'],autre,autre,True
+un vrai cheval de labour,cheval,"['autre', 'capacité', 'comportement']",autre,autre,True
+avoir du chien,chien,['autre'],autre,autre,True
+avoir un mal de chien,chien,"['autre', 'comportement', 'problème']",autre,autre,True
+se donner un mal de chien,chien,"['autre', 'comportement']",autre,autre,True
+dormir en chien de fusil,chien,['autre'],autre,autre,True
+entre chien et loup,chien,"['autre', 'temps_espace']",autre,autre,True
+être chien,chien,"['autre', 'morale']",autre,autre,True
+être comme un chien dans un jeu de quilles,chien,"['autre', 'capacité']",autre,autre,True
+faire le chien couchant,chien,"['autre', 'social']",autre,autre,True
+garder un chien de sa chienne,chien,"['autre', 'émotion']",autre,autre,True
+malade comme un chien,chien,"['autre', 'état_physique']",autre,autre,True
+n’être bon qu’à jeter aux chiens,chiens,['autre'],autre,autre,True
+ne pas attacher son chien avec des saucisses,chien,"['autre', 'morale', 'quantité_valeur']",autre,autre,True
+rubrique des chiens écrasés,chiens,['autre'],autre,autre,True
+rompre les chiens,chiens,['autre'],autre,autre,True
+s’entendre comme chien et chat,chien,"['autre', 'social']",autre,autre,True
+se regarder en chiens de faïence,chiens,['autre'],autre,autre,True
+traiter quelqu’un comme un chien,chien,['autre'],autre,autre,True
+un caractère de chien,chien,['autre'],autre,autre,True
+un temps de chien,chien,['autre'],autre,autre,True
+une humeur de chien,chien,"['autre', 'émotion']",autre,autre,True
+une vie de chien,chien,['autre'],autre,autre,True
+donner de la confiture aux cochons,cochons,['autre'],autre,autre,True
+jeter des perles aux pourceaux,pourceaux,['autre'],autre,autre,True
+être copains comme cochons,cochons,"['autre', 'social', 'temps_espace']",autre,autre,True
+jouer un tour de cochon,cochon,"['autre', 'morale']",autre,autre,True
+manger comme un cochon,cochon,"['autre', 'désir']",autre,autre,True
+ne pas avoir gardé les cochons ensemble,cochons,"['autre', 'social']",autre,autre,True
+ni lard ni cochon,cochon,"['autre', 'cognition']",autre,autre,True
+sale comme un cochon,cochon,"['autre', 'comportement']",autre,autre,True
+du lard ou du cochon,cochon,"['autre', 'cognition']",autre,autre,True
+un film cochon,cochon,['autre'],autre,autre,True
+un travail de cochon,cochon,"['autre', 'comportement']",autre,autre,True
+un vieux cochon,cochon,['autre'],autre,autre,True
+une tête de cochon,cochon,['autre'],autre,autre,True
+au chant du coq,coq,"['autre', 'temps_espace']",autre,autre,True
+avoir des jambes de coq,coq,['autre'],autre,autre,True
+avoir la chair de poule,poule,"['autre', 'émotion']",autre,autre,True
+faire le coq,coq,"['autre', 'morale']",autre,autre,True
+être rouge comme un coq,coq,"['apparence', 'émotion']",apparence,autre,False
+être comme un coq en pâte,coq,"['autre', 'état_physique']",autre,autre,True
+la bouche en cul de poule,poule,"['apparence', 'autre']",apparence,autre,True
+le coq du village,coq,['autre'],autre,autre,True
+passer du coq à l’âne,coq,"['autre', 'cognition']",autre,autre,True
+quand les poules auront des dents,poules,"['autre', 'problème']",autre,autre,True
+une mère poule,poule,"['autre', 'émotion']",autre,autre,True
+une poule mouillée,poule,"['autre', 'morale', 'émotion']",autre,autre,True
+une poule qui a couvé des œufs de canard,poule,['autre'],autre,autre,True
+sauter du coq à l’âne,coq,"['autre', 'cognition']",autre,autre,True
+se lever avec les poules,poules,"['autre', 'comportement', 'temps_espace']",autre,autre,True
+tuer la poule aux œufs d’or,poule,['autre'],autre,autre,True
+bayer aux corneilles,corneilles,"['autre', 'cognition']",autre,autre,True
+marcher en crabe,crabe,"['autre', 'capacité', 'temps_espace']",autre,autre,True
+un panier de crabes,crabes,"['autre', 'social']",autre,autre,True
+marcher comme une écrevisse,écrevisse,"['autre', 'capacité', 'comportement']",autre,autre,True
+des larmes de crocodile,crocodile,"['autre', 'morale']",autre,autre,True
+être le dindon de la farce,dindon,['autre'],autre,autre,True
+avoir une mémoire d’éléphant,éléphant,"['autre', 'cognition']",autre,autre,True
+comme un éléphant dans un magasin de porcelaine,éléphant,"['autre', 'capacité']",autre,autre,True
+avancer comme un escargot,escargot,"['autre', 'temps_espace']",autre,autre,True
+avoir des fourmis dans les jambes,fourmis,"['autre', 'état_physique']",autre,autre,True
+donner un coup de pied dans la fourmilière,fourmilière,['autre'],autre,autre,True
+pulluler comme des fourmis,fourmis,"['autre', 'quantité_valeur']",autre,autre,True
+une vraie fourmi,fourmi,['autre'],autre,autre,True
+avoir un cou de girafe,girafe,"['apparence', 'autre']",apparence,apparence,True
+une grenouille de bénitier,grenouille,"['autre', 'morale']",autre,autre,True
+faire le pied de grue,grue,['autre'],autre,autre,True
+être une grue,grue,['autre'],autre,autre,True
+faire la grue,grue,"['autre', 'capacité', 'cognition']",autre,autre,True
+pas folle la guêpe,guêpe,"['autre', 'cognition']",autre,autre,True
+un coup de pied dans un nid de guêpes,guêpes,"['autre', 'problème', 'social']",autre,autre,True
+ça ne vaut pas un pet de lapin,lapin,"['autre', 'quantité_valeur']",autre,autre,True
+courir comme un lapin,lapin,"['comportement', 'temps_espace']",comportement,autre,False
+poser un lapin à quelqu’un,lapin,['autre'],autre,autre,True
+trouver le lièvre au gîte,lièvre,['autre'],autre,autre,True
+un chaud lapin,lapin,['autre'],autre,autre,True
+faire le lézard,lézard,"['autre', 'comportement']",autre,autre,True
+avoir mangé du lion,lion,"['autre', 'morale']",autre,autre,True
+à pas de loup,loup,"['autre', 'langage']",autre,autre,True
+avoir vu le loup,loup,['autre'],autre,autre,True
+être connu comme le loup blanc,loup,"['autre', 'social']",autre,autre,True
+être un jeune loup,loup,"['autre', 'désir']",autre,autre,True
+hurler avec les loups,loups,['autre'],autre,autre,True
+mettre le loup dans la bergerie,loup,"['autre', 'morale', 'problème']",autre,autre,True
+se jeter dans la gueule du loup,loup,['autre'],autre,autre,True
+un froid de loup,loup,"['autre', 'état_physique']",autre,autre,True
+une faim de loup,loup,"['autre', 'état_physique']",autre,autre,True
+des pattes de mouches,mouches,"['autre', 'capacité']",autre,autre,True
+écraser une mouche avec un marteau,mouche,"['autre', 'quantité_valeur']",autre,autre,True
+être une fine mouche,mouche,"['autre', 'cognition']",autre,autre,True
+faire d’une mouche un éléphant,mouche,"['autre', 'quantité_valeur']",autre,autre,True
+faire la mouche du coche,mouche,['autre'],autre,autre,True
+faire querelle sur un pied de mouche,mouche,['autre'],autre,autre,True
+mourir comme des mouches,mouches,['autre'],autre,autre,True
+ne pas entendre une mouche voler,mouche,"['autre', 'langage']",autre,autre,True
+ne pas faire de mal à une mouche,mouche,"['autre', 'morale']",autre,autre,True
+prendre la mouche,mouche,"['autre', 'émotion']",autre,autre,True
+quelle mouche l’a piqué ?,mouche,"['autre', 'émotion']",autre,autre,True
+tomber comme des mouches,mouches,"['autre', 'état_physique']",autre,autre,True
+bouc émissaire,bouc,['autre'],autre,autre,True
+brebis galeuse,brebis,['autre'],autre,autre,True
+comme des moutons de Panurge,moutons,"['autre', 'comportement']",autre,autre,True
+être un mouton,mouton,"['autre', 'comportement']",autre,autre,True
+doux comme un mouton,mouton,['autre'],autre,autre,True
+doux comme un agneau,agneau,['autre'],autre,autre,True
+faire devenir chèvre,chèvre,"['autre', 'émotion']",autre,autre,True
+ménager la chèvre et le chou,chèvre,['autre'],autre,autre,True
+revenir à ses moutons,moutons,"['autre', 'temps_espace']",autre,autre,True
+se laisser manger la laine sur le dos,mouton,['autre'],autre,autre,True
+un mouton à cinq pattes,mouton,['autre'],autre,autre,True
+manger comme un moineau,moineau,"['alimentation', 'autre']",alimentation,autre,True
+tirer sa poudre aux moineaux,moineaux,['autre'],autre,autre,True
+une cervelle de moineau,moineau,"['autre', 'cognition']",autre,autre,True
+une tête de linotte,linotte,"['autre', 'cognition']",autre,autre,True
+avoir un appétit d’oiseau,oiseau,"['alimentation', 'autre']",alimentation,autre,True
+des noms d’oiseaux,oiseaux,"['autre', 'langage']",autre,autre,True
+l’oiseau s’est envolé,oiseau,"['autre', 'comportement']",autre,autre,True
+un oiseau de mauvais augure,oiseau,['autre'],autre,autre,True
+un oiseau de nuit,oiseau,"['autre', 'comportement', 'temps_espace']",autre,autre,True
+un oiseau rare,oiseau,"['autre', 'quantité_valeur']",autre,autre,True
+une cervelle d’oiseau,oiseau,['autre'],autre,autre,True
+vivre comme l’oiseau sur la branche,oiseau,['autre'],autre,autre,True
+à tire-d’aile,ailes,"['autre', 'temps_espace']",autre,autre,True
+avoir du plomb dans l’aile,aile,"['autre', 'problème']",autre,autre,True
+avoir un coup dans l’aile,aile,"['autre', 'problème', 'état_physique']",autre,autre,True
+avoir un fil à la patte,patte,['autre'],autre,autre,True
+battre de l’aile,aile,"['autre', 'problème']",autre,autre,True
+clore le bec à quelqu’un,bec,"['autre', 'langage']",autre,autre,True
+défendre bec et ongles,bec,"['autre', 'comportement']",autre,autre,True
+faire la roue,roue,"['autre', 'morale']",autre,autre,True
+laisser quelqu’un le bec dans l’eau,bec,"['autre', 'émotion']",autre,autre,True
+perdre des plumes,plumes,"['autre', 'problème']",autre,autre,True
+rabattre le caquet à quelqu’un,caquet,"['autre', 'langage']",autre,autre,True
+ronger les ailes à quelqu’un,ailes,"['autre', 'social']",autre,autre,True
+roupie de sansonnet,sansonnet,"['autre', 'quantité_valeur']",autre,autre,True
+se brûler les ailes,ailes,"['désir', 'problème']",désir,autre,False
+se dresser sur les ergots,ergots,"['autre', 'émotion']",autre,autre,True
+tordre le cou à quelqu’un,cou,['autre'],autre,autre,True
+une prise de bec,bec,"['autre', 'social']",autre,autre,True
+un blanc-bec,bec,['autre'],autre,autre,True
+voler de ses propres ailes,ailes,['autre'],autre,autre,True
+bête comme une oie,oie,"['autre', 'cognition']",autre,autre,True
+une oie blanche,oie,['autre'],autre,autre,True
+une patte d’oie,oie,"['apparence', 'autre']",apparence,autre,True
+un ours mal léché,ours,['autre'],autre,autre,True
+fier comme un paon,paon,"['autre', 'morale']",autre,autre,True
+être bavard comme une pie,pie,"['autre', 'langage']",autre,autre,True
+bailler comme une carpe,carpe,"['autre', 'capacité', 'langage']",autre,autre,True
+boire la mer et ses poissons,poissons,"['désir', 'problème', 'quantité_valeur']",désir,désir,True
+comme un poisson dans l’eau,poisson,['autre'],autre,autre,True
+comme un poisson hors de l’eau,poisson,"['autre', 'état_physique']",autre,autre,True
+être serrés comme des anchois,anchois,['autre'],autre,autre,True
+être serrés comme des sardines,sardines,['autre'],autre,autre,True
+faire une queue de poisson,poisson,['autre'],autre,autre,True
+finir en queue de poisson,poisson,['autre'],autre,autre,True
+ignorant comme une carpe,carpe,"['autre', 'cognition']",autre,autre,True
+il y a anguille sous roche,anguille,"['autre', 'cognition']",autre,autre,True
+jeune chair et vieux poisson,poisson,"['autre', 'social']",autre,autre,True
+menu fretin,fretin,['autre'],autre,autre,True
+muet comme une carpe,carpe,"['autre', 'langage']",autre,autre,True
+ni chair ni poisson,poisson,"['autre', 'cognition']",autre,autre,True
+être laid comme un pou,pou,"['apparence', 'autre']",apparence,autre,True
+être sale comme un pou,pou,"['autre', 'comportement']",autre,autre,True
+fier comme un pou,pou,"['autre', 'morale']",autre,autre,True
+chercher des poux à quelqu’un,poux,['autre'],autre,autre,True
+avoir la puce à l’oreille,puce,"['cognition', 'émotion']",cognition,cognition,True
+mettre la puce à l’oreille,puce,"['autre', 'cognition', 'émotion']",autre,cognition,True
+secouer les puces à quelqu’un,puces,"['autre', 'langage', 'émotion']",autre,autre,True
+crier comme un putois,putois,['autre'],autre,autre,True
+être fait comme un rat,rat,"['autre', 'problème']",autre,autre,True
+être rat,rat,"['autre', 'morale']",autre,autre,True
+face de rat,rat,['apparence'],apparence,autre,False
+la montagne accouche d’une souris,souris,['autre'],autre,autre,True
+un vieux renard,renard,"['autre', 'cognition']",autre,autre,True
+rusé comme un renard,renard,"['autre', 'cognition']",autre,autre,True
+avaler des couleuvres,couleuvres,['autre'],autre,autre,True
+être paresseux comme une couleuvre,couleuvre,"['autre', 'comportement', 'temps_espace']",autre,autre,True
+réchauffer un serpent dans son sein,serpent,"['autre', 'morale']",autre,autre,True
+une langue de vipère,vipère,"['autre', 'langage', 'morale']",autre,autre,True
+faire le singe,singe,"['autre', 'comportement']",autre,autre,True
+malin comme un singe,singe,"['autre', 'cognition']",autre,autre,True
+payer en monnaie de singe,singe,['autre'],autre,autre,True
+méchant comme une teigne,teigne,"['autre', 'morale']",autre,autre,True
+à pas de tortue,tortue,"['autre', 'temps_espace']",autre,autre,True
+nu comme un ver,ver,['autre'],autre,autre,True
+pas piqué des vers,vers,['autre'],autre,autre,True
+pas piqué des hannetons,hannetons,['autre'],autre,autre,True
+courir comme un zèbre,zèbre,"['autre', 'temps_espace']",autre,autre,True

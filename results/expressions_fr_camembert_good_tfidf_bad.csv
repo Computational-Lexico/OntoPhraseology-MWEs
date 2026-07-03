@@ -1,0 +1,24 @@
+﻿expression,gold,pred_rule,pred_tfidf,pred_camembert,rule_correct,tfidf_correct,camembert_correct
+manger de la vache enragée,autre,quantité_valeur,morale,autre,False,False,True
+avoir un petit pois dans la tête,cognition,autre,autre,cognition,False,False,True
+pleurer comme un veau,émotion,autre,capacité,émotion,False,False,True
+se ronger les sangs,émotion,capacité,social,émotion,False,False,True
+faire quelque chose sur un coup de tête,autre,autre,langage,autre,True,False,True
+avoir une mémoire d’éléphant,cognition,capacité,capacité,cognition,False,False,True
+faire de l’œil,autre,cognition,quantité_valeur,autre,False,False,True
+le coq du village,autre,cognition,morale,autre,False,False,True
+se croiser les bras,autre,autre,émotion,autre,True,False,True
+un mouton à cinq pattes,autre,autre,comportement,autre,True,False,True
+faire l’âne pour avoir du son,autre,autre,cognition,autre,True,False,True
+tirer dans les jambes,autre,temps_espace,état_physique,autre,False,False,True
+faire les yeux doux à,autre,cognition,émotion,autre,False,False,True
+rester en travers de la gorge,émotion,autre,autre,émotion,False,False,True
+en chair et en os,autre,autre,apparence,autre,True,False,True
+se faire du mauvais sang,émotion,capacité,autre,émotion,False,False,True
+être la bête noire de quelqu’un,autre,cognition,social,autre,False,False,True
+partir les pieds devant,autre,autre,émotion,autre,True,False,True
+faire le gros dos,autre,autre,émotion,autre,True,False,True
+être serrés comme des anchois,autre,autre,état_physique,autre,True,False,True
+avoir quelqu’un sur les bras,autre,autre,langage,autre,True,False,True
+laisser la bride sur le cou de quelqu’un,autre,émotion,social,autre,False,False,True
+avoir vu le loup,autre,désir,désir,autre,False,False,True

@@ -1,0 +1,765 @@
+﻿expression,label_cls
+faire la barbe à quelqu'un,social
+rire dans sa barbe,autre
+avoir la gueule enfarinée,émotion
+avoir la gueule de bois,état_physique
+avoir l’eau à la bouche,désir
+être né avec une cuillère d’argent dans la bouche,social
+faire la fine bouche,comportement
+garder bouche cousue,langage
+la bouche en cœur,autre
+la bouche en cul de poule,apparence
+retirer le pain de la bouche à quelqu’un,autre
+à bras ouverts,social
+avoir le bras long,social
+avoir quelqu’un sur les bras,autre
+être dans les bras de Morphée,autre
+être le bras droit de quelqu’un,autre
+faire un bras d’honneur,langage
+jouer les gros bras,autre
+les bras m’en tombent,émotion
+se croiser les bras,autre
+tenir à bout de bras,comportement
+bien en chair,apparence
+en chair et en os,autre
+arriver comme un cheveu sur la soupe,capacité
+avoir mal aux cheveux,état_physique
+avoir les cheveux en bataille,apparence
+avoir un cheveu sur la langue,capacité
+couper les cheveux en quatre,problème
+être à un cheveu de,problème
+ne tenir qu’à un cheveu,autre
+s’arracher les cheveux,émotion
+saisir l’occasion par les cheveux,autre
+se crêper le chignon,social
+se faire des cheveux blancs,émotion
+tirer par les cheveux,quantité_valeur
+avoir l’âme chevillée au corps,comportement
+avoir les chevilles qui enflent,morale
+être la cheville ouvrière,autre
+être en cheville avec quelqu’un,social
+ne pas remuer un cil,autre
+rire à s’en tenir les côtes,autre
+laisser la bride sur le cou de quelqu’un,autre
+sauter au cou de quelqu’un,social
+se jeter au cou,émotion
+se mettre la corde au cou,comportement
+tordre le cou à une idée,langage
+avoir des couilles au cul,morale
+casser les couilles à quelqu’un,émotion
+partir en couilles,problème
+se faire des couilles en or,quantité_valeur
+être au coude à coude,social
+garder sous le coude,autre
+huile de coude,comportement
+jouer des coudes,social
+lever le coude,alimentation
+se tenir les coudes,social
+aller droit au cœur,émotion
+arracher le cœur,émotion
+avoir bon cœur,morale
+avoir du cœur,morale
+avoir le cœur barbouillé,émotion
+avoir le cœur au bord des lèvres,émotion
+avoir du cœur à l’ouvrage,comportement
+avoir une pierre à la place du cœur,autre
+avoir le cœur bien accroché,morale
+avoir le cœur gros,émotion
+avoir le cœur sur la main,morale
+avoir mal au cœur,émotion
+prendre quelque chose à cœur,émotion
+avoir quelque chose sur le cœur,langage
+connaître par cœur,capacité
+de bon cœur,morale
+donner du cœur au ventre,morale
+en avoir gros sur le cœur,émotion
+en avoir le cœur net,cognition
+enfoncer un couteau dans le cœur,morale
+être de tout cœur avec quelqu’un,social
+être joli comme un cœur,apparence
+faire battre le cœur,émotion
+faire chaud au cœur,autre
+faire contre mauvaise fortune bon cœur,morale
+faire le joli cœur,autre
+le cri du cœur,morale
+lever le cœur,émotion
+ne pas avoir le cœur de faire quelque chose,émotion
+ne pas porter quelqu’un dans son cœur,autre
+offrir son cœur,émotion
+ouvrir son cœur,langage
+réchauffer le cœur de quelqu’un,émotion
+retourner le cœur,émotion
+s’en donner à cœur joie,émotion
+serrer le cœur,émotion
+si le cœur vous en dit,désir
+un bourreau des cœurs,autre
+un cœur de pierre,autre
+un cœur d’or,morale
+un homme de cœur,morale
+un coup de cœur,désir
+une peine de cœur,émotion
+y aller de bon cœur,morale
+avoir le diable au corps,désir
+corps et âme,comportement
+couler corps et biens,problème
+pleurer toutes les larmes de son corps,émotion
+travailler quelqu’un au corps,langage
+avoir la cuisse légère,autre
+se croire sorti de la cuisse de Jupiter,morale
+avoir la dalle,désir
+crever la dalle,état_physique
+se rincer la dalle,alimentation
+avoir la dalle en pente,alimentation
+avoir les crocs,désir
+avoir une dent contre quelqu’un,émotion
+avoir la dent dure,autre
+avoir les dents du bonheur,apparence
+avoir les dents longues,désir
+avoir quelque chose à se mettre sous la dent,alimentation
+claquer des dents,état_physique
+creuser sa tombe avec ses dents,alimentation
+croquer à belles dents,désir
+dévorer la vie à belles dents,émotion
+déchirer quelqu’un à belles dents,langage
+être armé jusqu’aux dents,comportement
+grincer des dents,émotion
+mentir comme un arracheur de dents,quantité_valeur
+montrer les dents,problème
+ne pas desserrer les dents,langage
+prendre la lune avec les dents,cognition
+prendre le mors aux dents,autre
+se casser les dents sur quelque chose,problème
+serrer les dents,capacité
+avoir des doigts de fée,capacité
+à se lécher les doigts,alimentation
+connaître sur le bout des doigts,capacité
+croiser les doigts,émotion
+être à deux doigts de,problème
+il s’en est fallu d’un doigt,temps_espace
+les doigts dans le nez,autre
+mettre le doigt dans l’engrenage,comportement
+mettre le doigt entre l’arbre et l’écorce,social
+mettre le doigt sur la plaie,autre
+mettre le doigt sur quelque chose,autre
+mon petit doigt m’a dit,autre
+ne pas lever le petit doigt,comportement
+ne rien savoir faire de ses dix doigts,capacité
+obéir au doigt et à l’œil,autre
+passer la bague au doigt,social
+s’en mordre les doigts,émotion
+se faire montrer du doigt,social
+se faire taper sur les doigts,langage
+se mettre le doigt dans l’œil,cognition
+avoir bon dos,autre
+avoir le dos large,autre
+casser du sucre sur le dos de quelqu’un,langage
+derrière le dos de quelqu’un,morale
+en avoir plein le dos,émotion
+être le dos au mur,problème
+être sur le dos de quelqu’un,social
+faire froid dans le dos,émotion
+faire la bête à deux dos,autre
+faire le dos rond,autre
+faire le gros dos,autre
+faire un enfant dans le dos de quelqu’un,morale
+mettre quelque chose sur le dos de quelqu’un,autre
+renvoyer dos à dos,social
+se laisser tondre la laine sur le dos,autre
+se mettre quelqu’un à dos,social
+tourner le dos à quelqu’un,autre
+courber l’échine,social
+avoir l’échine basse,social
+avoir les épaules larges,capacité
+avoir les épaules solides,comportement
+avoir l’estomac dans les talons,état_physique
+avoir un creux à l’estomac,état_physique
+avoir un estomac d’autruche,autre
+avoir l’estomac bien accroché,morale
+le faire à l’estomac,autre
+rester sur l’estomac,émotion
+à visage découvert,langage
+avoir une mine de papier mâché,apparence
+se caler les joues,alimentation
+se voiler la face,cognition
+une face de carême,émotion
+une mine de déterré,apparence
+un visage en lame de couteau,apparence
+avoir du cul,autre
+en avoir plein le cul,émotion
+faire cul sec,alimentation
+l’avoir dans le cul,problème
+lécher le cul,morale
+péter plus haut que son cul,autre
+poser ses fesses,autre
+se casser le cul,comportement
+se geler les fesses,état_physique
+s’occuper de son cul,autre
+serrer les fesses,émotion
+se taper le cul par terre,autre
+tomber sur le cul,émotion
+un faux cul,morale
+être sur le flanc,état_physique
+tirer au flanc,comportement
+gagner son pain à la sueur de son front,comportement
+avoir les foies,émotion
+être sur les genoux,état_physique
+faire du genou,autre
+mettre le couteau sous la gorge,problème
+rester en travers de la gorge,émotion
+rire à gorge déployée,autre
+à toutes jambes,temps_espace
+avoir les jambes en marmelade,état_physique
+ça fait une belle jambe,autre
+faire des ronds de jambe,social
+faire quelque chose par-dessus la jambe,comportement
+prendre ses jambes à son cou,comportement
+tenir la jambe à quelqu’un,autre
+tirer dans les jambes,autre
+un pansement sur une jambe de bois,autre
+une partie de jambes en l’air,émotion
+avoir la langue bien pendue,langage
+avoir un mot sur le bout de la langue,cognition
+être mauvaise langue,langage
+manier la langue de bois,langage
+ne pas avoir la langue dans sa poche,langage
+se mordre la langue,autre
+tenir sa langue,langage
+du bout des lèvres,autre
+se lécher les babines,désir
+avoir deux mains gauches,capacité
+avoir la main,social
+avoir la main lourde,quantité_valeur
+avoir les mains baladeuses,autre
+avoir les mains liées,problème
+avoir perdu la main,capacité
+avoir quelque chose en main,comportement
+avoir un poil dans la main,comportement
+de main de maître,capacité
+demander la main de,social
+de première main,autre
+donner un coup de main,social
+en mettre sa main à couper,cognition
+en venir aux mains,autre
+entre bonnes mains,autre
+en un tour de main,temps_espace
+être comme les doigts de la main,social
+être entre de bonnes mains,autre
+faire des pieds et des mains,comportement
+forcer la main à quelqu’un,autre
+haut la main,autre
+mettre la main à la pâte,comportement
+mettre sa main au feu,cognition
+mettre la main au collet de quelqu’un,social
+ne pas y aller de main morte,quantité_valeur
+passer la main à quelqu’un,autre
+passer la main dans le dos de quelqu’un,social
+pouvoir se compter sur les doigts d’une main,autre
+préférer se couper la main plutôt que de,comportement
+prendre en main quelque chose,social
+prendre quelqu’un la main dans le sac,autre
+prendre son courage à deux mains,comportement
+prêter main-forte,social
+s’en laver les mains,autre
+se faire la main,autre
+se frotter les mains,émotion
+venir les mains dans les poches,comportement
+avoir le menton en galoche,apparence
+avoir les nerfs en pelote,émotion
+être à bout de nerfs,émotion
+taper sur les nerfs,émotion
+à vue de nez,autre
+avoir un verre dans le nez,alimentation
+avoir un nez en trompette,apparence
+avoir quelqu’un dans le nez,autre
+avoir du nez,cognition
+avoir sous le nez,temps_espace
+faire un pied de nez,autre
+la moutarde monte au nez,émotion
+mener par le bout du nez,social
+mettre le nez dehors,comportement
+mettre son nez quelque part,désir
+montrer le bout de son nez,autre
+ne pas lever le nez,cognition
+ne pas voir plus loin que le bout de son nez,autre
+parler du nez,langage
+passer sous le nez de quelqu’un,problème
+prendre au nez,autre
+prendre quelqu’un de nez,autre
+se casser le nez,problème
+se manger le nez,social
+se piquer le nez,alimentation
+se voir comme le nez au milieu de la figure,autre
+sortir par les trous du nez,émotion
+retomber sur le nez de quelqu’un,problème
+tomber nez à nez avec quelqu’un,émotion
+ton nez remue,cognition
+avoir les ongles en deuil,apparence
+payer rubis sur l’ongle,autre
+se défendre bec et ongles,comportement
+avoir de l’oreille,capacité
+avoir des oreilles en feuilles de chou,apparence
+avoir la puce à l’oreille,cognition
+avoir les oreilles qui sifflent,social
+casser les oreilles à quelqu’un,émotion
+de bouche à oreille,langage
+dormir sur ses deux oreilles,autre
+échauffer les oreilles de quelqu’un,langage
+entrer par une oreille et sortir par l’autre,cognition
+être dur d’oreille,autre
+faire la sourde oreille,cognition
+l’oreille aux aguets,cognition
+n’écouter que d’une oreille,cognition
+ne pas l’entendre de cette oreille,comportement
+ne pas tomber dans l’oreille d’un sourd,social
+rebattre les oreilles,autre
+se faire tirer l’oreille,temps_espace
+tendre l’oreille,cognition
+à l’œil,quantité_valeur
+avoir des yeux de lynx,autre
+avoir le compas dans l’œil,capacité
+avoir l’œil,autre
+avoir les yeux plus grands que le ventre,désir
+avoir un bandeau sur les yeux,cognition
+avoir une coquetterie dans l’œil,apparence
+c’est de la poudre aux yeux,apparence
+coûter les yeux de la tête,quantité_valeur
+crever les yeux,autre
+des yeux de merlan frit,apparence
+des yeux en boules de loto,émotion
+du coin de l’œil,cognition
+en un clin d’œil,temps_espace
+faire de l’œil,autre
+faire les gros yeux à quelqu’un,langage
+faire les yeux doux à,autre
+faire quelque chose à l’œil,quantité_valeur
+jeter un coup d’œil,cognition
+les écailles lui tombent des yeux,cognition
+les yeux fermés,cognition
+l’œil aux aguets,cognition
+manger des yeux,désir
+mon œil,cognition
+mener quelqu’un au doigt et à l’œil,social
+ne dormir que d’un œil,émotion
+ne pas avoir froid aux yeux,morale
+ne pas avoir les yeux dans sa poche,cognition
+ne pas avoir les yeux en face des trous,capacité
+ne pas en croire ses yeux,cognition
+ne pas fermer l’œil,émotion
+ne plus avoir que ses yeux pour pleurer,problème
+ouvrir les yeux à quelqu’un sur quelque chose,cognition
+pour les beaux yeux de,émotion
+regarder d’un œil noir,émotion
+regarder d’un œil critique,cognition
+se rincer l’œil,désir
+sortir par les yeux,émotion
+taper dans l’œil,autre
+tenir quelque chose comme à la prunelle de ses yeux,quantité_valeur
+tourner de l’œil,état_physique
+un œil au beurre noir,état_physique
+valoir le coup d’œil,apparence
+voir à l’œil nu,cognition
+les orteils en éventail,comportement
+être un squelette ambulant,apparence
+être un tas d’os,apparence
+l’avoir dans l’os,problème
+tomber sur un os,problème
+à fleur de peau,émotion
+avoir la peau de quelqu’un,autre
+avoir la peau dure,capacité
+avoir les nerfs à fleur de peau,émotion
+avoir quelqu’un dans la peau,désir
+coûter la peau des fesses,quantité_valeur
+changer de peau,autre
+être bien dans sa peau,état_physique
+être mal dans sa peau,émotion
+faire la peau à quelqu’un,autre
+faire peau neuve,autre
+n’avoir que la peau et les os,apparence
+se mettre dans la peau de quelqu’un,autre
+une vieille peau,langage
+une culotte de peau,autre
+une peau de vache,morale
+attendre quelqu’un de pied ferme,comportement
+avoir bon pied bon œil,état_physique
+avoir un pied dans la tombe,état_physique
+ça ne se trouve pas sous le pied d’un cheval,problème
+casser les pieds à quelqu’un,émotion
+conduire le pied au plancher,quantité_valeur
+couper l’herbe sous les pieds,émotion
+faire du pied à quelqu’un,autre
+faire les pieds à quelqu’un,autre
+faire quelque chose comme un pied,capacité
+faire quelque chose au pied levé,comportement
+faire un appel du pied à quelqu’un,langage
+d’arrache-pied,comportement
+de pied ferme,comportement
+donner un coup de pied dans la fourmilière,autre
+être sur le pied de guerre,comportement
+être pieds et poings liés,autre
+être sur pied,comportement
+lever le pied,temps_espace
+mettre à pied,comportement
+mettre au pied du mur,autre
+mettre le pied à l’étrier à quelqu’un,social
+mettre les pieds dans le plat,capacité
+mettre sur pied,comportement
+ne pas avoir deux pieds dans le même sabot,temps_espace
+ne pas avoir le pied marin,état_physique
+ne pas savoir sur quel pied danser,cognition
+partir les pieds devant,autre
+prendre au pied de la lettre,cognition
+prendre le contre-pied,social
+retomber sur ses pieds,autre
+se lever du pied gauche,autre
+trouver chaussure à son pied,émotion
+tirer une épine du pied de quelqu’un,autre
+un colosse aux pieds d’argile,autre
+à un poil près,temps_espace
+avoir un poil dans la main,comportement
+caresser quelqu’un dans le sens du poil,autre
+être de bon poil,émotion
+être de mauvais poil,autre
+ne plus avoir un poil sur le caillou,apparence
+reprendre du poil de la bête,état_physique
+se mettre à poil,autre
+donner un coup de pouce à quelqu’un,social
+manger sur le pouce,alimentation
+se tourner les pouces,comportement
+avoir les reins solides,comportement
+casser les reins de,autre
+une taille de guêpe,apparence
+avoir quelque chose dans le sang,capacité
+avoir du sang bleu,autre
+glacer le sang à quelqu’un,émotion
+mettre à feu et à sang,autre
+se faire du mauvais sang,émotion
+se ronger les sangs,émotion
+avoir les sourcils en bataille,apparence
+talon d’Achille,autre
+tourner les talons,comportement
+attaquer bille en tête,comportement
+avoir du plomb dans la cervelle,cognition
+avoir la grosse tête,morale
+avoir la tête comme une passoire,cognition
+avoir la tête de l’emploi,apparence
+avoir la tête près du bonnet,émotion
+avoir la tête sur les épaules,cognition
+avoir ses têtes,désir
+avoir toute sa tête,cognition
+avoir un petit pois dans la tête,cognition
+avoir un petit vélo dans la tête,désir
+faire une tête d’enterrement,émotion
+baisser la tête,social
+bourrer le crâne de quelqu’un,autre
+casser la tête à quelqu’un,émotion
+coûter les yeux de la tête,quantité_valeur
+chercher des poux dans la tête de quelqu’un,autre
+enfoncer quelque chose dans la tête de quelqu’un,autre
+être tombé sur la tête,autre
+faire la tête,émotion
+faire quelque chose à la tête du client,social
+faire quelque chose sur un coup de tête,autre
+faire sa mauvaise tête,social
+faire tourner la tête de quelqu’un,autre
+foncer tête baissée,problème
+garder la tête froide,capacité
+la tête à l’envers,cognition
+la tête sur le billot,problème
+manger la soupe sur la tête de quelqu’un,autre
+mettre la tête au carré à quelqu’un,langage
+monter à la tête,alimentation
+n’en faire qu’à sa tête,autre
+ne plus savoir où donner de la tête,cognition
+par tête de pipe,autre
+perdre la tête,autre
+piquer une tête,autre
+sans queue ni tête,cognition
+se creuser la tête,autre
+se jeter à la tête de,émotion
+se payer la tête de quelqu’un,autre
+se mettre martel en tête,désir
+se monter la tête,cognition
+se prendre la tête,problème
+se taper la tête contre les murs,émotion
+tenir tête à quelqu’un,comportement
+un tête à tête,langage
+une tête à claques,émotion
+une tête de cochon,autre
+une tête de turc,social
+se saigner aux quatre veines,comportement
+avoir les yeux plus grands que le ventre,désir
+avoir quelque chose dans le ventre,morale
+avoir le ventre creux,état_physique
+se regarder le nombril,morale
+ventre à terre,temps_espace
+prendre des vessies pour des lanternes,cognition
+échauffer la bile de quelqu’un,émotion
+se faire de la bile,émotion
+avoir un coup dans l’aile,problème
+avoir la bosse de quelque chose,capacité
+rouler sa bosse,autre
+être un aigle,cognition
+un regard d’aigle,autre
+attendre que les alouettes tombent toutes rôties dans la bouche,cognition
+un miroir aux alouettes,apparence
+avoir une tête de mule,comportement
+faire boire un âne qui n’a pas soif,problème
+faute d’un point Martin perdit son âne,comportement
+faire l’âne de Buridan,autre
+faire l’âne pour avoir du son,autre
+faire tourner en bourrique,émotion
+le pont aux ânes,autre
+méchant comme un âne rouge,morale
+n’être ni âne ni cheval,autre
+saoul comme une bourrique,alimentation
+têtu comme une bourrique,comportement
+un âne bâté,cognition
+un bonnet d’âne,problème
+avoir une araignée au plafond,autre
+avoir un estomac d’autruche,autre
+la politique de l’autruche,autre
+rire comme une baleine,quantité_valeur
+être une bécasse,cognition
+chercher la petite bête,problème
+être la bête noire de quelqu’un,autre
+regarder quelqu’un comme une bête curieuse,cognition
+avoir un bœuf sur la langue,langage
+ça lui va comme un tablier à une vache,autre
+être fort comme un bœuf,capacité
+être fort comme un taureau,capacité
+le plancher des vaches,temps_espace
+manger de la vache enragée,autre
+mettre la charrue avant les bœufs,autre
+pleurer comme un veau,émotion
+pleuvoir comme vache qui pisse,quantité_valeur
+prendre le taureau par les cornes,morale
+souffler comme un bœuf,comportement
+un coup à assommer un bœuf,capacité
+un vent à décorner les bœufs,autre
+une période de vaches maigres,quantité_valeur
+une peau de vache,morale
+une vache à lait,quantité_valeur
+canard boiteux,autre
+être trempé comme un canard,état_physique
+faire un canard,capacité
+glisser comme de l’eau sur les plumes d’un canard,autre
+marcher en canard,comportement
+ne pas casser trois pattes à un canard,autre
+prendre un canard,alimentation
+un froid de canard,état_physique
+être sobre comme un chameau,alimentation
+acheter chat en poche,autre
+appeler un chat un chat,langage
+avoir d’autres chats à fouetter,autre
+avoir un chat dans la gorge,capacité
+de la bouillie pour les chats,cognition
+donner sa langue au chat,cognition
+écrire comme un chat,capacité
+du pipi de chat,quantité_valeur
+il n’y a pas un chat,autre
+jeter le chat aux jambes de quelqu’un,problème
+jouer au chat et à la souris avec quelqu’un,autre
+le nid d’une souris dans l’oreille d’un chat,problème
+pas de quoi fouetter un chat,autre
+réveiller le chat qui dort,problème
+une toilette de chat,comportement
+une chatte n’y retrouverait pas ses petits,cognition
+après bon vin bon cheval,morale
+avoir une fièvre de cheval,état_physique
+avoir mangé du cheval,autre
+changer son cheval borgne pour un aveugle,problème
+être à cheval sur quelque chose,autre
+ne pas être un mauvais cheval,quantité_valeur
+ne pas se trouver sous le pas d’un cheval,problème
+un cheval de bataille,désir
+un remède de cheval,autre
+un cheval de Troie,autre
+un cheval de retour,autre
+un vrai cheval de labour,capacité
+avoir du chien,autre
+avoir un mal de chien,comportement
+se donner un mal de chien,comportement
+dormir en chien de fusil,autre
+entre chien et loup,temps_espace
+être chien,morale
+être comme un chien dans un jeu de quilles,capacité
+faire le chien couchant,social
+garder un chien de sa chienne,émotion
+malade comme un chien,état_physique
+n’être bon qu’à jeter aux chiens,autre
+ne pas attacher son chien avec des saucisses,morale
+rubrique des chiens écrasés,autre
+rompre les chiens,autre
+s’entendre comme chien et chat,social
+se regarder en chiens de faïence,autre
+traiter quelqu’un comme un chien,autre
+un caractère de chien,autre
+un temps de chien,autre
+une humeur de chien,émotion
+une vie de chien,autre
+donner de la confiture aux cochons,autre
+jeter des perles aux pourceaux,autre
+être copains comme cochons,social
+jouer un tour de cochon,morale
+manger comme un cochon,désir
+ne pas avoir gardé les cochons ensemble,social
+ni lard ni cochon,cognition
+sale comme un cochon,comportement
+du lard ou du cochon,cognition
+un film cochon,autre
+un travail de cochon,comportement
+un vieux cochon,autre
+une tête de cochon,autre
+au chant du coq,temps_espace
+avoir des jambes de coq,autre
+avoir la chair de poule,émotion
+faire le coq,morale
+être rouge comme un coq,apparence
+être comme un coq en pâte,état_physique
+la bouche en cul de poule,apparence
+le coq du village,autre
+passer du coq à l’âne,cognition
+quand les poules auront des dents,problème
+une mère poule,émotion
+une poule mouillée,morale
+une poule qui a couvé des œufs de canard,autre
+sauter du coq à l’âne,cognition
+se lever avec les poules,comportement
+tuer la poule aux œufs d’or,autre
+bayer aux corneilles,cognition
+marcher en crabe,capacité
+un panier de crabes,social
+marcher comme une écrevisse,capacité
+des larmes de crocodile,morale
+être le dindon de la farce,autre
+avoir une mémoire d’éléphant,cognition
+comme un éléphant dans un magasin de porcelaine,capacité
+avancer comme un escargot,temps_espace
+avoir des fourmis dans les jambes,état_physique
+donner un coup de pied dans la fourmilière,autre
+pulluler comme des fourmis,quantité_valeur
+une vraie fourmi,autre
+avoir un cou de girafe,apparence
+une grenouille de bénitier,morale
+faire le pied de grue,autre
+être une grue,autre
+faire la grue,capacité
+pas folle la guêpe,cognition
+un coup de pied dans un nid de guêpes,problème
+ça ne vaut pas un pet de lapin,quantité_valeur
+courir comme un lapin,comportement
+poser un lapin à quelqu’un,autre
+trouver le lièvre au gîte,autre
+un chaud lapin,autre
+faire le lézard,comportement
+avoir mangé du lion,morale
+à pas de loup,langage
+avoir vu le loup,autre
+être connu comme le loup blanc,social
+être un jeune loup,désir
+hurler avec les loups,autre
+mettre le loup dans la bergerie,morale
+se jeter dans la gueule du loup,autre
+un froid de loup,état_physique
+une faim de loup,état_physique
+des pattes de mouches,capacité
+écraser une mouche avec un marteau,quantité_valeur
+être une fine mouche,cognition
+faire d’une mouche un éléphant,quantité_valeur
+faire la mouche du coche,autre
+faire querelle sur un pied de mouche,autre
+mourir comme des mouches,autre
+ne pas entendre une mouche voler,langage
+ne pas faire de mal à une mouche,morale
+prendre la mouche,émotion
+quelle mouche l’a piqué ?,émotion
+tomber comme des mouches,état_physique
+bouc émissaire,autre
+brebis galeuse,autre
+comme des moutons de Panurge,comportement
+être un mouton,comportement
+doux comme un mouton,autre
+doux comme un agneau,autre
+faire devenir chèvre,émotion
+ménager la chèvre et le chou,autre
+revenir à ses moutons,temps_espace
+se laisser manger la laine sur le dos,autre
+un mouton à cinq pattes,autre
+manger comme un moineau,alimentation
+tirer sa poudre aux moineaux,autre
+une cervelle de moineau,cognition
+une tête de linotte,cognition
+avoir un appétit d’oiseau,alimentation
+des noms d’oiseaux,langage
+l’oiseau s’est envolé,comportement
+un oiseau de mauvais augure,autre
+un oiseau de nuit,comportement
+un oiseau rare,quantité_valeur
+une cervelle d’oiseau,autre
+vivre comme l’oiseau sur la branche,autre
+à tire-d’aile,temps_espace
+avoir du plomb dans l’aile,problème
+avoir un coup dans l’aile,problème
+avoir un fil à la patte,autre
+battre de l’aile,problème
+clore le bec à quelqu’un,langage
+défendre bec et ongles,comportement
+faire la roue,morale
+laisser quelqu’un le bec dans l’eau,émotion
+perdre des plumes,problème
+rabattre le caquet à quelqu’un,langage
+ronger les ailes à quelqu’un,social
+roupie de sansonnet,quantité_valeur
+se brûler les ailes,désir
+se dresser sur les ergots,émotion
+tordre le cou à quelqu’un,autre
+une prise de bec,social
+un blanc-bec,autre
+voler de ses propres ailes,autre
+bête comme une oie,cognition
+une oie blanche,autre
+une patte d’oie,apparence
+un ours mal léché,autre
+fier comme un paon,morale
+être bavard comme une pie,langage
+bailler comme une carpe,capacité
+boire la mer et ses poissons,désir
+comme un poisson dans l’eau,autre
+comme un poisson hors de l’eau,état_physique
+être serrés comme des anchois,autre
+être serrés comme des sardines,autre
+faire une queue de poisson,autre
+finir en queue de poisson,autre
+ignorant comme une carpe,cognition
+il y a anguille sous roche,cognition
+jeune chair et vieux poisson,social
+menu fretin,autre
+muet comme une carpe,langage
+ni chair ni poisson,cognition
+être laid comme un pou,apparence
+être sale comme un pou,comportement
+fier comme un pou,morale
+chercher des poux à quelqu’un,autre
+avoir la puce à l’oreille,cognition
+mettre la puce à l’oreille,cognition
+secouer les puces à quelqu’un,langage
+crier comme un putois,autre
+être fait comme un rat,problème
+être rat,morale
+face de rat,apparence
+la montagne accouche d’une souris,autre
+un vieux renard,cognition
+rusé comme un renard,cognition
+avaler des couleuvres,autre
+être paresseux comme une couleuvre,comportement
+réchauffer un serpent dans son sein,morale
+une langue de vipère,langage
+faire le singe,comportement
+malin comme un singe,cognition
+payer en monnaie de singe,autre
+méchant comme une teigne,morale
+à pas de tortue,temps_espace
+nu comme un ver,autre
+pas piqué des vers,autre
+pas piqué des hannetons,autre
+courir comme un zèbre,temps_espace

@@ -1,0 +1,16 @@
+﻿expression,gold,pred_rule,pred_tfidf,pred_camembert,rule_correct,tfidf_correct,camembert_correct
+avoir des oreilles en feuilles de chou,apparence,autre,apparence,autre,False,True,False
+tendre l’oreille,cognition,cognition,cognition,autre,True,True,False
+avoir une mine de papier mâché,apparence,apparence,apparence,autre,True,True,False
+du bout des lèvres,autre,autre,autre,émotion,True,True,False
+l’oreille aux aguets,cognition,cognition,cognition,autre,True,True,False
+tenir sa langue,langage,langage,langage,émotion,True,True,False
+méchant comme une teigne,morale,autre,morale,autre,False,True,False
+un froid de loup,état_physique,désir,état_physique,autre,False,True,False
+avoir le cœur bien accroché,morale,émotion,morale,émotion,False,True,False
+s’en donner à cœur joie,émotion,émotion,émotion,autre,True,True,False
+de pied ferme,comportement,comportement,comportement,autre,True,True,False
+faire contre mauvaise fortune bon cœur,morale,émotion,morale,autre,False,True,False
+réchauffer le cœur de quelqu’un,émotion,émotion,émotion,autre,True,True,False
+bête comme une oie,cognition,autre,cognition,autre,False,True,False
+prendre son courage à deux mains,comportement,autre,comportement,autre,False,True,False

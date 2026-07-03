@@ -1,0 +1,154 @@
+﻿expression,mot_clef,gold,pred_rule,rule_correct
+se crêper le chignon,chignon,social,autre,False
+un vent à décorner les bœufs,bœufs,autre,autre,True
+ça ne vaut pas un pet de lapin,lapin,quantité_valeur,autre,False
+faire quelque chose comme un pied,pied,capacité,comportement,False
+avoir la bosse de quelque chose,bosse,capacité,autre,False
+s’occuper de son cul,cul,autre,autre,True
+poser un lapin à quelqu’un,lapin,autre,autre,True
+avoir les oreilles qui sifflent,oreilles,social,autre,False
+sortir par les trous du nez,nez,émotion,autre,False
+avoir des oreilles en feuilles de chou,oreilles,apparence,autre,False
+casser les oreilles à quelqu’un,oreilles,émotion,autre,False
+manger de la vache enragée,vache,autre,quantité_valeur,False
+avoir les mains baladeuses,mains,autre,autre,True
+le plancher des vaches,vaches,temps_espace,quantité_valeur,False
+traiter quelqu’un comme un chien,chien,autre,autre,True
+perdre des plumes,plumes,problème,autre,False
+roupie de sansonnet,sansonnet,quantité_valeur,autre,False
+donner un coup de pouce à quelqu’un,pouce,social,autre,False
+garder bouche cousue,bouche,langage,apparence,False
+un panier de crabes,crabes,social,autre,False
+avoir un petit pois dans la tête,tête,cognition,autre,False
+avoir la tête sur les épaules,tête,cognition,autre,False
+du pipi de chat,chat,quantité_valeur,autre,False
+tourner de l’œil,œil,état_physique,cognition,False
+clore le bec à quelqu’un,bec,langage,émotion,False
+pleurer comme un veau,veau,émotion,autre,False
+malade comme un chien,chien,état_physique,autre,False
+souffler comme un bœuf,bœuf,comportement,capacité,False
+tendre l’oreille,oreille,cognition,cognition,True
+une culotte de peau,peau,autre,autre,True
+rester sur l’estomac,estomac,émotion,état_physique,False
+mettre le nez dehors,nez,comportement,autre,False
+avoir un bœuf sur la langue,bœuf,langage,capacité,False
+se ronger les sangs,sang,émotion,capacité,False
+faire quelque chose sur un coup de tête,tête,autre,autre,True
+faire cul sec,cul,alimentation,autre,False
+avoir une mine de papier mâché,mine,apparence,apparence,True
+payer en monnaie de singe,singe,autre,comportement,False
+faire du pied à quelqu’un,pied,autre,comportement,False
+il y a anguille sous roche,anguille,cognition,autre,False
+être comme un chien dans un jeu de quilles,chien,capacité,autre,False
+lécher le cul,cul,morale,autre,False
+faire sa mauvaise tête,tête,social,autre,False
+avoir une dent contre quelqu’un,dent,émotion,alimentation,False
+la bouche en cœur,bouche,autre,apparence,False
+avoir une mémoire d’éléphant,éléphant,cognition,capacité,False
+bailler comme une carpe,carpe,capacité,cognition,False
+la moutarde monte au nez,nez,émotion,autre,False
+une vache à lait,vache,quantité_valeur,quantité_valeur,True
+la tête à l’envers,tête,cognition,autre,False
+mettre les pieds dans le plat,pieds,capacité,autre,False
+être un aigle,aigle,cognition,autre,False
+pas piqué des hannetons,hannetons,autre,autre,True
+faire de l’œil,œil,autre,cognition,False
+se donner un mal de chien,chien,comportement,autre,False
+couper l’herbe sous les pieds,pieds,émotion,autre,False
+mettre le couteau sous la gorge,gorge,problème,autre,False
+manger sur le pouce,pouce,alimentation,autre,False
+tomber sur le cul,cul,émotion,autre,False
+une face de carême,face,émotion,autre,False
+être sur le pied de guerre,pied,comportement,comportement,True
+jouer un tour de cochon,cochon,morale,cognition,False
+le coq du village,coq,autre,cognition,False
+se saigner aux quatre veines,veines,comportement,autre,False
+crier comme un putois,putois,autre,autre,True
+avoir un coup dans l’aile,aile,problème,problème,True
+être laid comme un pou,pou,apparence,morale,False
+se prendre la tête,tête,problème,autre,False
+se faire montrer du doigt,doigt,social,autre,False
+avoir la main,main,social,comportement,False
+avoir une fièvre de cheval,cheval,état_physique,autre,False
+avoir la peau de quelqu’un,peau,autre,autre,True
+se croiser les bras,bras,autre,autre,True
+être sobre comme un chameau,chameau,alimentation,autre,False
+du bout des lèvres,lèvres,autre,autre,True
+l’oreille aux aguets,oreille,cognition,cognition,True
+un mouton à cinq pattes,mouton,autre,autre,True
+avoir du sang bleu,sang,autre,capacité,False
+tenir sa langue,langue,langage,langage,True
+méchant comme une teigne,teigne,morale,autre,False
+être bavard comme une pie,pie,langage,autre,False
+ça fait une belle jambe,jambe,autre,autre,True
+casser les couilles à quelqu’un,couilles,émotion,morale,False
+un froid de loup,loup,état_physique,désir,False
+avoir le cœur bien accroché,cœur,morale,émotion,False
+jeter le chat aux jambes de quelqu’un,chat,problème,autre,False
+rire à s’en tenir les côtes,côtes,autre,autre,True
+une taille de guêpe,taille,apparence,autre,False
+faire un appel du pied à quelqu’un,pied,langage,comportement,False
+attaquer bille en tête,tête,comportement,autre,False
+faire une queue de poisson,poisson,autre,autre,True
+un miroir aux alouettes,alouettes,apparence,cognition,False
+avoir un petit vélo dans la tête,tête,désir,autre,False
+se rincer l’œil,œil,désir,cognition,False
+une poule mouillée,poule,morale,émotion,False
+un cheval de Troie,cheval,autre,autre,True
+entre chien et loup,chien,temps_espace,autre,False
+ne pas en croire ses yeux,yeux,cognition,cognition,True
+le faire à l’estomac,estomac,autre,état_physique,False
+faire l’âne pour avoir du son,âne,autre,autre,True
+tirer dans les jambes,jambes,autre,temps_espace,False
+donner un coup de main,main,social,comportement,False
+être mal dans sa peau,peau,émotion,autre,False
+talon d’Achille,talon,autre,autre,True
+les yeux fermés,yeux,cognition,cognition,True
+faire les yeux doux à,yeux,autre,cognition,False
+renvoyer dos à dos,dos,social,autre,False
+un coup de cœur,cœur,désir,émotion,False
+courir comme un lapin,lapin,comportement,autre,False
+rester en travers de la gorge,gorge,émotion,autre,False
+venir les mains dans les poches,mains,comportement,autre,False
+du coin de l’œil,œil,cognition,cognition,True
+s’entendre comme chien et chat,chien,social,autre,False
+s’en donner à cœur joie,cœur,émotion,émotion,True
+manger comme un cochon,cochon,désir,cognition,False
+une faim de loup,loup,état_physique,désir,False
+une tête de cochon,tête,autre,autre,True
+secouer les puces à quelqu’un,puces,langage,autre,False
+bien en chair,chair,apparence,autre,False
+de pied ferme,pied,comportement,comportement,True
+croquer à belles dents,dents,désir,désir,True
+avoir l’âme chevillée au corps,cheville,comportement,autre,False
+se voiler la face,face,cognition,autre,False
+glacer le sang à quelqu’un,sang,émotion,capacité,False
+en chair et en os,chair,autre,autre,True
+rire comme une baleine,baleine,quantité_valeur,autre,False
+avoir un chat dans la gorge,chat,capacité,autre,False
+écrire comme un chat,chat,capacité,autre,False
+marcher en canard,canard,comportement,autre,False
+se faire du mauvais sang,sang,émotion,capacité,False
+haut la main,main,autre,comportement,False
+être la bête noire de quelqu’un,bête,autre,cognition,False
+faire contre mauvaise fortune bon cœur,cœur,morale,émotion,False
+partir les pieds devant,pieds,autre,autre,True
+avoir la dent dure,dent,autre,alimentation,False
+avoir les chevilles qui enflent,chevilles,morale,autre,False
+ne pas attacher son chien avec des saucisses,chien,morale,autre,False
+couler corps et biens,corps,problème,langage,False
+réchauffer le cœur de quelqu’un,cœur,émotion,émotion,True
+faire le gros dos,dos,autre,autre,True
+être serrés comme des anchois,anchois,autre,autre,True
+avoir quelqu’un sur les bras,bras,autre,autre,True
+donner un coup de pied dans la fourmilière,pied,autre,comportement,False
+une grenouille de bénitier,grenouille,morale,autre,False
+bête comme une oie,oie,cognition,autre,False
+lever le pied,pied,temps_espace,comportement,False
+laisser la bride sur le cou de quelqu’un,cou,autre,émotion,False
+tirer sa poudre aux moineaux,moineaux,autre,autre,True
+prendre son courage à deux mains,mains,comportement,autre,False
+être à deux doigts de,doigts,problème,capacité,False
+l’oiseau s’est envolé,oiseau,comportement,autre,False
+reprendre du poil de la bête,poil,état_physique,autre,False
+avoir vu le loup,loup,autre,désir,False

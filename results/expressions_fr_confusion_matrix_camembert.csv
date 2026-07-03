@@ -1,0 +1,16 @@
+﻿,alimentation,apparence,autre,capacité,cognition,comportement,désir,langage,morale,problème,quantité_valeur,social,temps_espace,émotion,état_physique
+alimentation,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0
+apparence,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0
+autre,0,0,33,1,0,0,0,0,0,0,0,0,0,8,0
+capacité,0,0,5,0,1,0,0,0,0,0,0,0,0,1,0
+cognition,0,0,9,0,2,0,0,0,0,0,0,0,0,2,0
+comportement,0,0,10,0,0,0,0,0,0,0,0,0,0,3,0
+désir,0,0,2,0,1,0,0,0,0,0,0,0,0,2,0
+langage,0,0,4,0,2,0,0,0,0,0,0,0,0,1,0
+morale,0,0,7,0,0,0,0,0,0,0,0,0,0,2,0
+problème,0,0,5,0,0,0,0,0,0,1,0,0,0,1,0
+quantité_valeur,0,0,4,0,0,0,0,0,0,0,0,0,0,1,0
+social,0,0,8,1,0,0,0,0,0,0,0,0,0,1,0
+temps_espace,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0
+émotion,0,0,13,0,0,0,0,0,0,0,0,0,0,4,0
+état_physique,0,0,4,0,0,0,0,0,0,0,0,0,0,2,0

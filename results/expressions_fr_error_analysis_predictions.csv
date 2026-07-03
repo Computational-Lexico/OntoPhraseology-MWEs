@@ -1,0 +1,154 @@
+﻿expression,gold,pred_rule,pred_tfidf,pred_camembert,rule_correct,tfidf_correct,camembert_correct
+se crêper le chignon,social,autre,alimentation,autre,False,False,False
+un vent à décorner les bœufs,autre,autre,autre,autre,True,True,True
+ça ne vaut pas un pet de lapin,quantité_valeur,autre,autre,autre,False,False,False
+faire quelque chose comme un pied,capacité,comportement,quantité_valeur,autre,False,False,False
+avoir la bosse de quelque chose,capacité,autre,autre,autre,False,False,False
+s’occuper de son cul,autre,autre,autre,autre,True,True,True
+poser un lapin à quelqu’un,autre,autre,autre,autre,True,True,True
+avoir les oreilles qui sifflent,social,autre,désir,émotion,False,False,False
+sortir par les trous du nez,émotion,autre,cognition,autre,False,False,False
+avoir des oreilles en feuilles de chou,apparence,autre,apparence,autre,False,True,False
+casser les oreilles à quelqu’un,émotion,autre,langage,autre,False,False,False
+manger de la vache enragée,autre,quantité_valeur,morale,autre,False,False,True
+avoir les mains baladeuses,autre,autre,désir,émotion,True,False,False
+le plancher des vaches,temps_espace,quantité_valeur,quantité_valeur,autre,False,False,False
+traiter quelqu’un comme un chien,autre,autre,autre,autre,True,True,True
+perdre des plumes,problème,autre,autre,autre,False,False,False
+roupie de sansonnet,quantité_valeur,autre,autre,autre,False,False,False
+donner un coup de pouce à quelqu’un,social,autre,autre,autre,False,False,False
+garder bouche cousue,langage,apparence,capacité,autre,False,False,False
+un panier de crabes,social,autre,autre,autre,False,False,False
+avoir un petit pois dans la tête,cognition,autre,autre,cognition,False,False,True
+avoir la tête sur les épaules,cognition,autre,capacité,émotion,False,False,False
+du pipi de chat,quantité_valeur,autre,autre,autre,False,False,False
+tourner de l’œil,état_physique,cognition,quantité_valeur,autre,False,False,False
+clore le bec à quelqu’un,langage,émotion,social,autre,False,False,False
+pleurer comme un veau,émotion,autre,capacité,émotion,False,False,True
+malade comme un chien,état_physique,autre,autre,autre,False,False,False
+souffler comme un bœuf,comportement,capacité,capacité,autre,False,False,False
+tendre l’oreille,cognition,cognition,cognition,autre,True,True,False
+une culotte de peau,autre,autre,autre,autre,True,True,True
+rester sur l’estomac,émotion,état_physique,état_physique,autre,False,False,False
+mettre le nez dehors,comportement,autre,cognition,autre,False,False,False
+avoir un bœuf sur la langue,langage,capacité,capacité,cognition,False,False,False
+se ronger les sangs,émotion,capacité,social,émotion,False,False,True
+faire quelque chose sur un coup de tête,autre,autre,langage,autre,True,False,True
+faire cul sec,alimentation,autre,morale,autre,False,False,False
+avoir une mine de papier mâché,apparence,apparence,apparence,autre,True,True,False
+payer en monnaie de singe,autre,comportement,autre,autre,False,True,True
+faire du pied à quelqu’un,autre,comportement,autre,autre,False,True,True
+il y a anguille sous roche,cognition,autre,temps_espace,autre,False,False,False
+être comme un chien dans un jeu de quilles,capacité,autre,état_physique,autre,False,False,False
+lécher le cul,morale,autre,alimentation,autre,False,False,False
+faire sa mauvaise tête,social,autre,langage,autre,False,False,False
+avoir une dent contre quelqu’un,émotion,alimentation,social,autre,False,False,False
+la bouche en cœur,autre,apparence,apparence,émotion,False,False,False
+avoir une mémoire d’éléphant,cognition,capacité,capacité,cognition,False,False,True
+bailler comme une carpe,capacité,cognition,langage,autre,False,False,False
+la moutarde monte au nez,émotion,autre,cognition,autre,False,False,False
+une vache à lait,quantité_valeur,quantité_valeur,morale,autre,True,False,False
+la tête à l’envers,cognition,autre,émotion,autre,False,False,False
+mettre les pieds dans le plat,capacité,autre,comportement,autre,False,False,False
+être un aigle,cognition,autre,apparence,autre,False,False,False
+pas piqué des hannetons,autre,autre,autre,autre,True,True,True
+faire de l’œil,autre,cognition,quantité_valeur,autre,False,False,True
+se donner un mal de chien,comportement,autre,autre,autre,False,False,False
+couper l’herbe sous les pieds,émotion,autre,problème,autre,False,False,False
+mettre le couteau sous la gorge,problème,autre,autre,autre,False,False,False
+manger sur le pouce,alimentation,autre,autre,autre,False,False,False
+tomber sur le cul,émotion,autre,problème,autre,False,False,False
+une face de carême,émotion,autre,apparence,autre,False,False,False
+être sur le pied de guerre,comportement,comportement,état_physique,autre,True,False,False
+jouer un tour de cochon,morale,cognition,temps_espace,autre,False,False,False
+le coq du village,autre,cognition,morale,autre,False,False,True
+se saigner aux quatre veines,comportement,autre,autre,émotion,False,False,False
+crier comme un putois,autre,autre,état_physique,émotion,True,False,False
+avoir un coup dans l’aile,problème,problème,problème,problème,True,True,True
+être laid comme un pou,apparence,morale,morale,autre,False,False,False
+se prendre la tête,problème,autre,alimentation,autre,False,False,False
+se faire montrer du doigt,social,autre,autre,autre,False,False,False
+avoir la main,social,comportement,capacité,capacité,False,False,False
+avoir une fièvre de cheval,état_physique,autre,autre,émotion,False,False,False
+avoir la peau de quelqu’un,autre,autre,autre,autre,True,True,True
+se croiser les bras,autre,autre,émotion,autre,True,False,True
+être sobre comme un chameau,alimentation,autre,état_physique,autre,False,False,False
+du bout des lèvres,autre,autre,autre,émotion,True,True,False
+l’oreille aux aguets,cognition,cognition,cognition,autre,True,True,False
+un mouton à cinq pattes,autre,autre,comportement,autre,True,False,True
+avoir du sang bleu,autre,capacité,capacité,émotion,False,False,False
+tenir sa langue,langage,langage,langage,émotion,True,True,False
+méchant comme une teigne,morale,autre,morale,autre,False,True,False
+être bavard comme une pie,langage,autre,cognition,cognition,False,False,False
+ça fait une belle jambe,autre,autre,autre,autre,True,True,True
+casser les couilles à quelqu’un,émotion,morale,problème,autre,False,False,False
+un froid de loup,état_physique,désir,état_physique,autre,False,True,False
+avoir le cœur bien accroché,morale,émotion,morale,émotion,False,True,False
+jeter le chat aux jambes de quelqu’un,problème,autre,autre,autre,False,False,False
+rire à s’en tenir les côtes,autre,autre,émotion,émotion,True,False,False
+une taille de guêpe,apparence,autre,cognition,autre,False,False,False
+faire un appel du pied à quelqu’un,langage,comportement,autre,autre,False,False,False
+attaquer bille en tête,comportement,autre,émotion,autre,False,False,False
+faire une queue de poisson,autre,autre,autre,autre,True,True,True
+un miroir aux alouettes,apparence,cognition,autre,autre,False,False,False
+avoir un petit vélo dans la tête,désir,autre,cognition,cognition,False,False,False
+se rincer l’œil,désir,cognition,alimentation,autre,False,False,False
+une poule mouillée,morale,émotion,émotion,autre,False,False,False
+un cheval de Troie,autre,autre,autre,autre,True,True,True
+entre chien et loup,temps_espace,autre,autre,autre,False,False,False
+ne pas en croire ses yeux,cognition,cognition,quantité_valeur,autre,True,False,False
+le faire à l’estomac,autre,état_physique,état_physique,émotion,False,False,False
+faire l’âne pour avoir du son,autre,autre,cognition,autre,True,False,True
+tirer dans les jambes,autre,temps_espace,état_physique,autre,False,False,True
+donner un coup de main,social,comportement,autre,autre,False,False,False
+être mal dans sa peau,émotion,autre,état_physique,autre,False,False,False
+talon d’Achille,autre,autre,autre,autre,True,True,True
+les yeux fermés,cognition,cognition,émotion,émotion,True,False,False
+faire les yeux doux à,autre,cognition,émotion,autre,False,False,True
+renvoyer dos à dos,social,autre,autre,autre,False,False,False
+un coup de cœur,désir,émotion,morale,émotion,False,False,False
+courir comme un lapin,comportement,autre,temps_espace,autre,False,False,False
+rester en travers de la gorge,émotion,autre,autre,émotion,False,False,True
+venir les mains dans les poches,comportement,autre,autre,émotion,False,False,False
+du coin de l’œil,cognition,cognition,quantité_valeur,autre,True,False,False
+s’entendre comme chien et chat,social,autre,comportement,autre,False,False,False
+s’en donner à cœur joie,émotion,émotion,émotion,autre,True,True,False
+manger comme un cochon,désir,cognition,alimentation,autre,False,False,False
+une faim de loup,état_physique,désir,langage,émotion,False,False,False
+une tête de cochon,autre,autre,autre,autre,True,True,True
+secouer les puces à quelqu’un,langage,autre,social,autre,False,False,False
+bien en chair,apparence,autre,émotion,autre,False,False,False
+de pied ferme,comportement,comportement,comportement,autre,True,True,False
+croquer à belles dents,désir,désir,langage,émotion,True,False,False
+avoir l’âme chevillée au corps,comportement,autre,désir,émotion,False,False,False
+se voiler la face,cognition,autre,autre,autre,False,False,False
+glacer le sang à quelqu’un,émotion,capacité,autre,autre,False,False,False
+en chair et en os,autre,autre,apparence,autre,True,False,True
+rire comme une baleine,quantité_valeur,autre,cognition,émotion,False,False,False
+avoir un chat dans la gorge,capacité,autre,autre,émotion,False,False,False
+écrire comme un chat,capacité,autre,autre,cognition,False,False,False
+marcher en canard,comportement,autre,capacité,autre,False,False,False
+se faire du mauvais sang,émotion,capacité,autre,émotion,False,False,True
+haut la main,autre,comportement,social,émotion,False,False,False
+être la bête noire de quelqu’un,autre,cognition,social,autre,False,False,True
+faire contre mauvaise fortune bon cœur,morale,émotion,morale,autre,False,True,False
+partir les pieds devant,autre,autre,émotion,autre,True,False,True
+avoir la dent dure,autre,alimentation,capacité,capacité,False,False,False
+avoir les chevilles qui enflent,morale,autre,désir,émotion,False,False,False
+ne pas attacher son chien avec des saucisses,morale,autre,autre,autre,False,False,False
+couler corps et biens,problème,langage,comportement,autre,False,False,False
+réchauffer le cœur de quelqu’un,émotion,émotion,émotion,autre,True,True,False
+faire le gros dos,autre,autre,émotion,autre,True,False,True
+être serrés comme des anchois,autre,autre,état_physique,autre,True,False,True
+avoir quelqu’un sur les bras,autre,autre,langage,autre,True,False,True
+donner un coup de pied dans la fourmilière,autre,comportement,autre,autre,False,True,True
+une grenouille de bénitier,morale,autre,cognition,autre,False,False,False
+bête comme une oie,cognition,autre,cognition,autre,False,True,False
+lever le pied,temps_espace,comportement,comportement,autre,False,False,False
+laisser la bride sur le cou de quelqu’un,autre,émotion,social,autre,False,False,True
+tirer sa poudre aux moineaux,autre,autre,autre,autre,True,True,True
+prendre son courage à deux mains,comportement,autre,comportement,autre,False,True,False
+être à deux doigts de,problème,capacité,capacité,émotion,False,False,False
+l’oiseau s’est envolé,comportement,autre,autre,autre,False,False,False
+reprendre du poil de la bête,état_physique,autre,autre,autre,False,False,False
+avoir vu le loup,autre,désir,désir,autre,False,False,True
