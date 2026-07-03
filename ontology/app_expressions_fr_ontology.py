@@ -4,12 +4,13 @@ import networkx as nx
 from pyvis.network import Network
 import tempfile
 import ast
-from rdflib import Graph, Namespace, Literal
-from rdflib.namespace import RDF, RDFS, OWL
+from rdflib import Graph, Namespace, Literal, URIRef
+from rdflib.namespace import RDF, RDFS, OWL, DC, DCTERMS, XSD
 from urllib.parse import quote
 
 DATA_CSV_PATH = "expressions_fr_multilabel_groundtruth_clean.csv"
-BASE_URI = "http://example.org/expressions-fr-ontology#"
+BASE_URI = "https://github.com/Computational-Lexico/OntoPhraseology-MWEs/ontology#"
+ONTOLOGY_URI = "https://github.com/Computational-Lexico/OntoPhraseology-MWEs/ontology"
 
 st.set_page_config(
     page_title="French Idiomatic Expressions Ontology System",
@@ -167,11 +168,28 @@ def safe_uri(text):
 def construire_owl(dataframe):
     g = Graph()
     EX = Namespace(BASE_URI)
+    ONTO = URIRef(ONTOLOGY_URI)
 
     g.bind("ex", EX)
     g.bind("rdf", RDF)
     g.bind("rdfs", RDFS)
     g.bind("owl", OWL)
+    g.bind("dc", DC)
+    g.bind("dcterms", DCTERMS)
+    g.bind("xsd", XSD)
+
+    g.add((ONTO, RDF.type, OWL.Ontology))
+    g.add((ONTO, DC.title, Literal("OntoPhraseology-MWEs", lang="en")))
+    g.add((ONTO, DC.creator, Literal("CHEN Lian")))
+    g.add((ONTO, DC.description, Literal(
+        "An OntoLex-Lemon-compatible ontology for Chinese–French phraseological units and multiword expressions.",
+        lang="en"
+    )))
+    g.add((ONTO, DC.license, Literal("CC BY 4.0")))
+    g.add((ONTO, OWL.versionInfo, Literal("1.0")))
+    g.add((ONTO, DCTERMS.created, Literal("2026-07-03", datatype=XSD.date)))
+
+    
 
     classes = {
         "ExpressionIdiomatique": "French idiomatic expression",
