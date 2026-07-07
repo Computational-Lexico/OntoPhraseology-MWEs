@@ -167,7 +167,7 @@ Please cite the repository in any derivative work.
 
 
 ---
-**Author**
+#Author
 
 Lian CHEN  
 Laboratoire Ligérien de Linguistique (LLL UMR 7270)  
