@@ -2,7 +2,7 @@
 
 **OntoPhraseology-MWEs** is an open research repository providing a Linked Open Data representation of Chinese–French phraseological units and multiword expressions (MWEs) based on the OntoLex-Lemon model.
 
-The repository contains an ontology, multilingual datasets, RDF resources and reproducible notebooks developed for computational phraseology, multilingual NLP and Linguistic Linked Open Data (LLOD).
+The repository integrates multilingual resources developed across several complementary research projects, including work carried out during a COST Action UniDive Short-Term Scientific Mission (STSM).
 
 ---
 
@@ -125,14 +125,11 @@ Users working on other languages or domains are encouraged to adapt the ontology
 
 # Research Context
 
-This repository was initiated during a **Short-Term Scientific Mission (STSM)** hosted by the **CIRCSE Research Centre**, Università Cattolica del Sacro Cuore (Milan, Italy), in June 2026.
+This repository brings together research conducted over several years on Chinese–French phraseological resources and ontology modelling.
 
-The research stay was funded by **COST Action CA21167 – UniDive (Universality, Diversity and Idiosyncrasy in Language Technology).**
+The Chinese phraseological resources were developed prior to the STSM and have been published in ACL 2026. During the Short-Term Scientific Mission (STSM) hosted by the CIRCSE Research Centre, Università Cattolica del Sacro Cuore (Milan, Italy), in June 2026, the French phraseological resources were developed and the ontology design was further refined, particularly with respect to interoperability with Linguistic Linked Open Data (LLOD). The STSM was funded by COST Action CA21167 – UniDive (Universality, Diversity and Idiosyncrasy in Language Technology).
 
-Scientific discussions carried out during the STSM contributed to the ontology design, particularly regarding interoperability with Linguistic Linked Open Data resources.
-
-The repository continues to be maintained and extended by **CHEN Lian**.
-
+The current repository integrates these resources within a unified multilingual framework and continues to be maintained and extended by CHEN Lian.
 ---
 
 # Future Development
@@ -150,9 +147,12 @@ Future releases will include:
 
 # Citation
 
+Parts of this repository were developed within the framework of COST Action CA21167 – UniDive.
+
 If you use this repository in your research, please cite it.
 
 A permanent DOI and citation information will be provided after the first stable release through Zenodo.
+
 
 ---
 
@@ -181,6 +181,8 @@ ORCID: https://orcid.org/0000-0001-5609-7524
 
 # Acknowledgements
 
-This work was initiated during a COST Action UniDive (**Chair: Agata Savary**) Short-Term Scientific Mission (STSM) hosted by the CIRCSE Research Centre, Università Cattolica del Sacro Cuore.
+The development of the French phraseological resources and part of the ontology design was carried out during a COST Action UniDive (Chair: Agata Savary) Short-Term Scientific Mission (STSM) hosted by the CIRCSE Research Centre, Università Cattolica del Sacro Cuore.
 
-The author gratefully acknowledges **Prof. Marco C. Passarotti** and **Dr Francesco Mambrini** for valuable scientific discussions concerning ontology modelling and interoperability with Linguistic Linked Open Data.
+The author gratefully acknowledges COST Action CA21167 – UniDive for supporting the STSM, as well as Prof. Marco C. Passarotti and Dr Francesco Mambrini for valuable scientific discussions on ontology modelling and interoperability with Linguistic Linked Open Data.
+
+The Chinese phraseological resources included in this repository were developed independently before the STSM.
