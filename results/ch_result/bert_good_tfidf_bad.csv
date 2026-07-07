@@ -1,0 +1,8 @@
+﻿chengyu,gold,pred_rule,pred_tfidf,pred_bert,rule_correct,tfidf_correct,bert_correct
+剜肉补疮,行为,社会,社会,行为,False,False,True
+鸡犬不惊,行为,社会,社会,行为,False,False,True
+狗拿耗子,行为,社会,评价,行为,False,False,True
+笑口常开,情感,言语,言语,情感,False,False,True
+驴年马月,认知,行为,社会,认知,False,False,True
+尽心竭力,行为,情感,认知,行为,False,False,True
+居心叵测,行为,情感,情感,行为,False,False,True
