@@ -164,6 +164,19 @@ Ontology resources and research datasets are released for academic research purp
 
 Please cite the repository in any derivative work.
 
+
+
+---
+**Author**
+
+Lian CHEN  
+Laboratoire Ligérien de Linguistique (LLL UMR 7270)  
+Université d'Orléans  
+France
+
+ORCID: https://orcid.org/0000-0001-5609-7524
+
+
 ---
 
 # Acknowledgements
