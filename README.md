@@ -167,9 +167,9 @@ Please cite the repository in any derivative work.
 
 
 ---
-#Author
+# Author
 
-Lian CHEN  
+Lian CHEN 陈恋
 Laboratoire Ligérien de Linguistique (LLL UMR 7270)  
 Université d'Orléans  
 France
